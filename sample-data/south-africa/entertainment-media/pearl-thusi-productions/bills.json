@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Motsepe Productions Co.",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-01-23T00:00:00",
+    "dueDate": "2025-03-09T00:00:00",
+    "amount": 242048.45,
+    "paidAmount": 178372.71,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Mkhize Media Holdings",
+    "description": "Studio Recording Session",
+    "billDate": "2025-02-25T00:00:00",
+    "dueDate": "2025-03-27T00:00:00",
+    "amount": 18702.34,
+    "paidAmount": 18702.34,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Ramaphosa Creative Agency Group",
+    "description": "Management Fee",
+    "billDate": "2024-12-28T00:00:00",
+    "dueDate": "2025-01-27T00:00:00",
+    "amount": 227942.73,
+    "paidAmount": 227942.73,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Dlamini Media Solutions",
+    "description": "Management Fee",
+    "billDate": "2024-11-13T00:00:00",
+    "dueDate": "2024-12-28T00:00:00",
+    "amount": 255656.05,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Motsepe Productions Solutions",
+    "description": "Tour Logistics",
+    "billDate": "2024-12-04T00:00:00",
+    "dueDate": "2025-01-18T00:00:00",
+    "amount": 244694.57,
+    "paidAmount": 244694.57,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Motsepe Productions Solutions",
+    "description": "Social Media Management",
+    "billDate": "2024-09-24T00:00:00",
+    "dueDate": "2024-10-24T00:00:00",
+    "amount": 87225.72,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Motsepe Productions Co.",
+    "description": "Tour Logistics",
+    "billDate": "2025-01-15T00:00:00",
+    "dueDate": "2025-02-14T00:00:00",
+    "amount": 327903.21,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Dlamin Music Group Group",
+    "description": "Music Video Production",
+    "billDate": "2024-10-17T00:00:00",
+    "dueDate": "2024-11-16T00:00:00",
+    "amount": 71879.12,
+    "paidAmount": 71879.12,
+    "status": "Paid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Motsepe Music Group Enterprises",
+    "description": "Travel & Accommodation",
+    "billDate": "2025-02-15T00:00:00",
+    "dueDate": "2025-03-17T00:00:00",
+    "amount": 73458.93,
+    "paidAmount": 73458.93,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Nxumalo Entertainment Solutions",
+    "description": "Social Media Management",
+    "billDate": "2025-01-07T00:00:00",
+    "dueDate": "2025-01-22T00:00:00",
+    "amount": 242700.8,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Dlamin Music Group Group",
+    "description": "Music Video Production",
+    "billDate": "2025-02-01T00:00:00",
+    "dueDate": "2025-02-16T00:00:00",
+    "amount": 348223.22,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Motsepe Productions Solutions",
+    "description": "Music Video Production",
+    "billDate": "2025-03-07T00:00:00",
+    "dueDate": "2025-03-22T00:00:00",
+    "amount": 135865.48,
+    "paidAmount": 135865.48,
+    "status": "Paid"
+  }
+]

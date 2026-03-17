@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Ochieng Productions Holdings",
+    "description": "Music Video Production",
+    "orderDate": "2025-01-14T00:00:00",
+    "expectedDate": "2025-02-07T00:00:00",
+    "amount": 1134074.52,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Waweru Entertainment Limited",
+    "description": "Management Fee",
+    "orderDate": "2024-12-29T00:00:00",
+    "expectedDate": "2025-01-06T00:00:00",
+    "amount": 778946.12,
+    "receivedAmount": 378232.13,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Ruto Media Enterprises",
+    "description": "Social Media Management",
+    "orderDate": "2025-02-03T00:00:00",
+    "expectedDate": "2025-02-14T00:00:00",
+    "amount": 520374.85,
+    "receivedAmount": 520374.85,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Kimani Media Solutions",
+    "description": "Travel & Accommodation",
+    "orderDate": "2025-01-07T00:00:00",
+    "expectedDate": "2025-02-05T00:00:00",
+    "amount": 519429.82,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Kenyatta Media Ltd",
+    "description": "Management Fee",
+    "orderDate": "2024-12-28T00:00:00",
+    "expectedDate": "2025-01-24T00:00:00",
+    "amount": 1005059.7,
+    "receivedAmount": 477186.29,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Pending",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 6,
+    "poNumber": "PO-2025-006",
+    "vendorName": "Kariuki Creative Agency Holdings",
+    "description": "Management Fee",
+    "orderDate": "2025-02-13T00:00:00",
+    "expectedDate": "2025-03-13T00:00:00",
+    "amount": 991881.07,
+    "receivedAmount": 991881.07,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 7,
+    "poNumber": "PO-2025-007",
+    "vendorName": "Kimani Music Group Enterprises",
+    "description": "PR Campaign",
+    "orderDate": "2025-01-25T00:00:00",
+    "expectedDate": "2025-02-08T00:00:00",
+    "amount": 757371.7,
+    "receivedAmount": 757371.7,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  }
+]

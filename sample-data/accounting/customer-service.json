@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cust-001",
+    "customerName": "Zambia Music Awards",
+    "email": "events@zambiamusic.com",
+    "phone": "+260-97-2648346",
+    "address": "Plot 1883, Cairo Road, Lusaka",
+    "taxId": "TPIN-2919154511",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-002",
+    "customerName": "Showtime Events Ltd",
+    "email": "bookings@showtime.zm",
+    "phone": "+260-216-215629",
+    "address": "Plot 6051, Great East Road, Lusaka",
+    "taxId": "TPIN-2857085096",
+    "creditLimit": 80000.0,
+    "outstandingBalance": 25000.0
+  },
+  {
+    "id": "cust-003",
+    "customerName": "Mosi Lager Brand Team",
+    "email": "marketing@mosilager.zm",
+    "phone": "+260-216-722867",
+    "address": "Plot 285, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-5717740584",
+    "creditLimit": 100000.0,
+    "outstandingBalance": 0.0
+  },
+  {
+    "id": "cust-004",
+    "customerName": "ZNBC Television",
+    "email": "production@znbc.co.zm",
+    "phone": "+260-215-608315",
+    "address": "Plot 5120, Mass Media Complex, Lusaka",
+    "taxId": "TPIN-9760176573",
+    "creditLimit": 60000.0,
+    "outstandingBalance": 12000.0
+  },
+  {
+    "id": "cust-005",
+    "customerName": "Diamond TV Productions",
+    "email": "studio@diamondtv.zm",
+    "phone": "+260-215-763252",
+    "address": "Plot 9037, Kabwe Road, Lusaka",
+    "taxId": "TPIN-3898301608",
+    "creditLimit": 70000.0,
+    "outstandingBalance": 18000.0
+  },
+  {
+    "id": "cust-006",
+    "customerName": "Corporate Event Planners",
+    "email": "info@corporateevents.zm",
+    "phone": "+260-96-4912235",
+    "address": "Plot 881, Kafue Road, Lusaka",
+    "taxId": "TPIN-1364586850",
+    "creditLimit": 45000.0,
+    "outstandingBalance": 8000.0
+  },
+  {
+    "id": "cust-007",
+    "customerName": "Music Streaming Zambia",
+    "email": "royalties@streamzm.com",
+    "phone": "+260-97-2916180",
+    "address": "Plot 3029, Addis Ababa Drive, Lusaka",
+    "taxId": "TPIN-4964464787",
+    "creditLimit": 120000.0,
+    "outstandingBalance": 35000.0
+  },
+  {
+    "id": "cust-008",
+    "customerName": "Fashion Nova Zambia",
+    "email": "partnerships@fashionnova.zm",
+    "phone": "+260-77-4609554",
+    "address": "Plot 4110, Kabulonga Road, Lusaka",
+    "taxId": "TPIN-7652929736",
+    "creditLimit": 55000.0,
+    "outstandingBalance": 10000.0
+  },
+  {
+    "id": "cust-009",
+    "customerName": "Airtel Zambia Marketing",
+    "email": "brand@airtel.zm",
+    "phone": "+260-212-578571",
+    "address": "Plot 3407, Church Road, Lusaka",
+    "taxId": "TPIN-1406836426",
+    "creditLimit": 150000.0,
+    "outstandingBalance": 0.0
+  },
+  {
+    "id": "cust-010",
+    "customerName": "MTN Zambia Promotions",
+    "email": "sponsorships@mtn.zm",
+    "phone": "+260-96-9010378",
+    "address": "Plot 3450, Cairo Road, Lusaka",
+    "taxId": "TPIN-9718554105",
+    "creditLimit": 130000.0,
+    "outstandingBalance": 20000.0
+  },
+  {
+    "id": "cust-011",
+    "customerName": "Wedding Bells Events",
+    "email": "weddings@weddingbells.zm",
+    "phone": "+260-96-2319318",
+    "address": "Plot 4328, Kabulonga Road, Lusaka",
+    "taxId": "TPIN-8387194075",
+    "creditLimit": 40000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-012",
+    "customerName": "Real Estate Investment Trust",
+    "email": "invest@reit.zm",
+    "phone": "+260-217-511258",
+    "address": "Plot 6107, Haile Selassie Avenue, Lusaka",
+    "taxId": "TPIN-9210549840",
+    "creditLimit": 500000.0,
+    "outstandingBalance": 150000.0
+  },
+  {
+    "id": "cust-013",
+    "customerName": "Lusaka Property Management",
+    "email": "rentals@lusakaprop.zm",
+    "phone": "+260-212-996525",
+    "address": "Plot 2492, Thabo Mbeki Road, Lusaka",
+    "taxId": "TPIN-8050264790",
+    "creditLimit": 200000.0,
+    "outstandingBalance": 45000.0
+  },
+  {
+    "id": "cust-014",
+    "customerName": "Fine Dining Restaurant Group",
+    "email": "procurement@finedining.zm",
+    "phone": "+260-77-2419154",
+    "address": "Plot 5593, Chilimbulu Road, Lusaka",
+    "taxId": "TPIN-2451767496",
+    "creditLimit": 35000.0,
+    "outstandingBalance": 7500.0
+  },
+  {
+    "id": "cust-015",
+    "customerName": "Corporate Catering Solutions",
+    "email": "orders@corpcatering.zm",
+    "phone": "+260-96-6997332",
+    "address": "Plot 6714, Kafue Road, Lusaka",
+    "taxId": "TPIN-4119920870",
+    "creditLimit": 60000.0,
+    "outstandingBalance": 22000.0
+  },
+  {
+    "id": "cust-016",
+    "customerName": "Social Media Marketing Agency",
+    "email": "campaigns@socialmm.zm",
+    "phone": "+260-215-856159",
+    "address": "Plot 9912, Independence Avenue, Lusaka",
+    "taxId": "TPIN-3441601994",
+    "creditLimit": 75000.0,
+    "outstandingBalance": 18000.0
+  },
+  {
+    "id": "cust-017",
+    "customerName": "Beauty & Lifestyle Brands",
+    "email": "influencer@beautylifestyle.zm",
+    "phone": "+260-76-1352020",
+    "address": "Plot 5544, Lumumba Road, Lusaka",
+    "taxId": "TPIN-6851957583",
+    "creditLimit": 90000.0,
+    "outstandingBalance": 25000.0
+  },
+  {
+    "id": "cust-018",
+    "customerName": "Youth Entertainment Hub",
+    "email": "bookings@youthhub.zm",
+    "phone": "+260-96-4891807",
+    "address": "Plot 4810, Great East Road, Kitwe",
+    "taxId": "TPIN-8321752917",
+    "creditLimit": 55000.0,
+    "outstandingBalance": 12000.0
+  },
+  {
+    "id": "cust-019",
+    "customerName": "Festival Organizers Zambia",
+    "email": "info@festivalzm.com",
+    "phone": "+260-77-6703414",
+    "address": "Plot 166, Chilimbulu Road, Lusaka",
+    "taxId": "TPIN-4961569476",
+    "creditLimit": 85000.0,
+    "outstandingBalance": 30000.0
+  },
+  {
+    "id": "cust-020",
+    "customerName": "Recording Studios Ltd",
+    "email": "booking@recordstudios.zm",
+    "phone": "+260-76-3343957",
+    "address": "Plot 2634, Addis Ababa Drive, Lusaka",
+    "taxId": "TPIN-3086344558",
+    "creditLimit": 45000.0,
+    "outstandingBalance": 9000.0
+  },
+  {
+    "id": "cust-021",
+    "customerName": "Nightclub Entertainment Venues",
+    "email": "events@nightclubzm.com",
+    "phone": "+260-216-587896",
+    "address": "Plot 7875, Chilimbulu Road, Lusaka",
+    "taxId": "TPIN-2112600938",
+    "creditLimit": 65000.0,
+    "outstandingBalance": 20000.0
+  },
+  {
+    "id": "cust-022",
+    "customerName": "University Student Union",
+    "email": "entertainment@unzasu.zm",
+    "phone": "+260-77-1203788",
+    "address": "Plot 4855, Great East Road, Lusaka",
+    "taxId": "TPIN-9943929529",
+    "creditLimit": 40000.0,
+    "outstandingBalance": 8500.0
+  },
+  {
+    "id": "cust-023",
+    "customerName": "Radio Phoenix Broadcasting",
+    "email": "ads@radiophoenix.zm",
+    "phone": "+260-96-1973382",
+    "address": "Plot 8675, Freedom Way, Lusaka",
+    "taxId": "TPIN-9632374617",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-024",
+    "customerName": "Food Delivery Services",
+    "email": "partners@fooddelivery.zm",
+    "phone": "+260-95-5105213",
+    "address": "Plot 2441, Great East Road, Lusaka",
+    "taxId": "TPIN-3727214255",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 6000.0
+  },
+  {
+    "id": "cust-025",
+    "customerName": "Tourism Promotion Board",
+    "email": "events@tourism.gov.zm",
+    "phone": "+260-211-424681",
+    "address": "Plot 9300, Independence Avenue, Lusaka",
+    "taxId": "TPIN-2197624976",
+    "creditLimit": 100000.0,
+    "outstandingBalance": 35000.0
+  },
+  {
+    "id": "cust-026",
+    "customerName": "Merchandise Manufacturing Ltd",
+    "email": "orders@merchandise.zm",
+    "phone": "+260-216-646537",
+    "address": "Plot 3366, Industrial Road, Lusaka",
+    "taxId": "TPIN-5265043248",
+    "creditLimit": 55000.0,
+    "outstandingBalance": 14000.0
+  },
+  {
+    "id": "cust-027",
+    "customerName": "Photography Studios Zambia",
+    "email": "bookings@photostudio.zm",
+    "phone": "+260-211-474112",
+    "address": "Plot 5644, Kabulonga Road, Lusaka",
+    "taxId": "TPIN-9110715369",
+    "creditLimit": 40000.0,
+    "outstandingBalance": 11000.0
+  },
+  {
+    "id": "cust-028",
+    "customerName": "Video Production House",
+    "email": "projects@videoproduction.zm",
+    "phone": "+260-211-532165",
+    "address": "Plot 7749, Kafue Road, Lusaka",
+    "taxId": "TPIN-9660748606",
+    "creditLimit": 65000.0,
+    "outstandingBalance": 19000.0
+  },
+  {
+    "id": "cust-029",
+    "customerName": "Brand Activation Agency",
+    "email": "campaigns@brandactivation.zm",
+    "phone": "+260-95-6749047",
+    "address": "Plot 1211, Cairo Road, Lusaka",
+    "taxId": "TPIN-4662365954",
+    "creditLimit": 70000.0,
+    "outstandingBalance": 23000.0
+  },
+  {
+    "id": "cust-030",
+    "customerName": "Concert Promoters International",
+    "email": "bookings@concertpromoters.zm",
+    "phone": "+260-213-920872",
+    "address": "Plot 1645, Independence Avenue, Lusaka",
+    "taxId": "TPIN-7853385238",
+    "creditLimit": 95000.0,
+    "outstandingBalance": 28000.0
+  }
+]

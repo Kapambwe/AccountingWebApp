@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Benhaddou Media Limited",
+    "description": "Music Video Production",
+    "billDate": "2024-09-28T00:00:00",
+    "dueDate": "2024-10-13T00:00:00",
+    "amount": 324011.85,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Lahlou Entertainment Holdings",
+    "description": "Music Video Production",
+    "billDate": "2024-10-03T00:00:00",
+    "dueDate": "2024-10-18T00:00:00",
+    "amount": 67952.43,
+    "paidAmount": 67952.43,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Tahiri Entertainment Enterprises",
+    "description": "Management Fee",
+    "billDate": "2024-10-07T00:00:00",
+    "dueDate": "2024-10-22T00:00:00",
+    "amount": 311495.91,
+    "paidAmount": 311495.91,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Chraibi Media Group",
+    "description": "Studio Recording Session",
+    "billDate": "2025-02-26T00:00:00",
+    "dueDate": "2025-03-13T00:00:00",
+    "amount": 292534.09,
+    "paidAmount": 292534.09,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Benhaddou Media Limited",
+    "description": "Studio Recording Session",
+    "billDate": "2024-11-19T00:00:00",
+    "dueDate": "2024-12-19T00:00:00",
+    "amount": 8806.71,
+    "paidAmount": 8806.71,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Benhaddou Media Limited",
+    "description": "PR Campaign",
+    "billDate": "2024-10-30T00:00:00",
+    "dueDate": "2024-11-29T00:00:00",
+    "amount": 34855.01,
+    "paidAmount": 34855.01,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Berrada Creative Agency Solutions",
+    "description": "Management Fee",
+    "billDate": "2025-01-14T00:00:00",
+    "dueDate": "2025-01-29T00:00:00",
+    "amount": 307326.23,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Chraibi Media Group",
+    "description": "PR Campaign",
+    "billDate": "2024-11-16T00:00:00",
+    "dueDate": "2024-12-16T00:00:00",
+    "amount": 322991.15,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Benhaddou Media Limited",
+    "description": "PR Campaign",
+    "billDate": "2025-02-08T00:00:00",
+    "dueDate": "2025-03-25T00:00:00",
+    "amount": 187950.7,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Berrada Creative Agency Solutions",
+    "description": "Social Media Management",
+    "billDate": "2025-03-07T00:00:00",
+    "dueDate": "2025-03-22T00:00:00",
+    "amount": 318871.96,
+    "paidAmount": 318871.96,
+    "status": "Paid"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Benhaddou Media Limited",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-11-10T00:00:00",
+    "dueDate": "2024-11-25T00:00:00",
+    "amount": 247949.09,
+    "paidAmount": 87264.35,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Chraibi Media Group",
+    "description": "Management Fee",
+    "billDate": "2024-11-05T00:00:00",
+    "dueDate": "2024-12-20T00:00:00",
+    "amount": 93017.7,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Tahiri Entertainment Enterprises",
+    "description": "Travel & Accommodation",
+    "billDate": "2025-03-02T00:00:00",
+    "dueDate": "2025-04-16T00:00:00",
+    "amount": 150430.9,
+    "paidAmount": 64602.42,
+    "status": "PartiallyPaid"
+  }
+]

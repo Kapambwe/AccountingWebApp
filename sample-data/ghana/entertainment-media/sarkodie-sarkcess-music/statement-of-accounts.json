@@ -1,0 +1,114 @@
+{
+  "companyName": "Sarkodie Sarkcess Music",
+  "companyAddress": "Tamale, Ghana",
+  "companyTaxId": "GRA-8796080-SSM",
+  "generatedDate": "2025-09-30",
+  "currency": "GHS",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Kumasi Holdings Ltd",
+      "customerEmail": "billing@kumasi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-19",
+          "reference": "INV-G-2025-013",
+          "description": "Exclusive brand deal - Q3",
+          "debit": 138500,
+          "credit": 0.0,
+          "balance": 138500
+        }
+      ],
+      "closingBalance": 138500,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Ashanti Solutions Ltd",
+      "customerEmail": "accounts@ashanti.com.gh",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-21",
+          "reference": "INV-G-2025-027",
+          "description": "Live concert performance fee",
+          "debit": 112000,
+          "credit": 0.0,
+          "balance": 112000
+        },
+        {
+          "date": "2025-04-06",
+          "reference": "PMT-G-2025-023",
+          "description": "Payment received - mobile money",
+          "debit": 0.0,
+          "credit": 112000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Kumasi Enterprises Ltd",
+      "customerEmail": "contact@kumasi.com.gh",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-06",
+          "reference": "INV-G-2025-033",
+          "description": "Digital content licensing fee",
+          "debit": 185000,
+          "credit": 0.0,
+          "balance": 185000
+        }
+      ],
+      "closingBalance": 185000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Volta Group Ltd",
+      "customerEmail": "finance@volta.com.gh",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-22",
+          "reference": "INV-G-2025-044",
+          "description": "Endorsement deal - Q3",
+          "debit": 258000,
+          "credit": 0.0,
+          "balance": 258000
+        },
+        {
+          "date": "2025-05-07",
+          "reference": "PMT-G-2025-041",
+          "description": "Payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 258000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 693500,
+    "totalReceived": 370000,
+    "totalOutstanding": 323500,
+    "totalOverdue": 323500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 0.0,
+      "over90days": 323500.0
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "companyName": "Ammara Brown Entertainment",
+  "companyAddress": "Mutare, Zimbabwe",
+  "companyTaxId": "ZIMRA-2625675-ABE",
+  "generatedDate": "2025-09-30",
+  "currency": "USD",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Mazowe Holdings Ltd",
+      "customerEmail": "accounts@mazowe.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-11",
+          "reference": "INV-Z-2025-013",
+          "description": "Exclusive brand deal - Q2",
+          "debit": 31000,
+          "credit": 0.0,
+          "balance": 31000
+        }
+      ],
+      "closingBalance": 31000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Great Zimbabwe Industries Ltd",
+      "customerEmail": "finance@great.co.zw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-22",
+          "reference": "INV-Z-2025-029",
+          "description": "Endorsement deal - Q2",
+          "debit": 32500,
+          "credit": 0.0,
+          "balance": 32500
+        }
+      ],
+      "closingBalance": 32500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Victoria Trading (Pvt) Ltd",
+      "customerEmail": "contact@victoria.co.zw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-15",
+          "reference": "INV-Z-2025-033",
+          "description": "Digital content licensing fee",
+          "debit": 18000,
+          "credit": 0.0,
+          "balance": 18000
+        }
+      ],
+      "closingBalance": 18000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Great Zimbabwe Group Ltd",
+      "customerEmail": "billing@great.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-20",
+          "reference": "INV-Z-2025-045",
+          "description": "Brand ambassador fee - Q2 campaign",
+          "debit": 27000,
+          "credit": 0.0,
+          "balance": 27000
+        },
+        {
+          "date": "2025-03-13",
+          "reference": "PMT-Z-2025-041",
+          "description": "Partial payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 17500,
+          "balance": 9500
+        }
+      ],
+      "closingBalance": 9500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Mutare Enterprises (Pvt) Ltd",
+      "customerEmail": "info@mutare.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-18",
+          "reference": "INV-Z-2025-051",
+          "description": "Headline performance - National Arts Festival",
+          "debit": 12500,
+          "credit": 0.0,
+          "balance": 12500
+        },
+        {
+          "date": "2025-03-28",
+          "reference": "PMT-Z-2025-059",
+          "description": "Partial payment received - mobile money",
+          "debit": 0.0,
+          "credit": 8500,
+          "balance": 4000
+        }
+      ],
+      "closingBalance": 4000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Matobo Group Ltd",
+      "customerEmail": "info@matobo.co.zw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-07",
+          "reference": "INV-Z-2025-066",
+          "description": "Royalty payment - streaming Q3 2025",
+          "debit": 25500,
+          "credit": 0.0,
+          "balance": 25500
+        },
+        {
+          "date": "2025-05-26",
+          "reference": "PMT-Z-2025-066",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 25500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 146500,
+    "totalReceived": 51500,
+    "totalOutstanding": 95000,
+    "totalOverdue": 62500.0,
+    "agingSummary": {
+      "current": 32500.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 49000.0,
+      "over90days": 13500.0
+    }
+  }
+}

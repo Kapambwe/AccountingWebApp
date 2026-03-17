@@ -1,0 +1,114 @@
+{
+  "companyName": "Jose Chameleone Leone Island",
+  "companyAddress": "Gulu, Uganda",
+  "companyTaxId": "URA-3714399-JCLI",
+  "generatedDate": "2025-09-30",
+  "currency": "UGX",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Kampala Holdings Ltd",
+      "customerEmail": "accounts@kampala.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-16",
+          "reference": "INV-U-2025-019",
+          "description": "Digital content licensing fee",
+          "debit": 21494000,
+          "credit": 0.0,
+          "balance": 21494000
+        },
+        {
+          "date": "2025-03-19",
+          "reference": "PMT-U-2025-014",
+          "description": "Partial payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 8073000,
+          "balance": 13421000
+        }
+      ],
+      "closingBalance": 13421000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Nile Holdings Ltd",
+      "customerEmail": "contact@nile.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-10",
+          "reference": "INV-U-2025-023",
+          "description": "Endorsement deal - Apr-Jun",
+          "debit": 15546500,
+          "credit": 0.0,
+          "balance": 15546500
+        }
+      ],
+      "closingBalance": 15546500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Bunyoro Trading Ltd",
+      "customerEmail": "contact@bunyoro.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-12",
+          "reference": "INV-U-2025-033",
+          "description": "Royalty payment - streaming Q1 2025",
+          "debit": 24720500,
+          "credit": 0.0,
+          "balance": 24720500
+        },
+        {
+          "date": "2025-07-08",
+          "reference": "PMT-U-2025-035",
+          "description": "Partial partial payment received",
+          "debit": 0.0,
+          "credit": 16618500,
+          "balance": 8102000
+        }
+      ],
+      "closingBalance": 8102000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Busoga Trading Ltd",
+      "customerEmail": "accounts@busoga.co.ug",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-08-13",
+          "reference": "INV-U-2025-047",
+          "description": "Merchandise partnership revenue",
+          "debit": 6764500,
+          "credit": 0.0,
+          "balance": 6764500
+        }
+      ],
+      "closingBalance": 6764500,
+      "status": "Outstanding"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 68525500,
+    "totalReceived": 24691500,
+    "totalOutstanding": 43834000,
+    "totalOverdue": 28287500.0,
+    "agingSummary": {
+      "current": 15546500.0,
+      "days1to30": 6764500.0,
+      "days31to60": 0.0,
+      "days61to90": 8102000.0,
+      "over90days": 13421000.0
+    }
+  }
+}

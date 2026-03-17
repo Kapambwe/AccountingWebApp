@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Accounting Web App</title>
+    
+    <!-- Dynamic base path - works for local, GitHub Pages, and Cloudflare Pages -->
+    <!-- IMPORTANT: Script MUST run BEFORE base tag to prevent initial 404 errors -->
+    <script>
+        // Detect environment and set correct base path IMMEDIATELY
+        (function() {
+            var hostname = window.location.hostname;
+            var basePath = '/';
+            
+            // GitHub Pages detection
+            if (hostname === 'kapambwe.github.io' || hostname.includes('github.io')) {
+                basePath = '/AccountingWebApp/';
+                console.log('🌐 GitHub Pages detected - using base: /AccountingWebApp/');
+            }
+            // Cloudflare Pages detection (.pages.dev domain)
+            else if (hostname.includes('pages.dev')) {
+                basePath = '/';
+                console.log('☁️ Cloudflare Pages detected - using base: /');
+            }
+            // Custom domain or local development
+            else {
+                basePath = '/';
+                console.log('💻 Local/Custom domain detected - using base: /');
+            }
+            
+            // Write the base tag with correct href IMMEDIATELY
+            document.write('<base href="' + basePath + '" />');
+        })();
+    </script>
+    
+    <!-- Single Page App for GitHub Pages -->
+    <!-- Start Single Page App script -->
+    <script type="text/javascript">
+        // Single Page App for GitHub Pages
+        // https://github.com/rafgraph/spa-github-pages
+        (function(l) {
+            if (l.search[1] === '/' ) {
+                var decoded = l.search.slice(1).split('&').map(function(s) { 
+                    return s.replace(/~and~/g, '&')
+                }).join('?');
+                window.history.replaceState(null, null,
+                    l.pathname.slice(0, -1) + decoded + l.hash
+                );
+            }
+        }(window.location))
+    </script>
+    <!-- End Single Page App script -->
+    
+    <!-- Defer non-critical CSS to avoid blocking render -->
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="css/app.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="_content/Radzen.Blazor/css/material-base.css" media="print" onload="this.media='all'">
+    <noscript>
+        <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/app.css">
+        <link rel="stylesheet" href="_content/Radzen.Blazor/css/material-base.css">
+    </noscript>
+    
+    <link rel="icon" type="image/png" href="favicon.png" />
+</head>
+<body>
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text">Loading...</div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="." class="reload">Reload</a>
+        <span class="dismiss">🗙</span>
+    </div>
+    
+    <!-- Load Blazor scripts dynamically to respect base path -->
+    <script>
+        (function() {
+            // Get the base path that was set earlier
+            var baseElement = document.querySelector('base');
+            var basePath = baseElement ? baseElement.getAttribute('href') : '/';
+            
+            // Ensure basePath doesn't have double slashes
+            if (basePath === '/') {
+                basePath = '';
+            } else if (basePath.endsWith('/')) {
+                basePath = basePath.slice(0, -1);
+            }
+            
+            // Load Blazor WebAssembly script
+            var blazorScript = document.createElement('script');
+            blazorScript.src = basePath + '/_framework/blazor.webassembly.js';
+            blazorScript.defer = true;
+            document.body.appendChild(blazorScript);
+            
+            // Load Radzen script
+            var radzenScript = document.createElement('script');
+            radzenScript.src = basePath + '/_content/Radzen.Blazor/Radzen.Blazor.js';
+            radzenScript.defer = true;
+            document.body.appendChild(radzenScript);
+            
+            console.log('📦 Scripts loaded with base path:', basePath || '(root)');
+        })();
+    </script>
+    <script>
+        window.accountingWebApp = window.accountingWebApp || {};
+        window.accountingWebApp.getCurrentOrigin = function () {
+            return window.location.origin;
+        };
+        window.accountingWebApp.loadSameOriginText = async function (path) {
+            var normalizedPath = path && path.charAt(0) === '/' ? path : '/' + path;
+            var url = window.location.origin + normalizedPath;
+            console.log('📄 Loading same-origin text from:', url);
+            var response = await fetch(url, {
+                credentials: 'same-origin'
+            });
+
+            if (!response.ok) {
+                throw new Error('Failed to load ' + normalizedPath + ': ' + response.status + ' ' + response.statusText);
+            }
+
+            return await response.text();
+        };
+
+        (function () {
+            var originalFetch = window.fetch.bind(window);
+
+            window.fetch = function (resource, init) {
+                var requestUrl = typeof resource === 'string'
+                    ? resource
+                    : (resource && resource.url ? resource.url : String(resource));
+
+                if (requestUrl === 'http://localhost:5000/sample-data/directory-structure.json') {
+                    var sameOriginUrl = window.location.origin + '/sample-data/directory-structure.json';
+                    console.log('🔁 Rewriting sample-data fetch to app origin:', sameOriginUrl);
+
+                    if (resource instanceof Request) {
+                        resource = new Request(sameOriginUrl, resource);
+                    } else {
+                        resource = sameOriginUrl;
+                    }
+                }
+
+                return originalFetch(resource, init);
+            };
+        })();
+    </script>
+</body>
+
+</html>
+
