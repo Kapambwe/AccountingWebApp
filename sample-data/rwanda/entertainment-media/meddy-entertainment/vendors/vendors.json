@@ -1,0 +1,122 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Nsengimana Kagame",
+      "companyName": "Uwimana Entertainment Limited",
+      "contactPerson": "Nsengimana Kagame",
+      "email": "nsengimanaka@kagame.co.rw",
+      "phone": "+250 007 791 169",
+      "city": "Gisenyi",
+      "country": "Rwanda",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-290810",
+      "totalAmountOwed": 28594.91
+    },
+    {
+      "id": 2,
+      "vendorName": "Ndayishimiye Twagirayezu",
+      "companyName": "Rugamba Entertainment Co.",
+      "contactPerson": "Ndayishimiye Twagirayezu",
+      "email": "ndayishimiye@twagirayezu.co.rw",
+      "phone": "+250 739 009 557",
+      "city": "Ruhengeri",
+      "country": "Rwanda",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-556216",
+      "totalAmountOwed": 15764.06
+    },
+    {
+      "id": 3,
+      "vendorName": "Uwera Karugarama",
+      "companyName": "Murekezi Productions Solutions",
+      "contactPerson": "Uwera Karugarama",
+      "email": "uwerakarugar@karugarama.co.rw",
+      "phone": "+250 911 536 145",
+      "city": "Byumba",
+      "country": "Rwanda",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-664564",
+      "totalAmountOwed": 917461.22
+    },
+    {
+      "id": 4,
+      "vendorName": "Mutabazi Bizimungu",
+      "companyName": "Habyarimana Media Inc.",
+      "contactPerson": "Mutabazi Bizimungu",
+      "email": "mutabazibizi@bizimungu.co.rw",
+      "phone": "+250 648 201 223",
+      "city": "Byumba",
+      "country": "Rwanda",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-315147",
+      "totalAmountOwed": 268857.53
+    },
+    {
+      "id": 5,
+      "vendorName": "Uwera Makuza",
+      "companyName": "Murekezi Entertainment Co.",
+      "contactPerson": "Uwera Makuza",
+      "email": "uweramakuza@makuza.co.rw",
+      "phone": "+250 268 230 300",
+      "city": "Cyangugu",
+      "country": "Rwanda",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-125485",
+      "totalAmountOwed": 546381.77
+    },
+    {
+      "id": 6,
+      "vendorName": "Niyomugabo Rugamba",
+      "companyName": "Habyarimana Entertainment Group",
+      "contactPerson": "Niyomugabo Rugamba",
+      "email": "niyomugaboru@rugamba.co.rw",
+      "phone": "+250 207 302 436",
+      "city": "Cyangugu",
+      "country": "Rwanda",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-195923",
+      "totalAmountOwed": 456533.69
+    },
+    {
+      "id": 7,
+      "vendorName": "Uwase Habyarimana",
+      "companyName": "Gashumba Creative Agency Limited",
+      "contactPerson": "Uwase Habyarimana",
+      "email": "uwasehabyari@habyarimana.co.rw",
+      "phone": "+250 481 057 358",
+      "city": "Butare",
+      "country": "Rwanda",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-941641",
+      "totalAmountOwed": 786821.47
+    },
+    {
+      "id": 8,
+      "vendorName": "Mutabazi Karugarama",
+      "companyName": "Twagirayezu Entertainment Limited",
+      "contactPerson": "Mutabazi Karugarama",
+      "email": "mutabazikaru@karugarama.co.rw",
+      "phone": "+250 602 118 241",
+      "city": "Butare",
+      "country": "Rwanda",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-544792",
+      "totalAmountOwed": 415704.3
+    },
+    {
+      "id": 9,
+      "vendorName": "Mugisha Musoni",
+      "companyName": "Twagirayezu Music Group Holdings",
+      "contactPerson": "Mugisha Musoni",
+      "email": "mugishamuson@musoni.co.rw",
+      "phone": "+250 567 360 339",
+      "city": "Byumba",
+      "country": "Rwanda",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-876209",
+      "totalAmountOwed": 334214.39
+    }
+  ],
+  "vendorCredits": []
+}

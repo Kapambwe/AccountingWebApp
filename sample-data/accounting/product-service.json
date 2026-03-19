@@ -1,0 +1,272 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Music Album - Digital Download",
+    "productCode": "YM-ALB-001",
+    "category": "Music",
+    "price": 50.00,
+    "cost": 15.00,
+    "description": "Digital music album by Yo Maps Yo"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Music Album - Physical CD",
+    "productCode": "YM-CD-002",
+    "category": "Music",
+    "price": 100.00,
+    "cost": 30.00,
+    "description": "Physical CD album by Yo Maps Yo"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Concert Ticket - VIP",
+    "productCode": "YM-TKT-003",
+    "category": "Music",
+    "price": 500.00,
+    "cost": 100.00,
+    "description": "VIP concert ticket"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Concert Ticket - Regular",
+    "productCode": "YM-TKT-004",
+    "category": "Music",
+    "price": 200.00,
+    "cost": 50.00,
+    "description": "Regular concert ticket"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Property Rental - Residential",
+    "productCode": "YM-RENT-005",
+    "category": "Real Estate",
+    "price": 5000.00,
+    "cost": 1000.00,
+    "description": "Monthly residential property rental"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Property Rental - Commercial",
+    "productCode": "YM-RENT-006",
+    "category": "Real Estate",
+    "price": 15000.00,
+    "cost": 3000.00,
+    "description": "Monthly commercial property rental"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Media Production Services",
+    "productCode": "MM-PROD-007",
+    "category": "Media",
+    "price": 8000.00,
+    "cost": 2500.00,
+    "description": "Media production by Mutale Mwanza"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Brand Influencer Campaign",
+    "productCode": "MM-INF-008",
+    "category": "Media",
+    "price": 12000.00,
+    "cost": 2000.00,
+    "description": "Social media influencer campaign"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Music Album - Macky 2",
+    "productCode": "MK2-ALB-009",
+    "category": "Music",
+    "price": 60.00,
+    "cost": 18.00,
+    "description": "Digital music album by Macky 2"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Concert Performance - Macky 2",
+    "productCode": "MK2-PERF-010",
+    "category": "Music",
+    "price": 25000.00,
+    "cost": 8000.00,
+    "description": "Live performance booking for Macky 2"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Property Sale - Residential",
+    "productCode": "MK2-SALE-011",
+    "category": "Real Estate",
+    "price": 850000.00,
+    "cost": 600000.00,
+    "description": "Residential property sale"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Property Sale - Commercial",
+    "productCode": "MK2-SALE-012",
+    "category": "Real Estate",
+    "price": 1500000.00,
+    "cost": 1000000.00,
+    "description": "Commercial property sale"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Restaurant Meal - Meat Topia Platter",
+    "productCode": "MT-MEAL-013",
+    "category": "Restaurant",
+    "price": 250.00,
+    "cost": 80.00,
+    "description": "Signature meat platter at Meat Topia"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Restaurant Meal - Grill Special",
+    "productCode": "MT-MEAL-014",
+    "category": "Restaurant",
+    "price": 180.00,
+    "cost": 60.00,
+    "description": "Grilled meat special at Meat Topia"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Restaurant Catering Service",
+    "productCode": "MT-CAT-015",
+    "category": "Restaurant",
+    "price": 5000.00,
+    "cost": 2000.00,
+    "description": "Catering service for events"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Brand Endorsement - Mwizukanji",
+    "productCode": "MWZ-END-016",
+    "category": "Influencer",
+    "price": 15000.00,
+    "cost": 2500.00,
+    "description": "Brand endorsement deal"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Music Album - Chef 187",
+    "productCode": "C187-ALB-017",
+    "category": "Music",
+    "price": 55.00,
+    "cost": 16.00,
+    "description": "Digital music album by Chef 187"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Concert Performance - Chef 187",
+    "productCode": "C187-PERF-018",
+    "category": "Music",
+    "price": 28000.00,
+    "cost": 9000.00,
+    "description": "Live performance booking for Chef 187"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Property Investment - Chef 187",
+    "productCode": "C187-INV-019",
+    "category": "Real Estate",
+    "price": 1200000.00,
+    "cost": 850000.00,
+    "description": "Property investment opportunity"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Music Album - Slapdee",
+    "productCode": "SD-ALB-020",
+    "category": "Music",
+    "price": 65.00,
+    "cost": 20.00,
+    "description": "Digital music album by Slapdee"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Concert Performance - Slapdee",
+    "productCode": "SD-PERF-021",
+    "category": "Music",
+    "price": 30000.00,
+    "cost": 10000.00,
+    "description": "Live performance booking for Slapdee"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Property Lease - Slapdee Properties",
+    "productCode": "SD-LEASE-022",
+    "category": "Real Estate",
+    "price": 12000.00,
+    "cost": 2500.00,
+    "description": "Commercial property lease"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Music Streaming Revenue Share",
+    "productCode": "STRM-023",
+    "category": "Music",
+    "price": 10000.00,
+    "cost": 3000.00,
+    "description": "Monthly streaming revenue distribution"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Music Video Production",
+    "productCode": "VID-024",
+    "category": "Music",
+    "price": 15000.00,
+    "cost": 5000.00,
+    "description": "Music video production services"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Event Hosting Package",
+    "productCode": "EVT-025",
+    "category": "Services",
+    "price": 20000.00,
+    "cost": 6000.00,
+    "description": "Event hosting and MC services"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Restaurant Beverage Package",
+    "productCode": "MT-BEV-026",
+    "category": "Restaurant",
+    "price": 150.00,
+    "cost": 45.00,
+    "description": "Premium beverage package at Meat Topia"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Social Media Content Creation",
+    "productCode": "SM-CONT-027",
+    "category": "Media",
+    "price": 3000.00,
+    "cost": 800.00,
+    "description": "Social media content creation package"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Merchandise - Artist Branded",
+    "productCode": "MERCH-028",
+    "category": "Merchandise",
+    "price": 120.00,
+    "cost": 40.00,
+    "description": "Artist branded merchandise"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Photography Services",
+    "productCode": "PHOTO-029",
+    "category": "Media",
+    "price": 2500.00,
+    "cost": 700.00,
+    "description": "Professional photography services"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Property Management Services",
+    "productCode": "PM-030",
+    "category": "Real Estate",
+    "price": 3000.00,
+    "cost": 1000.00,
+    "description": "Monthly property management services"
+  }
+]

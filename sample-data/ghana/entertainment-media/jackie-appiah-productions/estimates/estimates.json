@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 5,
+    "customerName": "Attah Creative Agency Limited",
+    "estimateDateDaysAgo": 57,
+    "expirationDateDaysFromNow": 39,
+    "status": "Open",
+    "subTotal": 386872.15,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 386872.15,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 57,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 3,
+        "unitPrice": 128957.38,
+        "amount": 386872.15,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 56
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 9,
+    "customerName": "Asante Entertainment Co.",
+    "estimateDateDaysAgo": 60,
+    "expirationDateDaysFromNow": 25,
+    "status": "Open",
+    "subTotal": 241719.15,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 241719.15,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 60,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 1,
+        "unitPrice": 241719.15,
+        "amount": 241719.15,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 59
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 5,
+    "customerName": "Attah Creative Agency Limited",
+    "estimateDateDaysAgo": 24,
+    "expirationDateDaysFromNow": 43,
+    "status": "Open",
+    "subTotal": 269381.32,
+    "taxRate": 16,
+    "taxAmount": 43101.01,
+    "total": 312482.33,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 24,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 5,
+        "unitPrice": 53876.26,
+        "amount": 269381.32,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 23
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 1,
+    "customerName": "Bonsu Music Group Ltd",
+    "estimateDateDaysAgo": 46,
+    "expirationDateDaysFromNow": 29,
+    "status": "Draft",
+    "subTotal": 95876.9,
+    "taxRate": 18,
+    "taxAmount": 17257.84,
+    "total": 113134.74,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 46,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 3,
+        "unitPrice": 31958.97,
+        "amount": 95876.9,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 2,
+    "customerName": "Boateng Productions Enterprises",
+    "estimateDateDaysAgo": 30,
+    "expirationDateDaysFromNow": 30,
+    "status": "Sent",
+    "subTotal": 254287.64,
+    "taxRate": 15,
+    "taxAmount": 38143.15,
+    "total": 292430.79,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 30,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 4,
+        "unitPrice": 63571.91,
+        "amount": 254287.64,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 29
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 1,
+    "customerName": "Bonsu Music Group Ltd",
+    "estimateDateDaysAgo": 29,
+    "expirationDateDaysFromNow": 23,
+    "status": "Expired",
+    "subTotal": 157079.11,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 157079.11,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 29,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 1,
+        "unitPrice": 157079.11,
+        "amount": 157079.11,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 28
+  }
+]

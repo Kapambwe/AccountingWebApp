@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 10,
+    "customerName": "Kiggundu Music Group Holdings",
+    "estimateDateDaysAgo": 41,
+    "expirationDateDaysFromNow": 19,
+    "status": "Expired",
+    "subTotal": 12463646.51,
+    "taxRate": 18,
+    "taxAmount": 2243456.37,
+    "total": 14707102.88,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 41,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 3,
+        "unitPrice": 4154548.84,
+        "amount": 12463646.51,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 40
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 2,
+    "customerName": "Byekwaso Media Group",
+    "estimateDateDaysAgo": 45,
+    "expirationDateDaysFromNow": 39,
+    "status": "Accepted",
+    "subTotal": 2034711.49,
+    "taxRate": 15,
+    "taxAmount": 305206.72,
+    "total": 2339918.21,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 45,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 1,
+        "unitPrice": 2034711.49,
+        "amount": 2034711.49,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 44
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 7,
+    "customerName": "Kyeyune Creative Agency Solutions",
+    "estimateDateDaysAgo": 5,
+    "expirationDateDaysFromNow": 25,
+    "status": "Draft",
+    "subTotal": 18869975.32,
+    "taxRate": 16,
+    "taxAmount": 3019196.05,
+    "total": 21889171.37,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 5,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 3,
+        "unitPrice": 6289991.77,
+        "amount": 18869975.32,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 1,
+    "customerName": "Lutalo Productions Inc.",
+    "estimateDateDaysAgo": 30,
+    "expirationDateDaysFromNow": 24,
+    "status": "Expired",
+    "subTotal": 7204479.47,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 7204479.47,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 30,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 4,
+        "unitPrice": 1801119.87,
+        "amount": 7204479.47,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 29
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 11,
+    "customerName": "Tumwesigye Productions Inc.",
+    "estimateDateDaysAgo": 55,
+    "expirationDateDaysFromNow": 37,
+    "status": "Expired",
+    "subTotal": 14555186.13,
+    "taxRate": 15,
+    "taxAmount": 2183277.92,
+    "total": 16738464.05,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 55,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 4,
+        "unitPrice": 3638796.53,
+        "amount": 14555186.13,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 54
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 7,
+    "customerName": "Kyeyune Creative Agency Solutions",
+    "estimateDateDaysAgo": 60,
+    "expirationDateDaysFromNow": 28,
+    "status": "Sent",
+    "subTotal": 35041275.35,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 35041275.35,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 60,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 5,
+        "unitPrice": 7008255.07,
+        "amount": 35041275.35,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 59
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 9,
+    "customerName": "Mulwanyi Entertainment Group",
+    "estimateDateDaysAgo": 25,
+    "expirationDateDaysFromNow": 44,
+    "status": "Open",
+    "subTotal": 24007445.19,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 24007445.19,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 25,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 4,
+        "unitPrice": 6001861.3,
+        "amount": 24007445.19,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 24
+  }
+]

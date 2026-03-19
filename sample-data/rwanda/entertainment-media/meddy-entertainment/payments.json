@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "paymentNumber": "PAY-2025-001",
+    "invoiceId": 16,
+    "customerId": 4,
+    "clientName": "Murekezi Creative Agency Solutions",
+    "amount": 3404553.33,
+    "paymentDate": "2025-01-15T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-001"
+  },
+  {
+    "id": 2,
+    "paymentNumber": "PAY-2025-002",
+    "invoiceId": 6,
+    "customerId": 15,
+    "clientName": "Gashumba Creative Agency Enterprises",
+    "amount": 5615906.35,
+    "paymentDate": "2025-02-17T00:00:00",
+    "paymentMethod": "Cash",
+    "referenceNumber": "CASH-20250315-002"
+  },
+  {
+    "id": 3,
+    "paymentNumber": "PAY-2025-003",
+    "invoiceId": 15,
+    "customerId": 6,
+    "clientName": "Kagame Music Group Ltd",
+    "amount": 1409926.81,
+    "paymentDate": "2024-12-21T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-003"
+  },
+  {
+    "id": 4,
+    "paymentNumber": "PAY-2025-004",
+    "invoiceId": 8,
+    "customerId": 12,
+    "clientName": "Kagame Creative Agency Solutions",
+    "amount": 3808181.76,
+    "paymentDate": "2024-12-19T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-004"
+  },
+  {
+    "id": 5,
+    "paymentNumber": "PAY-2025-005",
+    "invoiceId": 6,
+    "customerId": 15,
+    "clientName": "Gashumba Creative Agency Enterprises",
+    "amount": 5615906.35,
+    "paymentDate": "2025-02-26T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-005"
+  },
+  {
+    "id": 6,
+    "paymentNumber": "PAY-2025-006",
+    "invoiceId": 14,
+    "customerId": 2,
+    "clientName": "Karugarama Productions Group",
+    "amount": 3105120.63,
+    "paymentDate": "2025-03-09T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-006"
+  },
+  {
+    "id": 7,
+    "paymentNumber": "PAY-2025-007",
+    "invoiceId": 3,
+    "customerId": 15,
+    "clientName": "Gashumba Creative Agency Enterprises",
+    "amount": 1457787.43,
+    "paymentDate": "2025-02-27T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-007"
+  },
+  {
+    "id": 8,
+    "paymentNumber": "PAY-2025-008",
+    "invoiceId": 15,
+    "customerId": 6,
+    "clientName": "Kagame Music Group Ltd",
+    "amount": 1409926.81,
+    "paymentDate": "2025-02-26T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-008"
+  },
+  {
+    "id": 9,
+    "paymentNumber": "PAY-2025-009",
+    "invoiceId": 6,
+    "customerId": 15,
+    "clientName": "Gashumba Creative Agency Enterprises",
+    "amount": 5615906.35,
+    "paymentDate": "2024-12-20T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-009"
+  },
+  {
+    "id": 10,
+    "paymentNumber": "PAY-2025-010",
+    "invoiceId": 3,
+    "customerId": 15,
+    "clientName": "Gashumba Creative Agency Enterprises",
+    "amount": 1457787.43,
+    "paymentDate": "2025-01-31T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-010"
+  },
+  {
+    "id": 11,
+    "paymentNumber": "PAY-2025-011",
+    "invoiceId": 8,
+    "customerId": 12,
+    "clientName": "Kagame Creative Agency Solutions",
+    "amount": 3808181.76,
+    "paymentDate": "2025-01-30T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-011"
+  },
+  {
+    "id": 12,
+    "paymentNumber": "PAY-2025-012",
+    "invoiceId": 6,
+    "customerId": 15,
+    "clientName": "Gashumba Creative Agency Enterprises",
+    "amount": 5615906.35,
+    "paymentDate": "2025-01-26T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-012"
+  },
+  {
+    "id": 13,
+    "paymentNumber": "PAY-2025-013",
+    "invoiceId": 13,
+    "customerId": 8,
+    "clientName": "Bizimungu Entertainment Co.",
+    "amount": 3050680.68,
+    "paymentDate": "2025-02-10T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-013"
+  },
+  {
+    "id": 14,
+    "paymentNumber": "PAY-2025-014",
+    "invoiceId": 13,
+    "customerId": 8,
+    "clientName": "Bizimungu Entertainment Co.",
+    "amount": 3050680.68,
+    "paymentDate": "2025-02-01T00:00:00",
+    "paymentMethod": "Cash",
+    "referenceNumber": "CASH-20250315-014"
+  },
+  {
+    "id": 15,
+    "paymentNumber": "PAY-2025-015",
+    "invoiceId": 14,
+    "customerId": 2,
+    "clientName": "Karugarama Productions Group",
+    "amount": 3105120.63,
+    "paymentDate": "2024-12-28T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-015"
+  },
+  {
+    "id": 16,
+    "paymentNumber": "PAY-2025-016",
+    "invoiceId": 3,
+    "customerId": 15,
+    "clientName": "Gashumba Creative Agency Enterprises",
+    "amount": 1457787.43,
+    "paymentDate": "2025-03-04T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-016"
+  }
+]

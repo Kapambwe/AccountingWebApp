@@ -1,0 +1,130 @@
+{
+  "companyName": "Winky D Vigilance Entertainment",
+  "companyAddress": "Mutare, Zimbabwe",
+  "companyTaxId": "ZIMRA-4694931-WDVE",
+  "generatedDate": "2025-09-30",
+  "currency": "USD",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Victoria Trading (Pvt) Ltd",
+      "customerEmail": "billing@victoria.co.zw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-22",
+          "reference": "INV-Z-2025-011",
+          "description": "Exclusive brand deal - Q1",
+          "debit": 45000,
+          "credit": 0.0,
+          "balance": 45000
+        },
+        {
+          "date": "2025-08-22",
+          "reference": "PMT-Z-2025-019",
+          "description": "Partial partial payment received",
+          "debit": 0.0,
+          "credit": 31000,
+          "balance": 14000
+        }
+      ],
+      "closingBalance": 14000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Harare Enterprises (Pvt) Ltd",
+      "customerEmail": "accounts@harare.co.zw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-20",
+          "reference": "INV-Z-2025-023",
+          "description": "Headline performance - Music Awards Night",
+          "debit": 41500,
+          "credit": 0.0,
+          "balance": 41500
+        },
+        {
+          "date": "2025-02-17",
+          "reference": "PMT-Z-2025-022",
+          "description": "Payment received - mobile money",
+          "debit": 0.0,
+          "credit": 41500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Beit Bridge Trading (Pvt) Ltd",
+      "customerEmail": "contact@beit.co.zw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-22",
+          "reference": "INV-Z-2025-038",
+          "description": "Merchandise partnership revenue",
+          "debit": 47500,
+          "credit": 0.0,
+          "balance": 47500
+        },
+        {
+          "date": "2025-07-20",
+          "reference": "PMT-Z-2025-039",
+          "description": "Payment received - mobile money",
+          "debit": 0.0,
+          "credit": 47500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Matobo Group Ltd",
+      "customerEmail": "admin@matobo.co.zw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-24",
+          "reference": "INV-Z-2025-042",
+          "description": "Live concert performance fee",
+          "debit": 47500,
+          "credit": 0.0,
+          "balance": 47500
+        },
+        {
+          "date": "2025-06-15",
+          "reference": "PMT-Z-2025-043",
+          "description": "Payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 47500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 181500,
+    "totalReceived": 167500,
+    "totalOutstanding": 14000,
+    "totalOverdue": 14000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 14000.0,
+      "days61to90": 0.0,
+      "over90days": 0.0
+    }
+  }
+}

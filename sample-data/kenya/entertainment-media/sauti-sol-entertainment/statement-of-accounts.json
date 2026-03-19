@@ -1,0 +1,140 @@
+{
+  "companyName": "Sauti Sol Entertainment",
+  "companyAddress": "Mombasa, Kenya",
+  "companyTaxId": "KRA-9218655-SSE",
+  "generatedDate": "2025-09-30",
+  "currency": "KES",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Mombasa Enterprises Ltd",
+      "customerEmail": "finance@mombasa.co.ke",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-07",
+          "reference": "INV-K-2025-019",
+          "description": "Merchandise partnership revenue",
+          "debit": 942000,
+          "credit": 0.0,
+          "balance": 942000
+        }
+      ],
+      "closingBalance": 942000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Nairobi Group Ltd",
+      "customerEmail": "billing@nairobi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-20",
+          "reference": "INV-K-2025-028",
+          "description": "Performance fee - Year-End Gala",
+          "debit": 93500,
+          "credit": 0.0,
+          "balance": 93500
+        },
+        {
+          "date": "2025-06-10",
+          "reference": "PMT-K-2025-022",
+          "description": "Partial settlement payment received",
+          "debit": 0.0,
+          "credit": 35500,
+          "balance": 58000
+        }
+      ],
+      "closingBalance": 58000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Mount Kenya Group Ltd",
+      "customerEmail": "finance@mount.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-18",
+          "reference": "INV-K-2025-038",
+          "description": "Brand ambassador fee - Q2 campaign",
+          "debit": 571000,
+          "credit": 0.0,
+          "balance": 571000
+        },
+        {
+          "date": "2025-08-24",
+          "reference": "PMT-K-2025-036",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 571000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Mount Kenya Enterprises Ltd",
+      "customerEmail": "contact@mount.co.ke",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-01",
+          "reference": "INV-K-2025-043",
+          "description": "Endorsement deal - Q1",
+          "debit": 1555000,
+          "credit": 0.0,
+          "balance": 1555000
+        },
+        {
+          "date": "2025-08-25",
+          "reference": "PMT-K-2025-049",
+          "description": "Partial payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 772500,
+          "balance": 782500
+        }
+      ],
+      "closingBalance": 782500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Mombasa Solutions Ltd",
+      "customerEmail": "contact@mombasa.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-17",
+          "reference": "INV-K-2025-053",
+          "description": "Merchandise partnership revenue",
+          "debit": 1130000,
+          "credit": 0.0,
+          "balance": 1130000
+        }
+      ],
+      "closingBalance": 1130000,
+      "status": "Outstanding"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 4291500,
+    "totalReceived": 1379000,
+    "totalOutstanding": 2912500,
+    "totalOverdue": 1782500.0,
+    "agingSummary": {
+      "current": 1130000.0,
+      "days1to30": 0.0,
+      "days31to60": 782500.0,
+      "days61to90": 942000.0,
+      "over90days": 58000.0
+    }
+  }
+}
