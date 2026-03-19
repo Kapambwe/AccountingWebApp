@@ -1,0 +1,9 @@
+{
+  "userId": "user-001",
+  "userName": "yomaps@yomapsmusic.com",
+  "fullName": "Yo Maps Yo",
+  "roles": ["Owner", "Manager"],
+  "companyId": "me-001",
+  "companyName": "Yo Maps Yo Music & Real Estate",
+  "permissions": ["ViewReports", "CreateTransactions", "ApproveBudgets"]
+}

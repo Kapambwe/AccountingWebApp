@@ -1,0 +1,23 @@
+﻿{
+  "projects": [
+    { "projectNumber": "PRJ-2025-001", "projectName": "Digital Transformation Initiative", "description": "Company-wide digital systems upgrade and modernization", "projectType": 1, "status": 2, "customerId": 1, "customerName": "Internal", "clientContact": "CEO", "startDate": "2025-01-06", "estimatedEndDate": "2025-06-30", "budgetedHours": 800, "budgetedCost": 1200000, "budgetedRevenue": 0, "actualHours": 245, "actualCost": 385000, "actualRevenue": 0, "percentComplete": 30, "percentCompleteMethod": "Manual", "projectManagerName": "IT Manager", "projectLocation": "Head Office", "city": "Lusaka" },
+    { "projectNumber": "PRJ-2025-002", "projectName": "Branch Expansion - Ndola", "description": "Opening of new branch office in Ndola Copperbelt", "projectType": 0, "status": 1, "customerId": null, "customerName": "Internal", "clientContact": "COO", "startDate": "2025-02-01", "estimatedEndDate": "2025-05-31", "budgetedHours": 400, "budgetedCost": 850000, "budgetedRevenue": 0, "actualHours": 45, "actualCost": 120000, "actualRevenue": 0, "percentComplete": 15, "percentCompleteMethod": "Manual", "projectManagerName": "Operations Manager", "projectLocation": "Ndola", "city": "Ndola" },
+    { "projectNumber": "PRJ-2025-003", "projectName": "Client Onboarding - ABC Corp", "description": "Full onboarding and setup for new enterprise client", "projectType": 2, "status": 2, "customerId": 1, "customerName": "ABC Corporation", "clientContact": "John Mwale", "clientEmail": "jmwale@abc.co.zm", "startDate": "2025-01-15", "estimatedEndDate": "2025-03-31", "budgetedHours": 200, "budgetedCost": 280000, "budgetedRevenue": 450000, "actualHours": 98, "actualCost": 145000, "actualRevenue": 225000, "percentComplete": 50, "percentCompleteMethod": "Hours", "projectManagerName": "Project Lead", "projectLocation": "Client Site", "city": "Lusaka" }
+  ],
+  "tasks": [
+    { "projectNumber": "PRJ-2025-001", "taskName": "Requirements Analysis", "description": "Gather and document all system requirements", "assignedTo": "Business Analyst", "status": 3, "budgetedHours": 80, "actualHours": 82, "budgetedCost": 96000, "actualCost": 98400, "startDate": "2025-01-06", "dueDate": "2025-01-31" },
+    { "projectNumber": "PRJ-2025-001", "taskName": "System Design", "description": "Architecture and design phase", "assignedTo": "Senior Developer", "status": 2, "budgetedHours": 120, "actualHours": 65, "budgetedCost": 144000, "actualCost": 78000, "startDate": "2025-02-01", "dueDate": "2025-03-15" },
+    { "projectNumber": "PRJ-2025-002", "taskName": "Site Survey", "description": "Physical survey of Ndola premises", "assignedTo": "Facilities Manager", "status": 3, "budgetedHours": 40, "actualHours": 40, "budgetedCost": 48000, "actualCost": 46000, "startDate": "2025-02-01", "dueDate": "2025-02-07" },
+    { "projectNumber": "PRJ-2025-003", "taskName": "Environment Setup", "description": "Configure client systems and access", "assignedTo": "Tech Lead", "status": 3, "budgetedHours": 60, "actualHours": 55, "budgetedCost": 84000, "actualCost": 77000, "startDate": "2025-01-15", "dueDate": "2025-02-07" }
+  ],
+  "expenses": [
+    { "projectNumber": "PRJ-2025-001", "expenseDate": "2025-01-20", "description": "Software licenses - development tools", "category": "Software", "amount": 45000, "isBillable": false, "approvedBy": "IT Manager" },
+    { "projectNumber": "PRJ-2025-002", "expenseDate": "2025-02-03", "description": "Transport to Ndola for site survey", "category": "Travel", "amount": 8500, "isBillable": false, "approvedBy": "COO" },
+    { "projectNumber": "PRJ-2025-003", "expenseDate": "2025-01-18", "description": "Client meeting expenses", "category": "Entertainment", "amount": 3200, "isBillable": true, "approvedBy": "Project Lead" }
+  ],
+  "milestones": [
+    { "projectNumber": "PRJ-2025-001", "milestoneName": "Requirements Sign-off", "description": "Client approval of requirements document", "dueDate": "2025-01-31", "completedDate": "2025-01-30", "status": 2 },
+    { "projectNumber": "PRJ-2025-003", "milestoneName": "System Live", "description": "Client system goes live", "dueDate": "2025-03-31", "status": 0 }
+  ],
+  "invoices": []
+}

@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 9,
+    "customerName": "Gondwe Creative Agency Ltd",
+    "estimateDateDaysAgo": 25,
+    "expirationDateDaysFromNow": 45,
+    "status": "Open",
+    "subTotal": 6994724.04,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 6994724.04,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 25,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 1,
+        "unitPrice": 6994724.04,
+        "amount": 6994724.04,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 24
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 5,
+    "customerName": "Gondwe Media Enterprises",
+    "estimateDateDaysAgo": 18,
+    "expirationDateDaysFromNow": 42,
+    "status": "Declined",
+    "subTotal": 2761933.3,
+    "taxRate": 16,
+    "taxAmount": 441909.33,
+    "total": 3203842.63,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 18,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 2,
+        "unitPrice": 1380966.65,
+        "amount": 2761933.3,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 17
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 11,
+    "customerName": "Kaunda Media Enterprises",
+    "estimateDateDaysAgo": 51,
+    "expirationDateDaysFromNow": 19,
+    "status": "Open",
+    "subTotal": 1932698.48,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 1932698.48,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 51,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 4,
+        "unitPrice": 483174.62,
+        "amount": 1932698.48,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 50
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 9,
+    "customerName": "Gondwe Creative Agency Ltd",
+    "estimateDateDaysAgo": 52,
+    "expirationDateDaysFromNow": 41,
+    "status": "Expired",
+    "subTotal": 80144.51,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 80144.51,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 52,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 5,
+        "unitPrice": 16028.9,
+        "amount": 80144.51,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 51
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 5,
+    "customerName": "Gondwe Media Enterprises",
+    "estimateDateDaysAgo": 5,
+    "expirationDateDaysFromNow": 38,
+    "status": "Draft",
+    "subTotal": 3673364.92,
+    "taxRate": 15,
+    "taxAmount": 551004.74,
+    "total": 4224369.66,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 5,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 3,
+        "unitPrice": 1224454.97,
+        "amount": 3673364.92,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 3,
+    "customerName": "Malewezi Entertainment Limited",
+    "estimateDateDaysAgo": 44,
+    "expirationDateDaysFromNow": 27,
+    "status": "Declined",
+    "subTotal": 2645007.28,
+    "taxRate": 16,
+    "taxAmount": 423201.16,
+    "total": 3068208.44,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 44,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 3,
+        "unitPrice": 881669.09,
+        "amount": 2645007.28,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 43
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 10,
+    "customerName": "Chakwera Productions Limited",
+    "estimateDateDaysAgo": 39,
+    "expirationDateDaysFromNow": 41,
+    "status": "Declined",
+    "subTotal": 106564.46,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 106564.46,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 39,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 1,
+        "unitPrice": 106564.46,
+        "amount": 106564.46,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 38
+  }
+]

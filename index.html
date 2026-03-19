@@ -6,34 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Accounting Web App</title>
     
-    <!-- Dynamic base path - works for local, GitHub Pages, and Cloudflare Pages -->
-    <!-- IMPORTANT: Script MUST run BEFORE base tag to prevent initial 404 errors -->
-    <script>
-        // Detect environment and set correct base path IMMEDIATELY
-        (function() {
-            var hostname = window.location.hostname;
-            var basePath = '/';
-            
-            // GitHub Pages detection
-            if (hostname === 'kapambwe.github.io' || hostname.includes('github.io')) {
-                basePath = '/AccountingWebApp/';
-                console.log('🌐 GitHub Pages detected - using base: /AccountingWebApp/');
-            }
-            // Cloudflare Pages detection (.pages.dev domain)
-            else if (hostname.includes('pages.dev')) {
-                basePath = '/';
-                console.log('☁️ Cloudflare Pages detected - using base: /');
-            }
-            // Custom domain or local development
-            else {
-                basePath = '/';
-                console.log('💻 Local/Custom domain detected - using base: /');
-            }
-            
-            // Write the base tag with correct href IMMEDIATELY
-            document.write('<base href="' + basePath + '" />');
-        })();
-    </script>
+    <!-- Base path: '/' for local dev; deploy.ps1 patches to '/AccountingWebApp/' for GitHub Pages -->
+    <base href="/AccountingWebApp/" />
     
     <!-- Single Page App for GitHub Pages -->
     <!-- Start Single Page App script -->
