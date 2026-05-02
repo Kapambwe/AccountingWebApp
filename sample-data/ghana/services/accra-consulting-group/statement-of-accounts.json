@@ -1,0 +1,206 @@
+{
+  "companyName": "Accra Consulting Group Ltd",
+  "companyAddress": "Airport City, Accra, Ghana",
+  "companyTaxId": "GHA-TIN-C0012345678",
+  "generatedDate": "2025-09-30",
+  "currency": "GHS",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "MTN Ghana PLC",
+      "customerEmail": "procurement@mtn.com.gh",
+      "openingBalance": 0.00,
+      "transactions": [
+        {
+          "date": "2025-01-15",
+          "reference": "INV-2025-001",
+          "description": "Strategic Review - Digital Banking Transformation",
+          "debit": 1350000.00,
+          "credit": 0.00,
+          "balance": 1350000.00
+        },
+        {
+          "date": "2025-01-30",
+          "reference": "PAY-2025-001",
+          "description": "Payment received - Bank Transfer (GCB-REF-20250130-MTN001)",
+          "debit": 0.00,
+          "credit": 750000.00,
+          "balance": 600000.00
+        },
+        {
+          "date": "2025-02-28",
+          "reference": "PAY-2025-002",
+          "description": "Payment received - Bank Transfer (GCB-REF-20250228-MTN002)",
+          "debit": 0.00,
+          "credit": 600000.00,
+          "balance": 0.00
+        }
+      ],
+      "closingBalance": 0.00,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Vodafone Ghana Ltd",
+      "customerEmail": "consulting@vodafone.com.gh",
+      "openingBalance": 0.00,
+      "transactions": [
+        {
+          "date": "2025-02-01",
+          "reference": "INV-2025-002",
+          "description": "IT Infrastructure Strategy Review",
+          "debit": 850000.00,
+          "credit": 0.00,
+          "balance": 850000.00
+        },
+        {
+          "date": "2025-03-10",
+          "reference": "PAY-2025-003",
+          "description": "Payment received - GhIPSS Transfer (GHIPSS-20250310-VF001)",
+          "debit": 0.00,
+          "credit": 850000.00,
+          "balance": 0.00
+        }
+      ],
+      "closingBalance": 0.00,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Ghana Commercial Bank Ltd",
+      "customerEmail": "strategy@gcb.com.gh",
+      "openingBalance": 0.00,
+      "transactions": [
+        {
+          "date": "2025-02-15",
+          "reference": "INV-2025-003",
+          "description": "Financial Due Diligence - M&A",
+          "debit": 680000.00,
+          "credit": 0.00,
+          "balance": 680000.00
+        },
+        {
+          "date": "2025-03-20",
+          "reference": "PAY-2025-004",
+          "description": "Payment received - Bank Transfer (GCB-REF-20250320-GCB001)",
+          "debit": 0.00,
+          "credit": 400000.00,
+          "balance": 280000.00
+        },
+        {
+          "date": "2025-04-10",
+          "reference": "PAY-2025-005",
+          "description": "Payment received - Cheque (CHQ-20250410-GCB001)",
+          "debit": 0.00,
+          "credit": 280000.00,
+          "balance": 0.00
+        }
+      ],
+      "closingBalance": 0.00,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Ecobank Ghana Ltd",
+      "customerEmail": "consulting@ecobank.com.gh",
+      "openingBalance": 0.00,
+      "transactions": [
+        {
+          "date": "2025-03-01",
+          "reference": "INV-2025-004",
+          "description": "Corporate Governance Framework",
+          "debit": 420000.00,
+          "credit": 0.00,
+          "balance": 420000.00
+        },
+        {
+          "date": "2025-04-05",
+          "reference": "PAY-2025-006",
+          "description": "Payment received - GhIPSS Transfer (GHIPSS-20250405-ECO001)",
+          "debit": 0.00,
+          "credit": 200000.00,
+          "balance": 220000.00
+        },
+        {
+          "date": "2025-04-20",
+          "reference": "PAY-2025-007",
+          "description": "Payment received - GhIPSS Transfer (GHIPSS-20250420-ECO002)",
+          "debit": 0.00,
+          "credit": 220000.00,
+          "balance": 0.00
+        }
+      ],
+      "closingBalance": 0.00,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Tullow Oil Ghana PLC",
+      "customerEmail": "finance@tullowoil.com.gh",
+      "openingBalance": 0.00,
+      "transactions": [
+        {
+          "date": "2025-03-15",
+          "reference": "INV-2025-005",
+          "description": "Risk & Compliance Assessment",
+          "debit": 920000.00,
+          "credit": 0.00,
+          "balance": 920000.00
+        },
+        {
+          "date": "2025-04-25",
+          "reference": "PAY-2025-008",
+          "description": "Payment received - Bank Transfer (SCBG-REF-20250425-TUL001)",
+          "debit": 0.00,
+          "credit": 500000.00,
+          "balance": 420000.00
+        },
+        {
+          "date": "2025-05-15",
+          "reference": "PAY-2025-009",
+          "description": "Payment received - Bank Transfer (SCBG-REF-20250515-TUL002)",
+          "debit": 0.00,
+          "credit": 420000.00,
+          "balance": 0.00
+        }
+      ],
+      "closingBalance": 0.00,
+      "status": "Settled"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Ghana Ports & Harbours Authority",
+      "customerEmail": "consulting@ghanaports.gov.gh",
+      "openingBalance": 0.00,
+      "transactions": [
+        {
+          "date": "2025-04-01",
+          "reference": "INV-2025-006",
+          "description": "Operational Excellence Program",
+          "debit": 580000.00,
+          "credit": 0.00,
+          "balance": 580000.00
+        }
+      ],
+      "closingBalance": 580000.00,
+      "status": "Current"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 4800000.00,
+    "totalReceived": 4220000.00,
+    "totalOutstanding": 580000.00,
+    "totalOverdue": 0.00,
+    "agingSummary": {
+      "current": 580000.00,
+      "days1to30": 0.00,
+      "days31to60": 0.00,
+      "days61to90": 0.00,
+      "over90days": 0.00
+    }
+  }
+}

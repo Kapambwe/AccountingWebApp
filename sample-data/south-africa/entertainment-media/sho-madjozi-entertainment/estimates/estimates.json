@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 4,
+    "customerName": "Shabalala Media Inc.",
+    "estimateDateDaysAgo": 41,
+    "expirationDateDaysFromNow": 28,
+    "status": "Declined",
+    "subTotal": 395035.61,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 395035.61,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 41,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 4,
+        "unitPrice": 98758.9,
+        "amount": 395035.61,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 40
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 9,
+    "customerName": "Shabalala Creative Agency Enterprises",
+    "estimateDateDaysAgo": 14,
+    "expirationDateDaysFromNow": 41,
+    "status": "Accepted",
+    "subTotal": 125012.42,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 125012.42,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 14,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 5,
+        "unitPrice": 25002.48,
+        "amount": 125012.42,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 13
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 8,
+    "customerName": "Mkhize Media Solutions",
+    "estimateDateDaysAgo": 42,
+    "expirationDateDaysFromNow": 16,
+    "status": "Open",
+    "subTotal": 321798.7,
+    "taxRate": 15,
+    "taxAmount": 48269.81,
+    "total": 370068.51,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 42,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 3,
+        "unitPrice": 107266.23,
+        "amount": 321798.7,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 41
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 1,
+    "customerName": "Mkhize Creative Agency Solutions",
+    "estimateDateDaysAgo": 54,
+    "expirationDateDaysFromNow": 20,
+    "status": "Declined",
+    "subTotal": 153793.65,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 153793.65,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 54,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 3,
+        "unitPrice": 51264.55,
+        "amount": 153793.65,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 53
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 7,
+    "customerName": "Mkhize Entertainment Inc.",
+    "estimateDateDaysAgo": 40,
+    "expirationDateDaysFromNow": 32,
+    "status": "Open",
+    "subTotal": 129039.84,
+    "taxRate": 15,
+    "taxAmount": 19355.98,
+    "total": 148395.82,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 40,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 2,
+        "unitPrice": 64519.92,
+        "amount": 129039.84,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 39
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 7,
+    "customerName": "Mkhize Entertainment Inc.",
+    "estimateDateDaysAgo": 57,
+    "expirationDateDaysFromNow": 33,
+    "status": "Draft",
+    "subTotal": 396296.63,
+    "taxRate": 15,
+    "taxAmount": 59444.49,
+    "total": 455741.12,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 57,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 4,
+        "unitPrice": 99074.16,
+        "amount": 396296.63,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 15,
+    "customerName": "Khumalo Media Co.",
+    "estimateDateDaysAgo": 56,
+    "expirationDateDaysFromNow": 27,
+    "status": "Declined",
+    "subTotal": 98221.04,
+    "taxRate": 16,
+    "taxAmount": 15715.37,
+    "total": 113936.41,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 56,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 4,
+        "unitPrice": 24555.26,
+        "amount": 98221.04,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 55
+  }
+]

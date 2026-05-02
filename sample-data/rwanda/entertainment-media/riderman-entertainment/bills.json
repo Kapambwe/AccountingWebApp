@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Rugamba Entertainment Group",
+    "description": "Social Media Management",
+    "billDate": "2025-02-01T00:00:00",
+    "dueDate": "2025-03-18T00:00:00",
+    "amount": 1191541.61,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Bizimungu Media Inc.",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-11-30T00:00:00",
+    "dueDate": "2024-12-15T00:00:00",
+    "amount": 4194785.42,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Bizimungu Media Inc.",
+    "description": "Studio Recording Session",
+    "billDate": "2025-02-22T00:00:00",
+    "dueDate": "2025-03-09T00:00:00",
+    "amount": 1443027.04,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Karugarama Music Group Co.",
+    "description": "Studio Recording Session",
+    "billDate": "2024-11-09T00:00:00",
+    "dueDate": "2024-12-09T00:00:00",
+    "amount": 4519837.93,
+    "paidAmount": 4519837.93,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Murekezi Music Group Inc.",
+    "description": "Music Video Production",
+    "billDate": "2024-12-24T00:00:00",
+    "dueDate": "2025-01-23T00:00:00",
+    "amount": 690617.46,
+    "paidAmount": 690617.46,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Rugamba Entertainment Group",
+    "description": "PR Campaign",
+    "billDate": "2024-10-11T00:00:00",
+    "dueDate": "2024-11-10T00:00:00",
+    "amount": 6770784.44,
+    "paidAmount": 2210500.01,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Musoni Entertainment Holdings",
+    "description": "Tour Logistics",
+    "billDate": "2024-12-13T00:00:00",
+    "dueDate": "2025-01-12T00:00:00",
+    "amount": 5945615.96,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Murekezi Media Limited",
+    "description": "PR Campaign",
+    "billDate": "2025-01-21T00:00:00",
+    "dueDate": "2025-02-05T00:00:00",
+    "amount": 4069853.57,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Murekezi Music Group Inc.",
+    "description": "Tour Logistics",
+    "billDate": "2025-01-29T00:00:00",
+    "dueDate": "2025-02-28T00:00:00",
+    "amount": 6385355.8,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Murekezi Music Group Inc.",
+    "description": "Management Fee",
+    "billDate": "2025-03-11T00:00:00",
+    "dueDate": "2025-04-10T00:00:00",
+    "amount": 5904318.37,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Nkurunziza Music Group Solutions",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-10-23T00:00:00",
+    "dueDate": "2024-11-07T00:00:00",
+    "amount": 4236396.71,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Rugamba Entertainment Ltd",
+    "description": "Tour Logistics",
+    "billDate": "2024-10-06T00:00:00",
+    "dueDate": "2024-11-05T00:00:00",
+    "amount": 141805.16,
+    "paidAmount": 141805.16,
+    "status": "Paid"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Murekezi Media Limited",
+    "description": "Music Video Production",
+    "billDate": "2025-01-09T00:00:00",
+    "dueDate": "2025-02-23T00:00:00",
+    "amount": 2943854.38,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 14,
+    "billNumber": "BILL-2025-014",
+    "vendorName": "Karugarama Media Inc.",
+    "description": "Tour Logistics",
+    "billDate": "2024-12-20T00:00:00",
+    "dueDate": "2025-01-04T00:00:00",
+    "amount": 6750374.87,
+    "paidAmount": 6750374.87,
+    "status": "Paid"
+  },
+  {
+    "id": 15,
+    "billNumber": "BILL-2025-015",
+    "vendorName": "Rugamba Creative Agency Ltd",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-12-05T00:00:00",
+    "dueDate": "2024-12-20T00:00:00",
+    "amount": 1408486.32,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  }
+]

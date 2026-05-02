@@ -1,0 +1,166 @@
+{
+  "companyName": "Gwamba Entertainment",
+  "companyAddress": "Karonga, Malawi",
+  "companyTaxId": "MRA-2956242-GE",
+  "generatedDate": "2025-09-30",
+  "currency": "MWK",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Zomba Enterprises Ltd",
+      "customerEmail": "contact@zomba.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-02",
+          "reference": "INV-M-2025-014",
+          "description": "Headline performance - National Arts Festival",
+          "debit": 2860500,
+          "credit": 0.0,
+          "balance": 2860500
+        }
+      ],
+      "closingBalance": 2860500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Mulanje Trading Ltd",
+      "customerEmail": "billing@mulanje.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-14",
+          "reference": "INV-M-2025-026",
+          "description": "Exclusive brand deal - Q2",
+          "debit": 3782500,
+          "credit": 0.0,
+          "balance": 3782500
+        },
+        {
+          "date": "2025-04-22",
+          "reference": "PMT-M-2025-022",
+          "description": "Partial partial payment received",
+          "debit": 0.0,
+          "credit": 1427000,
+          "balance": 2355500
+        }
+      ],
+      "closingBalance": 2355500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Lilongwe Trading Ltd",
+      "customerEmail": "admin@lilongwe.mw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-26",
+          "reference": "INV-M-2025-031",
+          "description": "Live concert performance fee",
+          "debit": 4439000,
+          "credit": 0.0,
+          "balance": 4439000
+        },
+        {
+          "date": "2025-04-14",
+          "reference": "PMT-M-2025-037",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 4439000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Shire Group Ltd",
+      "customerEmail": "info@shire.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-20",
+          "reference": "INV-M-2025-049",
+          "description": "Royalty payment - streaming Q2 2025",
+          "debit": 2798000,
+          "credit": 0.0,
+          "balance": 2798000
+        },
+        {
+          "date": "2025-02-20",
+          "reference": "PMT-M-2025-048",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 2798000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Mulanje Holdings Ltd",
+      "customerEmail": "accounts@mulanje.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-28",
+          "reference": "INV-M-2025-059",
+          "description": "Live concert performance fee",
+          "debit": 1654000,
+          "credit": 0.0,
+          "balance": 1654000
+        }
+      ],
+      "closingBalance": 1654000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Blantyre Trading Ltd",
+      "customerEmail": "finance@blantyre.mw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-04",
+          "reference": "INV-M-2025-069",
+          "description": "Endorsement deal - Jan-Mar",
+          "debit": 4289500,
+          "credit": 0.0,
+          "balance": 4289500
+        },
+        {
+          "date": "2025-03-18",
+          "reference": "PMT-M-2025-067",
+          "description": "Settlement payment received",
+          "debit": 0.0,
+          "credit": 4289500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 19823500,
+    "totalReceived": 12953500,
+    "totalOutstanding": 6870000,
+    "totalOverdue": 6870000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 4514500.0,
+      "over90days": 2355500.0
+    }
+  }
+}

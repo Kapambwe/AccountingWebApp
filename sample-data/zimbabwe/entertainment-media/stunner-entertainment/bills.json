@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Dube Media Limited",
+    "description": "Tour Logistics",
+    "billDate": "2024-11-30T00:00:00",
+    "dueDate": "2024-12-30T00:00:00",
+    "amount": 11305.82,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Chiwenga Creative Agency Solutions",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-02-01T00:00:00",
+    "dueDate": "2025-03-03T00:00:00",
+    "amount": 21306.04,
+    "paidAmount": 10939.16,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Dube Media Limited",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-12-10T00:00:00",
+    "dueDate": "2024-12-25T00:00:00",
+    "amount": 24115.17,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Chiwenga Music Group Limited",
+    "description": "PR Campaign",
+    "billDate": "2025-02-07T00:00:00",
+    "dueDate": "2025-03-24T00:00:00",
+    "amount": 14812.21,
+    "paidAmount": 8863.04,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Chiwenga Creative Agency Solutions",
+    "description": "Music Video Production",
+    "billDate": "2025-02-19T00:00:00",
+    "dueDate": "2025-04-05T00:00:00",
+    "amount": 5381.0,
+    "paidAmount": 2842.04,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Dube Media Limited",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-01-27T00:00:00",
+    "dueDate": "2025-02-26T00:00:00",
+    "amount": 8579.3,
+    "paidAmount": 8579.3,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Chiwenga Music Group Limited",
+    "description": "Music Video Production",
+    "billDate": "2025-01-27T00:00:00",
+    "dueDate": "2025-02-11T00:00:00",
+    "amount": 11268.97,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mapfumo Creative Agency Limited",
+    "description": "Studio Recording Session",
+    "billDate": "2025-02-25T00:00:00",
+    "dueDate": "2025-03-27T00:00:00",
+    "amount": 8072.87,
+    "paidAmount": 8072.87,
+    "status": "Paid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Sibanda Media Enterprises",
+    "description": "Social Media Management",
+    "billDate": "2024-09-30T00:00:00",
+    "dueDate": "2024-10-30T00:00:00",
+    "amount": 1348.08,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Dube Media Limited",
+    "description": "Social Media Management",
+    "billDate": "2025-02-19T00:00:00",
+    "dueDate": "2025-03-21T00:00:00",
+    "amount": 1650.65,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Mapfumo Media Limited",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-10-02T00:00:00",
+    "dueDate": "2024-11-01T00:00:00",
+    "amount": 1596.39,
+    "paidAmount": 896.95,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Mapfumo Media Limited",
+    "description": "Music Video Production",
+    "billDate": "2025-02-27T00:00:00",
+    "dueDate": "2025-04-13T00:00:00",
+    "amount": 22528.79,
+    "paidAmount": 22528.79,
+    "status": "Paid"
+  }
+]

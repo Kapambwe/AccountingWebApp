@@ -1,0 +1,106 @@
+{
+  "companyName": "Franco Lesego Entertainment",
+  "companyAddress": "Serowe, Botswana",
+  "companyTaxId": "BURS-9644979-FLE",
+  "generatedDate": "2025-09-30",
+  "currency": "BWP",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Chobe Enterprises (Pty) Ltd",
+      "customerEmail": "accounts@chobe.co.bw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-07",
+          "reference": "INV-B-2025-011",
+          "description": "Royalty payment - streaming Q3 2025",
+          "debit": 163000,
+          "credit": 0.0,
+          "balance": 163000
+        }
+      ],
+      "closingBalance": 163000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Tuli Solutions Ltd",
+      "customerEmail": "info@tuli.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-10",
+          "reference": "INV-B-2025-026",
+          "description": "Brand ambassador fee - Q3 campaign",
+          "debit": 164500,
+          "credit": 0.0,
+          "balance": 164500
+        }
+      ],
+      "closingBalance": 164500,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Mokolodi Trading (Pty) Ltd",
+      "customerEmail": "finance@mokolodi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-03",
+          "reference": "INV-B-2025-036",
+          "description": "Royalty payment - streaming Q2 2025",
+          "debit": 81000,
+          "credit": 0.0,
+          "balance": 81000
+        }
+      ],
+      "closingBalance": 81000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Debswana Holdings Ltd",
+      "customerEmail": "admin@debswana.co.bw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-20",
+          "reference": "INV-B-2025-049",
+          "description": "Headline performance - VIP Launch Event",
+          "debit": 89500,
+          "credit": 0.0,
+          "balance": 89500
+        },
+        {
+          "date": "2025-07-27",
+          "reference": "PMT-B-2025-048",
+          "description": "Partial settlement payment received",
+          "debit": 0.0,
+          "credit": 37500,
+          "balance": 52000
+        }
+      ],
+      "closingBalance": 52000,
+      "status": "Partially Paid"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 498000,
+    "totalReceived": 37500,
+    "totalOutstanding": 460500,
+    "totalOverdue": 460500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 81000.0,
+      "days61to90": 163000.0,
+      "over90days": 216500.0
+    }
+  }
+}

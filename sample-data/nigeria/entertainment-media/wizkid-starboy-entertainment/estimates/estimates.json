@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 7,
+    "customerName": "Bello Media Limited",
+    "estimateDateDaysAgo": 42,
+    "expirationDateDaysFromNow": 16,
+    "status": "Expired",
+    "subTotal": 10013462.11,
+    "taxRate": 16,
+    "taxAmount": 1602153.94,
+    "total": 11615616.05,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 42,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 4,
+        "unitPrice": 2503365.53,
+        "amount": 10013462.11,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 41
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 4,
+    "customerName": "Nwachukwu Entertainment Solutions",
+    "estimateDateDaysAgo": 58,
+    "expirationDateDaysFromNow": 41,
+    "status": "Declined",
+    "subTotal": 7286197.89,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 7286197.89,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 58,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 4,
+        "unitPrice": 1821549.47,
+        "amount": 7286197.89,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 57
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 2,
+    "customerName": "Nwachukwu Music Group Holdings",
+    "estimateDateDaysAgo": 44,
+    "expirationDateDaysFromNow": 20,
+    "status": "Declined",
+    "subTotal": 10329453.13,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 10329453.13,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 44,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 1,
+        "unitPrice": 10329453.13,
+        "amount": 10329453.13,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 43
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 12,
+    "customerName": "Abubakar Productions Holdings",
+    "estimateDateDaysAgo": 33,
+    "expirationDateDaysFromNow": 44,
+    "status": "Expired",
+    "subTotal": 14723093.77,
+    "taxRate": 16,
+    "taxAmount": 2355695.0,
+    "total": 17078788.77,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 33,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 3,
+        "unitPrice": 4907697.92,
+        "amount": 14723093.77,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 32
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 12,
+    "customerName": "Abubakar Productions Holdings",
+    "estimateDateDaysAgo": 51,
+    "expirationDateDaysFromNow": 45,
+    "status": "Open",
+    "subTotal": 11474121.03,
+    "taxRate": 18,
+    "taxAmount": 2065341.79,
+    "total": 13539462.82,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 51,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 2,
+        "unitPrice": 5737060.51,
+        "amount": 11474121.03,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 50
+  }
+]
