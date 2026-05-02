@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 10,
+    "customerName": "Chande Productions Limited",
+    "estimateDateDaysAgo": 50,
+    "expirationDateDaysFromNow": 43,
+    "status": "Accepted",
+    "subTotal": 7207652.37,
+    "taxRate": 15,
+    "taxAmount": 1081147.86,
+    "total": 8288800.23,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 50,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 3,
+        "unitPrice": 2402550.79,
+        "amount": 7207652.37,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 49
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 4,
+    "customerName": "Salum Productions Limited",
+    "estimateDateDaysAgo": 11,
+    "expirationDateDaysFromNow": 15,
+    "status": "Open",
+    "subTotal": 1767775.35,
+    "taxRate": 15,
+    "taxAmount": 265166.3,
+    "total": 2032941.65,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 11,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 4,
+        "unitPrice": 441943.84,
+        "amount": 1767775.35,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 10
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 6,
+    "customerName": "Msigwa Entertainment Holdings",
+    "estimateDateDaysAgo": 28,
+    "expirationDateDaysFromNow": 25,
+    "status": "Expired",
+    "subTotal": 5988550.04,
+    "taxRate": 16,
+    "taxAmount": 958168.01,
+    "total": 6946718.05,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 28,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 5,
+        "unitPrice": 1197710.01,
+        "amount": 5988550.04,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 27
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 12,
+    "customerName": "Juma Media Co.",
+    "estimateDateDaysAgo": 30,
+    "expirationDateDaysFromNow": 37,
+    "status": "Draft",
+    "subTotal": 7107888.47,
+    "taxRate": 18,
+    "taxAmount": 1279419.92,
+    "total": 8387308.39,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 30,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 3,
+        "unitPrice": 2369296.16,
+        "amount": 7107888.47,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 5,
+    "customerName": "Mkapa Productions Ltd",
+    "estimateDateDaysAgo": 34,
+    "expirationDateDaysFromNow": 38,
+    "status": "Open",
+    "subTotal": 4164908.03,
+    "taxRate": 18,
+    "taxAmount": 749683.45,
+    "total": 4914591.48,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 34,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 5,
+        "unitPrice": 832981.61,
+        "amount": 4164908.03,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 33
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 1,
+    "customerName": "Magufuli Entertainment Group",
+    "estimateDateDaysAgo": 59,
+    "expirationDateDaysFromNow": 18,
+    "status": "Open",
+    "subTotal": 7125647.64,
+    "taxRate": 18,
+    "taxAmount": 1282616.58,
+    "total": 8408264.22,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 59,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 4,
+        "unitPrice": 1781411.91,
+        "amount": 7125647.64,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 58
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 14,
+    "customerName": "Laizer Productions Solutions",
+    "estimateDateDaysAgo": 25,
+    "expirationDateDaysFromNow": 35,
+    "status": "Sent",
+    "subTotal": 6639870.17,
+    "taxRate": 18,
+    "taxAmount": 1195176.63,
+    "total": 7835046.8,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 25,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 5,
+        "unitPrice": 1327974.03,
+        "amount": 6639870.17,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 24
+  }
+]

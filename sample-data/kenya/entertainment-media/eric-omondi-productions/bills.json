@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Ochieng Productions Solutions",
+    "description": "Music Video Production",
+    "billDate": "2025-01-18T00:00:00",
+    "dueDate": "2025-03-04T00:00:00",
+    "amount": 1233566.01,
+    "paidAmount": 970084.09,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Otieno Media Co.",
+    "description": "Studio Recording Session",
+    "billDate": "2024-09-21T00:00:00",
+    "dueDate": "2024-10-21T00:00:00",
+    "amount": 534843.49,
+    "paidAmount": 534843.49,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Ngugi Music Group Inc.",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-10-17T00:00:00",
+    "dueDate": "2024-12-01T00:00:00",
+    "amount": 128953.81,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Odhiambo Creative Agency Inc.",
+    "description": "Social Media Management",
+    "billDate": "2024-09-23T00:00:00",
+    "dueDate": "2024-10-08T00:00:00",
+    "amount": 678021.93,
+    "paidAmount": 678021.93,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Moi Music Group Inc.",
+    "description": "PR Campaign",
+    "billDate": "2024-11-03T00:00:00",
+    "dueDate": "2024-11-18T00:00:00",
+    "amount": 393769.91,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Ochieng Productions Solutions",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-11-20T00:00:00",
+    "dueDate": "2024-12-05T00:00:00",
+    "amount": 887877.09,
+    "paidAmount": 887877.09,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Ngugi Music Group Inc.",
+    "description": "Social Media Management",
+    "billDate": "2024-11-21T00:00:00",
+    "dueDate": "2025-01-05T00:00:00",
+    "amount": 750254.12,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Otieno Media Co.",
+    "description": "Studio Recording Session",
+    "billDate": "2024-11-09T00:00:00",
+    "dueDate": "2024-12-24T00:00:00",
+    "amount": 586940.68,
+    "paidAmount": 586940.68,
+    "status": "Paid"
+  }
+]

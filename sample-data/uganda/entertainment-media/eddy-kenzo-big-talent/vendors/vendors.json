@@ -1,0 +1,122 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Kabuye Tumwesigye",
+      "companyName": "Tumwesigye Entertainment Holdings",
+      "contactPerson": "Kabuye Tumwesigye",
+      "email": "kabuyetumwes@tumwesigye.co.ug",
+      "phone": "+256 347 990 289",
+      "city": "Entebbe",
+      "country": "Uganda",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-164709",
+      "totalAmountOwed": 1697935.32
+    },
+    {
+      "id": 2,
+      "vendorName": "Okello Baingana",
+      "companyName": "Ssemakula Music Group Enterprises",
+      "contactPerson": "Okello Baingana",
+      "email": "okellobainga@baingana.co.ug",
+      "phone": "+256 258 605 273",
+      "city": "Gulu",
+      "country": "Uganda",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-232015",
+      "totalAmountOwed": 868601.41
+    },
+    {
+      "id": 3,
+      "vendorName": "Nanteza Baingana",
+      "companyName": "Ssewanyana Entertainment Holdings",
+      "contactPerson": "Nanteza Baingana",
+      "email": "nantezabaing@baingana.co.ug",
+      "phone": "+256 889 243 863",
+      "city": "Lira",
+      "country": "Uganda",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-157126",
+      "totalAmountOwed": 3913609.69
+    },
+    {
+      "id": 4,
+      "vendorName": "Kizito Kiggundu",
+      "companyName": "Lutalo Creative Agency Ltd",
+      "contactPerson": "Kizito Kiggundu",
+      "email": "kizitokiggun@kiggundu.co.ug",
+      "phone": "+256 587 365 045",
+      "city": "Jinja",
+      "country": "Uganda",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-867395",
+      "totalAmountOwed": 1383335.47
+    },
+    {
+      "id": 5,
+      "vendorName": "Kabuye Ssewanyana",
+      "companyName": "Mulwanyi Productions Limited",
+      "contactPerson": "Kabuye Ssewanyana",
+      "email": "kabuyessewan@ssewanyana.co.ug",
+      "phone": "+256 142 105 304",
+      "city": "Kampala",
+      "country": "Uganda",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-659034",
+      "totalAmountOwed": 1784935.32
+    },
+    {
+      "id": 6,
+      "vendorName": "Kabuye Tumwesigye",
+      "companyName": "Byekwaso Creative Agency Enterprises",
+      "contactPerson": "Kabuye Tumwesigye",
+      "email": "kabuyetumwes@tumwesigye.co.ug",
+      "phone": "+256 082 963 050",
+      "city": "Mbarara",
+      "country": "Uganda",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-461682",
+      "totalAmountOwed": 1841392.85
+    },
+    {
+      "id": 7,
+      "vendorName": "Mugisha Kyeyune",
+      "companyName": "Tumwesigye Productions Holdings",
+      "contactPerson": "Mugisha Kyeyune",
+      "email": "mugishakyeyu@kyeyune.co.ug",
+      "phone": "+256 405 242 757",
+      "city": "Jinja",
+      "country": "Uganda",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-683557",
+      "totalAmountOwed": 239306.24
+    },
+    {
+      "id": 8,
+      "vendorName": "Kabuye Museveni",
+      "companyName": "Baingana Entertainment Co.",
+      "contactPerson": "Kabuye Museveni",
+      "email": "kabuyemuseve@museveni.co.ug",
+      "phone": "+256 386 331 737",
+      "city": "Mbarara",
+      "country": "Uganda",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-998812",
+      "totalAmountOwed": 5538512.52
+    },
+    {
+      "id": 9,
+      "vendorName": "Nalubega Tumwesigye",
+      "companyName": "Ssemakula Creative Agency Enterprises",
+      "contactPerson": "Nalubega Tumwesigye",
+      "email": "nalubegatumw@tumwesigye.co.ug",
+      "phone": "+256 345 364 984",
+      "city": "Fort Portal",
+      "country": "Uganda",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-878008",
+      "totalAmountOwed": 5389211.21
+    }
+  ],
+  "vendorCredits": []
+}

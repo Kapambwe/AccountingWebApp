@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Mensah Productions Enterprises",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-09-25T00:00:00",
+    "dueDate": "2024-11-09T00:00:00",
+    "amount": 253915.48,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Bonsu Productions Holdings",
+    "description": "Studio Recording Session",
+    "billDate": "2024-12-05T00:00:00",
+    "dueDate": "2024-12-20T00:00:00",
+    "amount": 80619.68,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Nkrumah Music Group Holdings",
+    "description": "PR Campaign",
+    "billDate": "2024-10-20T00:00:00",
+    "dueDate": "2024-11-19T00:00:00",
+    "amount": 18981.18,
+    "paidAmount": 18981.18,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Bonsu Productions Holdings",
+    "description": "Social Media Management",
+    "billDate": "2025-01-24T00:00:00",
+    "dueDate": "2025-02-23T00:00:00",
+    "amount": 111782.22,
+    "paidAmount": 111782.22,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Mensah Productions Enterprises",
+    "description": "Management Fee",
+    "billDate": "2024-12-19T00:00:00",
+    "dueDate": "2025-01-03T00:00:00",
+    "amount": 200250.59,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Owusu Media Enterprises",
+    "description": "Tour Logistics",
+    "billDate": "2025-01-14T00:00:00",
+    "dueDate": "2025-01-29T00:00:00",
+    "amount": 76867.68,
+    "paidAmount": 76867.68,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Owusu Media Enterprises",
+    "description": "Tour Logistics",
+    "billDate": "2025-02-15T00:00:00",
+    "dueDate": "2025-04-01T00:00:00",
+    "amount": 239125.03,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Boateng Entertainment Holdings",
+    "description": "Music Video Production",
+    "billDate": "2025-02-23T00:00:00",
+    "dueDate": "2025-03-25T00:00:00",
+    "amount": 336290.31,
+    "paidAmount": 163355.0,
+    "status": "PartiallyPaid"
+  }
+]

@@ -1,0 +1,158 @@
+{
+  "companyName": "Lucius Banda Entertainment",
+  "companyAddress": "Mangochi, Malawi",
+  "companyTaxId": "MRA-4712068-LBE",
+  "generatedDate": "2025-09-30",
+  "currency": "MWK",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Nyika Solutions Ltd",
+      "customerEmail": "billing@nyika.mw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-25",
+          "reference": "INV-M-2025-018",
+          "description": "Exclusive brand deal - Apr-Jun",
+          "debit": 4726000,
+          "credit": 0.0,
+          "balance": 4726000
+        }
+      ],
+      "closingBalance": 4726000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Mulanje Solutions Ltd",
+      "customerEmail": "finance@mulanje.mw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-12",
+          "reference": "INV-M-2025-022",
+          "description": "Performance fee - Summer Festival",
+          "debit": 1038500,
+          "credit": 0.0,
+          "balance": 1038500
+        }
+      ],
+      "closingBalance": 1038500,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Malombe Industries Ltd",
+      "customerEmail": "billing@malombe.mw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-23",
+          "reference": "INV-M-2025-036",
+          "description": "Live concert performance fee",
+          "debit": 2367000,
+          "credit": 0.0,
+          "balance": 2367000
+        }
+      ],
+      "closingBalance": 2367000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Zomba Group Ltd",
+      "customerEmail": "accounts@zomba.mw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-07",
+          "reference": "INV-M-2025-043",
+          "description": "Digital content licensing fee",
+          "debit": 3541000,
+          "credit": 0.0,
+          "balance": 3541000
+        },
+        {
+          "date": "2025-06-08",
+          "reference": "PMT-M-2025-042",
+          "description": "Settlement payment received",
+          "debit": 0.0,
+          "credit": 3541000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Malombe Group Ltd",
+      "customerEmail": "contact@malombe.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-04",
+          "reference": "INV-M-2025-052",
+          "description": "Merchandise partnership revenue",
+          "debit": 4551000,
+          "credit": 0.0,
+          "balance": 4551000
+        },
+        {
+          "date": "2025-06-23",
+          "reference": "PMT-M-2025-059",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 4551000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Malombe Group Ltd",
+      "customerEmail": "billing@malombe.mw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-13",
+          "reference": "INV-M-2025-064",
+          "description": "Royalty payment - streaming Q3 2025",
+          "debit": 4842000,
+          "credit": 0.0,
+          "balance": 4842000
+        },
+        {
+          "date": "2025-02-19",
+          "reference": "PMT-M-2025-062",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 4842000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 21065500,
+    "totalReceived": 12934000,
+    "totalOutstanding": 8131500,
+    "totalOverdue": 3405500.0,
+    "agingSummary": {
+      "current": 4726000.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 2367000.0,
+      "over90days": 1038500.0
+    }
+  }
+}
