@@ -447,6 +447,371 @@
           }
         ]
       }
+    },
+    {
+      "id": 11,
+      "name": "Supplier Invoice Approval",
+      "description": "Route supplier invoices for review and approval before posting to accounts payable",
+      "category": "Accounts Payable",
+      "industry": "Agriculture",
+      "iconName": "approval",
+      "iconColor": "#2563eb",
+      "isFeatured": true,
+      "isRecommended": true,
+      "usageCount": 58,
+      "rating": 4.7,
+      "tags": ["invoice", "approval", "supplier", "ap"],
+      "templateDefinition": {
+        "name": "Supplier Invoice Approval",
+        "description": "Approve supplier invoices",
+        "category": "Accounting",
+        "trigger": {
+          "triggerType": "Event",
+          "eventType": "BillCreated"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Condition",
+            "name": "Check Invoice Value",
+            "conditions": [
+              { "field": "Amount", "operator": "GreaterThan", "value": "5000", "valueType": "Number" }
+            ]
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Approval",
+            "name": "Finance Review",
+            "approval": {
+              "approvalType": "Single",
+              "approvers": ["finance@company.com"],
+              "timeoutHours": 24,
+              "timeoutAction": "Escalate",
+              "escalateTo": "cfo@company.com"
+            }
+          },
+          {
+            "stepNumber": 3,
+            "stepType": "Action",
+            "name": "Notify AP Team",
+            "action": {
+              "actionType": "SendEmail",
+              "emailTo": "ap@company.com",
+              "emailSubject": "Approved Supplier Invoice",
+              "emailBody": "Supplier invoice approved and ready for posting."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "name": "Harvest Payment Reminder",
+      "description": "Send payment reminders for seasonal customers and distributors before harvest settlement dates",
+      "category": "Accounts Receivable",
+      "industry": "Agriculture",
+      "iconName": "schedule_send",
+      "iconColor": "#059669",
+      "isFeatured": true,
+      "isRecommended": true,
+      "usageCount": 42,
+      "rating": 4.6,
+      "tags": ["reminder", "collections", "seasonal", "ar"],
+      "templateDefinition": {
+        "name": "Harvest Payment Reminder",
+        "description": "Automated reminder for upcoming settlement",
+        "category": "Accounting",
+        "trigger": {
+          "triggerType": "Schedule",
+          "scheduleType": "Daily",
+          "cronExpression": "0 8 * * *"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Action",
+            "name": "Find Due Invoices",
+            "action": {
+              "actionType": "RunReport",
+              "parameters": { "ReportType": "AgedReceivables", "DaysPastDue": 7 }
+            }
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Action",
+            "name": "Send SMS Reminder",
+            "action": {
+              "actionType": "SendNotification",
+              "parameters": { "Channel": "SMS", "Message": "Your settlement is due soon. Please arrange payment." }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "name": "Fuel Usage Reconciliation",
+      "description": "Check fuel purchase activity against fleet logs and flag anomalies for review",
+      "category": "Operations",
+      "industry": "Transport",
+      "iconName": "local_gas_station",
+      "iconColor": "#f59e0b",
+      "isFeatured": false,
+      "isRecommended": true,
+      "usageCount": 34,
+      "rating": 4.5,
+      "tags": ["fuel", "reconciliation", "fleet", "operations"],
+      "templateDefinition": {
+        "name": "Fuel Usage Reconciliation",
+        "description": "Compare fuel spend with fleet usage",
+        "category": "Operations",
+        "trigger": {
+          "triggerType": "Schedule",
+          "scheduleType": "Weekly",
+          "cronExpression": "0 7 * * 1"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Action",
+            "name": "Load Fuel Purchases",
+            "action": {
+              "actionType": "RunReport",
+              "parameters": { "ReportType": "FuelPurchases" }
+            }
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Action",
+            "name": "Compare Usage",
+            "action": {
+              "actionType": "CreateRecord",
+              "entityType": "AuditLog",
+              "fieldMappings": {
+                "Module": "Operations",
+                "Action": "Fuel Reconciliation",
+                "Status": "Pending Review"
+              }
+            }
+          },
+          {
+            "stepNumber": 3,
+            "stepType": "Action",
+            "name": "Alert Supervisor",
+            "action": {
+              "actionType": "SendNotification",
+              "parameters": { "Channel": "Email", "Recipient": "fleet-manager@company.com" }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "name": "Payroll Change Approval",
+      "description": "Route salary and allowance changes for HR and finance approval before payroll runs",
+      "category": "HR",
+      "industry": "General",
+      "iconName": "badge",
+      "iconColor": "#7c3aed",
+      "isFeatured": true,
+      "isRecommended": true,
+      "usageCount": 71,
+      "rating": 4.8,
+      "tags": ["payroll", "hr", "approval", "salary"],
+      "templateDefinition": {
+        "name": "Payroll Change Approval",
+        "description": "Approve payroll changes",
+        "category": "HR",
+        "trigger": {
+          "triggerType": "Event",
+          "eventType": "PayrollChangeRequested"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Approval",
+            "name": "HR Review",
+            "approval": {
+              "approvalType": "Single",
+              "approvers": ["hr.manager@company.com"],
+              "timeoutHours": 24
+            }
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Approval",
+            "name": "Finance Review",
+            "approval": {
+              "approvalType": "Single",
+              "approvers": ["finance.manager@company.com"],
+              "timeoutHours": 24
+            }
+          },
+          {
+            "stepNumber": 3,
+            "stepType": "Action",
+            "name": "Update Payroll Record",
+            "action": {
+              "actionType": "CreateRecord",
+              "entityType": "Payroll",
+              "fieldMappings": {
+                "Status": "Approved",
+                "UpdatedBy": "{Approver}"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "name": "Vendor Onboarding",
+      "description": "Collect vendor details, perform compliance checks, and notify procurement for activation",
+      "category": "Procurement",
+      "industry": "General",
+      "iconName": "person_search",
+      "iconColor": "#0ea5e9",
+      "isFeatured": false,
+      "isRecommended": true,
+      "usageCount": 39,
+      "rating": 4.4,
+      "tags": ["vendor", "procurement", "compliance", "onboarding"],
+      "templateDefinition": {
+        "name": "Vendor Onboarding",
+        "description": "Onboard new vendors",
+        "category": "Procurement",
+        "trigger": {
+          "triggerType": "Event",
+          "eventType": "VendorCreated"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Action",
+            "name": "Request Compliance Docs",
+            "action": {
+              "actionType": "SendEmail",
+              "emailTo": "{VendorEmail}",
+              "emailSubject": "Vendor Registration Documents",
+              "emailBody": "Please provide your registration, tax, and banking documents."
+            }
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Condition",
+            "name": "Check Compliance",
+            "conditions": [
+              { "field": "TaxDocumentStatus", "operator": "Equals", "value": "Verified", "valueType": "String" }
+            ]
+          },
+          {
+            "stepNumber": 3,
+            "stepType": "Action",
+            "name": "Notify Procurement",
+            "action": {
+              "actionType": "SendNotification",
+              "parameters": { "Channel": "Email", "Recipient": "procurement@company.com", "Message": "Vendor ready for approval." }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "name": "Month-End Stock Count",
+      "description": "Schedule warehouse stock counts and compare counted quantities with system balances",
+      "category": "Inventory",
+      "industry": "Retail",
+      "iconName": "fact_check",
+      "iconColor": "#14b8a6",
+      "isFeatured": true,
+      "isRecommended": false,
+      "usageCount": 54,
+      "rating": 4.6,
+      "tags": ["inventory", "count", "warehouse", "reconciliation"],
+      "templateDefinition": {
+        "name": "Month-End Stock Count",
+        "description": "Run warehouse stock count workflow",
+        "category": "Inventory",
+        "trigger": {
+          "triggerType": "Schedule",
+          "scheduleType": "Monthly",
+          "cronExpression": "0 18 28 * *"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Action",
+            "name": "Generate Count Sheet",
+            "action": {
+              "actionType": "CreateRecord",
+              "entityType": "InventoryCount",
+              "fieldMappings": {
+                "CountType": "Month-End",
+                "Status": "Draft"
+              }
+            }
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Action",
+            "name": "Notify Warehouse Team",
+            "action": {
+              "actionType": "SendEmail",
+              "emailTo": "warehouse@company.com",
+              "emailSubject": "Month-End Stock Count",
+              "emailBody": "Please complete the stock count and submit results."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "name": "Tax Filing Reminder",
+      "description": "Remind finance teams of upcoming filing deadlines and missing compliance documents",
+      "category": "Tax",
+      "industry": "General",
+      "iconName": "notifications",
+      "iconColor": "#dc2626",
+      "isFeatured": true,
+      "isRecommended": true,
+      "usageCount": 83,
+      "rating": 4.9,
+      "tags": ["tax", "reminder", "compliance", "deadline"],
+      "templateDefinition": {
+        "name": "Tax Filing Reminder",
+        "description": "Alert finance team before tax deadlines",
+        "category": "Tax",
+        "trigger": {
+          "triggerType": "Schedule",
+          "scheduleType": "Daily",
+          "cronExpression": "0 7 * * *"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Action",
+            "name": "Check Upcoming Deadlines",
+            "action": {
+              "actionType": "RunReport",
+              "parameters": { "ReportType": "TaxDeadlines", "DaysAhead": 14 }
+            }
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Action",
+            "name": "Send Reminder",
+            "action": {
+              "actionType": "SendEmail",
+              "emailTo": "tax@company.com",
+              "emailSubject": "Tax Filing Reminder",
+              "emailBody": "A filing deadline is approaching. Please review pending submissions."
+            }
+          }
+        ]
+      }
     }
   ]
 }
