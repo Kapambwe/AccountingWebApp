@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -6,34 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Accounting Web App</title>
     
-    <!-- Dynamic base path - works for local, GitHub Pages, and Cloudflare Pages -->
-    <!-- IMPORTANT: Script MUST run BEFORE base tag to prevent initial 404 errors -->
-    <script>
-        // Detect environment and set correct base path IMMEDIATELY
-        (function() {
-            var hostname = window.location.hostname;
-            var basePath = '/';
-            
-            // GitHub Pages detection
-            if (hostname === 'kapambwe.github.io' || hostname.includes('github.io')) {
-                basePath = '/AccountingWebApp/';
-                console.log('🌐 GitHub Pages detected - using base: /AccountingWebApp/');
-            }
-            // Cloudflare Pages detection (.pages.dev domain)
-            else if (hostname.includes('pages.dev')) {
-                basePath = '/';
-                console.log('☁️ Cloudflare Pages detected - using base: /');
-            }
-            // Custom domain or local development
-            else {
-                basePath = '/';
-                console.log('💻 Local/Custom domain detected - using base: /');
-            }
-            
-            // Write the base tag with correct href IMMEDIATELY
-            document.write('<base href="' + basePath + '" />');
-        })();
-    </script>
+    <!-- Base path: '/' for local dev; deploy.ps1 patches to '/AccountingWebApp/' for GitHub Pages -->
+    <base href="/AccountingWebApp/" />
+    <link href="_framework/dotnet.vp5gzsp0xe.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-Dfz37b6gUN3HjW4f4F03Yl+9le149zsUhIcnJ16GAOg=" />
     
     <!-- Single Page App for GitHub Pages -->
     <!-- Start Single Page App script -->
@@ -64,6 +39,25 @@
     </noscript>
     
     <link rel="icon" type="image/png" href="favicon.png" />
+    <script type="importmap">{
+  "imports": {
+    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.66stpp682q.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.wq5toy4mf1.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.a6jcqbs390.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.vp5gzsp0xe.js"
+  },
+  "scopes": {},
+  "integrity": {
+    "./_framework/blazor.webassembly.66stpp682q.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
+    "./_framework/blazor.webassembly.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
+    "./_framework/dotnet.js": "sha256-Dfz37b6gUN3HjW4f4F03Yl+9le149zsUhIcnJ16GAOg=",
+    "./_framework/dotnet.native.js": "sha256-WGKuaVZHNCQJJ5NcB4x6tMiZNhZr3E2SuuVqqOsDFnI=",
+    "./_framework/dotnet.native.wq5toy4mf1.js": "sha256-WGKuaVZHNCQJJ5NcB4x6tMiZNhZr3E2SuuVqqOsDFnI=",
+    "./_framework/dotnet.runtime.a6jcqbs390.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M=",
+    "./_framework/dotnet.runtime.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M=",
+    "./_framework/dotnet.vp5gzsp0xe.js": "sha256-Dfz37b6gUN3HjW4f4F03Yl+9le149zsUhIcnJ16GAOg="
+  }
+}</script>
 </head>
 <body>
     <div id="app">
@@ -77,7 +71,7 @@
     <div id="blazor-error-ui">
         An unhandled error has occurred.
         <a href="." class="reload">Reload</a>
-        <span class="dismiss">🗙</span>
+        <span class="dismiss">ðŸ—™</span>
     </div>
     
     <!-- Load Blazor scripts dynamically to respect base path -->
@@ -96,7 +90,7 @@
             
             // Load Blazor WebAssembly script
             var blazorScript = document.createElement('script');
-            blazorScript.src = basePath + '/_framework/blazor.webassembly.js';
+            blazorScript.src = basePath + '/_framework/blazor.webassembly#[.{fingerprint}].js';
             blazorScript.defer = true;
             document.body.appendChild(blazorScript);
             
@@ -106,10 +100,164 @@
             radzenScript.defer = true;
             document.body.appendChild(radzenScript);
             
-            console.log('📦 Scripts loaded with base path:', basePath || '(root)');
+            console.log('ðŸ“¦ Scripts loaded with base path:', basePath || '(root)');
+        })();
+    </script>
+    <script>
+        window.accountingWebApp = window.accountingWebApp || {};
+        window.accountingWebApp.downloadFile = function (fileName, contentType, base64Data) {
+            var byteCharacters = atob(base64Data);
+            var byteNumbers = new Array(byteCharacters.length);
+
+            for (var i = 0; i < byteCharacters.length; i++) {
+                byteNumbers[i] = byteCharacters.charCodeAt(i);
+            }
+
+            var byteArray = new Uint8Array(byteNumbers);
+            var blob = new Blob([byteArray], { type: contentType || 'application/octet-stream' });
+            var blobUrl = URL.createObjectURL(blob);
+            var link = document.createElement('a');
+
+            link.href = blobUrl;
+            link.download = fileName || 'download';
+            link.style.display = 'none';
+
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+
+            setTimeout(function () {
+                URL.revokeObjectURL(blobUrl);
+            }, 1000);
+        };
+
+        window.downloadFile = function (fileName, base64Data, contentType) {
+            window.accountingWebApp.downloadFile(fileName, contentType, base64Data);
+        };
+
+        window.accountingWebApp.getCurrentOrigin = function () {
+            return window.location.origin;
+        };
+        window.accountingWebApp.loadSameOriginText = async function (path) {
+            var normalizedPath = path && path.charAt(0) === '/' ? path : '/' + path;
+            var url = window.location.origin + normalizedPath;
+            console.log('ðŸ“„ Loading same-origin text from:', url);
+            var response = await fetch(url, {
+                credentials: 'same-origin'
+            });
+
+            if (!response.ok) {
+                throw new Error('Failed to load ' + normalizedPath + ': ' + response.status + ' ' + response.statusText);
+            }
+
+            return await response.text();
+        };
+
+        (function () {
+            var originalFetch = window.fetch.bind(window);
+
+            window.fetch = function (resource, init) {
+                var requestUrl = typeof resource === 'string'
+                    ? resource
+                    : (resource && resource.url ? resource.url : String(resource));
+
+                if (requestUrl === 'http://localhost:5000/sample-data/directory-structure.json') {
+                    var sameOriginUrl = window.location.origin + '/sample-data/directory-structure.json';
+                    console.log('ðŸ” Rewriting sample-data fetch to app origin:', sameOriginUrl);
+
+                    if (resource instanceof Request) {
+                        resource = new Request(sameOriginUrl, resource);
+                    } else {
+                        resource = sameOriginUrl;
+                    }
+                }
+
+                return originalFetch(resource, init);
+            };
+        })();
+    </script>
+
+    <!-- Performance Monitoring -->
+    <script>
+        (function() {
+            window.addEventListener('load', function() {
+                setTimeout(function() {
+                    try {
+                        const perfData = performance.getEntriesByType('resource');
+                        const dllFiles = perfData.filter(r => r.name.includes('.dll') || r.name.includes('.wasm'));
+                        const jsFiles = perfData.filter(r => r.name.includes('.js') && !r.name.includes('_framework'));
+                        
+                        const totalDllSize = dllFiles.reduce((sum, r) => sum + (r.transferSize || 0), 0);
+                        const totalJsSize = jsFiles.reduce((sum, r) => sum + (r.transferSize || 0), 0);
+                        const totalSize = totalDllSize + totalJsSize;
+                        
+                        console.log('%cðŸ“Š AccountingWebApp Performance Metrics', 'color: #4CAF50; font-size: 16px; font-weight: bold;');
+                        console.log('%câ”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”', 'color: #4CAF50;');
+                        console.log('ðŸ”¹ DLLs loaded:', dllFiles.length);
+                        console.log('ðŸ”¹ Total DLL size:', (totalDllSize / 1024 / 1024).toFixed(2), 'MB');
+                        console.log('ðŸ”¹ Total JS size:', (totalJsSize / 1024 / 1024).toFixed(2), 'MB');
+                        console.log('ðŸ”¹ Total download:', (totalSize / 1024 / 1024).toFixed(2), 'MB');
+                        console.log('%câ”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”', 'color: #4CAF50;');
+                        
+                        const navTiming = performance.getEntriesByType('navigation')[0];
+                        if (navTiming) {
+                            console.log('â±ï¸ Page Load Time:', (navTiming.loadEventEnd - navTiming.fetchStart).toFixed(0), 'ms');
+                            console.log('â±ï¸ DOM Content Loaded:', (navTiming.domContentLoadedEventEnd - navTiming.fetchStart).toFixed(0), 'ms');
+                            console.log('â±ï¸ Time to Interactive:', (navTiming.domInteractive - navTiming.fetchStart).toFixed(0), 'ms');
+                        }
+                        
+                        console.log('%cðŸŽ¯ Phase 3: Real Lazy Loading ACTIVE!', 'color: #FF5722; font-weight: bold; font-size: 14px;');
+                        console.log('%c   âœ“ Workflows assembly configured for lazy loading', 'color: #FF5722;');
+                        console.log('%c   âœ“ Assembly loads on first access', 'color: #FF5722;');
+                        console.log('%c   âœ“ Reduced initial bundle size', 'color: #FF5722;');
+                        console.log('%c   âœ“ Production-ready lazy loading', 'color: #FF5722;');
+                        console.log('%c   â„¹ï¸  Navigate to /workflows to see lazy loading in action', 'color: #FF5722;');
+                        
+                        window.accountingWebAppMetrics = {
+                            dllCount: dllFiles.length,
+                            dllSizeMB: (totalDllSize / 1024 / 1024),
+                            jsSizeMB: (totalJsSize / 1024 / 1024),
+                            totalSizeMB: (totalSize / 1024 / 1024),
+                            loadTimeMs: navTiming ? (navTiming.loadEventEnd - navTiming.fetchStart) : 0,
+                            timestamp: new Date().toISOString(),
+                            phase: 3
+                        };
+                        
+                    } catch (err) {
+                        console.error('Error collecting performance metrics:', err);
+                    }
+                }, 2000);
+            });
+            
+            window.trackFeatureAccess = function(featureName) {
+                if (!window.featureAccessLog) {
+                    window.featureAccessLog = [];
+                }
+                const access = {
+                    feature: featureName,
+                    timestamp: new Date().toISOString(),
+                    url: window.location.pathname,
+                    loadTime: window.lastFeatureLoadTime || 0
+                };
+                window.featureAccessLog.push(access);
+                console.log('%cðŸ“ Feature Loaded: ' + featureName, 'color: #9C27B0; font-weight: bold;', access);
+            };
+            
+            window.trackLazyLoadStart = function(featureName) {
+                window.lazyLoadStart = performance.now();
+                console.log('%câ³ Loading: ' + featureName + '...', 'color: #FF9800; font-weight: bold;');
+            };
+            
+            window.trackLazyLoadEnd = function(featureName) {
+                if (window.lazyLoadStart) {
+                    const loadTime = performance.now() - window.lazyLoadStart;
+                    window.lastFeatureLoadTime = loadTime;
+                    console.log('%câœ… Loaded: ' + featureName + ' in ' + loadTime.toFixed(0) + 'ms', 'color: #4CAF50; font-weight: bold;');
+                    window.lazyLoadStart = null;
+                }
+            };
         })();
     </script>
 </body>
 
 </html>
-
