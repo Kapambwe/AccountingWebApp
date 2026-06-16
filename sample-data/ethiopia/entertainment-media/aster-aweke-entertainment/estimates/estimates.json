@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 8,
+    "customerName": "Girma Music Group Solutions",
+    "estimateDateDaysAgo": 54,
+    "expirationDateDaysFromNow": 42,
+    "status": "Expired",
+    "subTotal": 1588841.56,
+    "taxRate": 16,
+    "taxAmount": 254214.65,
+    "total": 1843056.21,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 54,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 3,
+        "unitPrice": 529613.85,
+        "amount": 1588841.56,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 53
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 6,
+    "customerName": "Fikre Music Group Solutions",
+    "estimateDateDaysAgo": 12,
+    "expirationDateDaysFromNow": 42,
+    "status": "Accepted",
+    "subTotal": 728084.57,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 728084.57,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 12,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 5,
+        "unitPrice": 145616.91,
+        "amount": 728084.57,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 11
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 4,
+    "customerName": "Wolde Productions Holdings",
+    "estimateDateDaysAgo": 40,
+    "expirationDateDaysFromNow": 38,
+    "status": "Open",
+    "subTotal": 637740.43,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 637740.43,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 40,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 1,
+        "unitPrice": 637740.43,
+        "amount": 637740.43,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 39
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 8,
+    "customerName": "Girma Music Group Solutions",
+    "estimateDateDaysAgo": 58,
+    "expirationDateDaysFromNow": 42,
+    "status": "Open",
+    "subTotal": 1197290.4,
+    "taxRate": 18,
+    "taxAmount": 215512.27,
+    "total": 1412802.67,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 58,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 2,
+        "unitPrice": 598645.2,
+        "amount": 1197290.4,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 57
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 3,
+    "customerName": "Selassie Media Co.",
+    "estimateDateDaysAgo": 33,
+    "expirationDateDaysFromNow": 43,
+    "status": "Expired",
+    "subTotal": 1032249.08,
+    "taxRate": 18,
+    "taxAmount": 185804.83,
+    "total": 1218053.91,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 33,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 1,
+        "unitPrice": 1032249.08,
+        "amount": 1032249.08,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 32
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 5,
+    "customerName": "Mekonen Media Co.",
+    "estimateDateDaysAgo": 29,
+    "expirationDateDaysFromNow": 43,
+    "status": "Open",
+    "subTotal": 829894.53,
+    "taxRate": 15,
+    "taxAmount": 124484.18,
+    "total": 954378.71,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 29,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 5,
+        "unitPrice": 165978.91,
+        "amount": 829894.53,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 28
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 4,
+    "customerName": "Wolde Productions Holdings",
+    "estimateDateDaysAgo": 23,
+    "expirationDateDaysFromNow": 36,
+    "status": "Declined",
+    "subTotal": 908202.42,
+    "taxRate": 15,
+    "taxAmount": 136230.36,
+    "total": 1044432.78,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 23,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 1,
+        "unitPrice": 908202.42,
+        "amount": 908202.42,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 22
+  }
+]

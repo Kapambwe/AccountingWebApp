@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 8,
+    "customerName": "Wolde Music Group Solutions",
+    "estimateDateDaysAgo": 47,
+    "expirationDateDaysFromNow": 16,
+    "status": "Accepted",
+    "subTotal": 271152.65,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 271152.65,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 47,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 3,
+        "unitPrice": 90384.22,
+        "amount": 271152.65,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 46
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 3,
+    "customerName": "Tesfaye Creative Agency Enterprises",
+    "estimateDateDaysAgo": 42,
+    "expirationDateDaysFromNow": 20,
+    "status": "Sent",
+    "subTotal": 593826.19,
+    "taxRate": 15,
+    "taxAmount": 89073.93,
+    "total": 682900.12,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 42,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 3,
+        "unitPrice": 197942.06,
+        "amount": 593826.19,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 41
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 1,
+    "customerName": "Desta Entertainment Holdings",
+    "estimateDateDaysAgo": 10,
+    "expirationDateDaysFromNow": 35,
+    "status": "Sent",
+    "subTotal": 892512.96,
+    "taxRate": 15,
+    "taxAmount": 133876.94,
+    "total": 1026389.9,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 10,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 1,
+        "unitPrice": 892512.96,
+        "amount": 892512.96,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 9
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 1,
+    "customerName": "Desta Entertainment Holdings",
+    "estimateDateDaysAgo": 24,
+    "expirationDateDaysFromNow": 18,
+    "status": "Declined",
+    "subTotal": 181438.45,
+    "taxRate": 15,
+    "taxAmount": 27215.77,
+    "total": 208654.22,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 24,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 3,
+        "unitPrice": 60479.48,
+        "amount": 181438.45,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 23
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 9,
+    "customerName": "Meles Entertainment Ltd",
+    "estimateDateDaysAgo": 8,
+    "expirationDateDaysFromNow": 36,
+    "status": "Declined",
+    "subTotal": 804199.72,
+    "taxRate": 16,
+    "taxAmount": 128671.96,
+    "total": 932871.68,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 4,
+        "unitPrice": 201049.93,
+        "amount": 804199.72,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 7
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Bello Productions Holdings",
+    "description": "PR Campaign",
+    "billDate": "2024-12-15T00:00:00",
+    "dueDate": "2025-01-14T00:00:00",
+    "amount": 8800748.12,
+    "paidAmount": 8800748.12,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Nwachukwu Entertainment Holdings",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-10-01T00:00:00",
+    "dueDate": "2024-10-16T00:00:00",
+    "amount": 12984373.36,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Obi Music Group Ltd",
+    "description": "Tour Logistics",
+    "billDate": "2025-01-09T00:00:00",
+    "dueDate": "2025-02-23T00:00:00",
+    "amount": 10845917.93,
+    "paidAmount": 10845917.93,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Obi Music Group Ltd",
+    "description": "Social Media Management",
+    "billDate": "2025-02-20T00:00:00",
+    "dueDate": "2025-04-06T00:00:00",
+    "amount": 7208913.41,
+    "paidAmount": 7208913.41,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Eze Media Group",
+    "description": "PR Campaign",
+    "billDate": "2025-02-23T00:00:00",
+    "dueDate": "2025-03-25T00:00:00",
+    "amount": 3549560.18,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Bello Productions Holdings",
+    "description": "Music Video Production",
+    "billDate": "2024-10-26T00:00:00",
+    "dueDate": "2024-11-10T00:00:00",
+    "amount": 3183719.46,
+    "paidAmount": 1920394.25,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Nwachukwu Entertainment Holdings",
+    "description": "PR Campaign",
+    "billDate": "2024-11-28T00:00:00",
+    "dueDate": "2024-12-13T00:00:00",
+    "amount": 8786868.33,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Nwosu Entertainment Limited",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-11-12T00:00:00",
+    "dueDate": "2024-12-27T00:00:00",
+    "amount": 1704264.6,
+    "paidAmount": 1704264.6,
+    "status": "Paid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Abubakar Productions Holdings",
+    "description": "Social Media Management",
+    "billDate": "2024-09-29T00:00:00",
+    "dueDate": "2024-10-14T00:00:00",
+    "amount": 2203011.75,
+    "paidAmount": 2203011.75,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Bello Productions Holdings",
+    "description": "Tour Logistics",
+    "billDate": "2025-02-16T00:00:00",
+    "dueDate": "2025-03-18T00:00:00",
+    "amount": 869102.0,
+    "paidAmount": 869102.0,
+    "status": "Paid"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Nwachukwu Entertainment Holdings",
+    "description": "PR Campaign",
+    "billDate": "2024-10-22T00:00:00",
+    "dueDate": "2024-11-06T00:00:00",
+    "amount": 9589861.61,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

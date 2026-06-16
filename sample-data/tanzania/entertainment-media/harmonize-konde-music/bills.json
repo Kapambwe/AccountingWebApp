@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Kimaro Music Group Ltd",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-10-23T00:00:00",
+    "dueDate": "2024-12-07T00:00:00",
+    "amount": 4101794.86,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Kikwete Creative Agency Inc.",
+    "description": "Studio Recording Session",
+    "billDate": "2024-12-27T00:00:00",
+    "dueDate": "2025-01-26T00:00:00",
+    "amount": 5022722.57,
+    "paidAmount": 5022722.57,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Kimaro Creative Agency Group",
+    "description": "Music Video Production",
+    "billDate": "2024-12-25T00:00:00",
+    "dueDate": "2025-01-09T00:00:00",
+    "amount": 1257507.76,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Kimaro Creative Agency Group",
+    "description": "Social Media Management",
+    "billDate": "2025-02-21T00:00:00",
+    "dueDate": "2025-03-08T00:00:00",
+    "amount": 2423033.35,
+    "paidAmount": 2423033.35,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Kikwete Creative Agency Inc.",
+    "description": "Studio Recording Session",
+    "billDate": "2024-10-12T00:00:00",
+    "dueDate": "2024-10-27T00:00:00",
+    "amount": 1635492.53,
+    "paidAmount": 726148.05,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Mwenda Music Group Inc.",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-10-14T00:00:00",
+    "dueDate": "2024-10-29T00:00:00",
+    "amount": 6226498.45,
+    "paidAmount": 2150330.69,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Kimaro Creative Agency Group",
+    "description": "Management Fee",
+    "billDate": "2024-11-02T00:00:00",
+    "dueDate": "2024-12-02T00:00:00",
+    "amount": 217040.96,
+    "paidAmount": 73079.77,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mwenda Entertainment Co.",
+    "description": "Music Video Production",
+    "billDate": "2024-10-04T00:00:00",
+    "dueDate": "2024-11-03T00:00:00",
+    "amount": 6310791.32,
+    "paidAmount": 3017894.85,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Mwenda Entertainment Co.",
+    "description": "Social Media Management",
+    "billDate": "2024-11-21T00:00:00",
+    "dueDate": "2025-01-05T00:00:00",
+    "amount": 4145664.47,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

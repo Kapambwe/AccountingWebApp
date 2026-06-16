@@ -1,0 +1,49 @@
+{
+  "contracts": [
+    {
+      "contractNumber": "RR-1001",
+      "customerName": "Zamtel Enterprise",
+      "startDate": "2026-01-01T00:00:00",
+      "endDate": "2026-12-31T00:00:00",
+      "totalContractValue": 8400000,
+      "recognizedToDate": 2600000,
+      "deferredRevenue": 5800000,
+      "recognitionMethod": "Straight line",
+      "status": "Active",
+      "owner": "Revenue Accountant",
+      "nextReviewDate": "today+10"
+    },
+    {
+      "contractNumber": "RR-1002",
+      "customerName": "Copperbelt Rail Services",
+      "startDate": "2026-03-01T00:00:00",
+      "endDate": "2026-08-31T00:00:00",
+      "totalContractValue": 1200000,
+      "recognizedToDate": 400000,
+      "deferredRevenue": 800000,
+      "recognitionMethod": "Milestone",
+      "status": "Review",
+      "owner": "Finance Controller",
+      "nextReviewDate": "today+4"
+    },
+    {
+      "contractNumber": "RR-1003",
+      "customerName": "Ministry Framework Agreement",
+      "startDate": "2025-11-01T00:00:00",
+      "endDate": "2026-10-31T00:00:00",
+      "totalContractValue": 3600000,
+      "recognizedToDate": 2900000,
+      "deferredRevenue": 700000,
+      "recognitionMethod": "Time based",
+      "status": "Active",
+      "owner": "Revenue Accountant",
+      "nextReviewDate": "today+35"
+    }
+  ],
+  "workflowSteps": [
+    { "code": "con", "title": "Load contract terms", "status": "Completed", "ownerRole": "Contracts Team", "details": "Capture the service period, deliverables, and pricing." },
+    { "code": "map", "title": "Map performance obligations", "status": "Completed", "ownerRole": "Revenue Accountant", "details": "Identify recognition pattern and accounting memo." },
+    { "code": "rec", "title": "Recognize revenue", "status": "InProgress", "ownerRole": "GL Accountant", "details": "Post monthly recognition entries." },
+    { "code": "rev", "title": "Review deferred balance", "status": "Pending", "ownerRole": "Finance Controller", "details": "Validate the remaining liability and disclosures." }
+  ]
+}

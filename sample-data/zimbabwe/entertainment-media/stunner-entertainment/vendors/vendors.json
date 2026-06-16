@@ -1,0 +1,122 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Blessing Mpofu",
+      "companyName": "Sibanda Media Enterprises",
+      "contactPerson": "Blessing Mpofu",
+      "email": "blessingmpof@mpofu.co.zw",
+      "phone": "+263 948 150 716",
+      "city": "Chinhoyi",
+      "country": "Zimbabwe",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-840212",
+      "totalAmountOwed": 1136.63
+    },
+    {
+      "id": 2,
+      "vendorName": "Vimbai Sibanda",
+      "companyName": "Nkomo Creative Agency Group",
+      "contactPerson": "Vimbai Sibanda",
+      "email": "vimbaisiband@sibanda.co.zw",
+      "phone": "+263 163 861 504",
+      "city": "Masvingo",
+      "country": "Zimbabwe",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-639880",
+      "totalAmountOwed": 4220.24
+    },
+    {
+      "id": 3,
+      "vendorName": "Blessing Mnangagwa",
+      "companyName": "Mapfumo Creative Agency Limited",
+      "contactPerson": "Blessing Mnangagwa",
+      "email": "blessingmnan@mnangagwa.co.zw",
+      "phone": "+263 486 706 594",
+      "city": "Masvingo",
+      "country": "Zimbabwe",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-306703",
+      "totalAmountOwed": 941.78
+    },
+    {
+      "id": 4,
+      "vendorName": "Tapiwa Dube",
+      "companyName": "Chiwenga Creative Agency Solutions",
+      "contactPerson": "Tapiwa Dube",
+      "email": "tapiwadube@dube.co.zw",
+      "phone": "+263 493 322 479",
+      "city": "Chinhoyi",
+      "country": "Zimbabwe",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-121442",
+      "totalAmountOwed": 131.08
+    },
+    {
+      "id": 5,
+      "vendorName": "Tendai Mawere",
+      "companyName": "Mugabe Music Group Solutions",
+      "contactPerson": "Tendai Mawere",
+      "email": "tendaimawere@mawere.co.zw",
+      "phone": "+263 670 129 372",
+      "city": "Kwekwe",
+      "country": "Zimbabwe",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-127284",
+      "totalAmountOwed": 304.22
+    },
+    {
+      "id": 6,
+      "vendorName": "Rudo Nkomo",
+      "companyName": "Chiwenga Music Group Limited",
+      "contactPerson": "Rudo Nkomo",
+      "email": "rudonkomo@nkomo.co.zw",
+      "phone": "+263 153 759 134",
+      "city": "Chinhoyi",
+      "country": "Zimbabwe",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-103838",
+      "totalAmountOwed": 710.79
+    },
+    {
+      "id": 7,
+      "vendorName": "Tendai Mutsvangwa",
+      "companyName": "Mpofu Creative Agency Co.",
+      "contactPerson": "Tendai Mutsvangwa",
+      "email": "tendaimutsva@mutsvangwa.co.zw",
+      "phone": "+263 578 486 186",
+      "city": "Gweru",
+      "country": "Zimbabwe",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-658042",
+      "totalAmountOwed": 107.69
+    },
+    {
+      "id": 8,
+      "vendorName": "Tatenda Ndlovu",
+      "companyName": "Dube Media Limited",
+      "contactPerson": "Tatenda Ndlovu",
+      "email": "tatendandlov@ndlovu.co.zw",
+      "phone": "+263 036 393 769",
+      "city": "Gweru",
+      "country": "Zimbabwe",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-100162",
+      "totalAmountOwed": 673.48
+    },
+    {
+      "id": 9,
+      "vendorName": "Tariro Chiwenga",
+      "companyName": "Mapfumo Media Limited",
+      "contactPerson": "Tariro Chiwenga",
+      "email": "tarirochiwen@chiwenga.co.zw",
+      "phone": "+263 126 365 815",
+      "city": "Kwekwe",
+      "country": "Zimbabwe",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-185696",
+      "totalAmountOwed": 747.39
+    }
+  ],
+  "vendorCredits": []
+}
