@@ -11,34 +11,6 @@
     }
 }(window.location));
 
-// Dynamic Blazor Loading with Fingerprint Placeholder
-(function() {
-    var baseElement = document.querySelector('base');
-    var basePath = baseElement ? baseElement.getAttribute('href') : '/';
-    
-    // Ensure basePath doesn't have double slashes
-    if (basePath === '/') {
-        basePath = '';
-    } else if (basePath.endsWith('/')) {
-        basePath = basePath.slice(0, -1);
-    }
-    
-    // Load Blazor WebAssembly script
-    // NOTE: The #[.{fingerprint}] placeholder is required for the build/deployment pipeline
-    var blazorScript = document.createElement('script');
-    blazorScript.src = basePath + '/_framework/blazor.webassembly#[.{fingerprint}].js';
-    blazorScript.defer = true;
-    document.body.appendChild(blazorScript);
-    
-    // Load Radzen script
-    var radzenScript = document.createElement('script');
-    radzenScript.src = basePath + '/_content/Radzen.Blazor/Radzen.Blazor.js';
-    radzenScript.defer = true;
-    document.body.appendChild(radzenScript);
-    
-    console.log('📦 Scripts loaded with base path:', basePath || '(root)');
-})();
-
 // Helper Functions
 window.accountingWebApp = window.accountingWebApp || {};
 window.accountingWebApp.downloadFile = function (fileName, contentType, base64Data) {

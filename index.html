@@ -8,7 +8,7 @@
     
     <!-- Base path: '/' for local dev; deploy.ps1 patches to '/AccountingWebApp/' for GitHub Pages -->
     <base href="/AccountingWebApp/" />
-    <link href="_framework/dotnet.3e5ud4nxw3.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-y+PJNWX1BxIZ+kfx5E+0LlgKmvPqBF0C7Q8HlTEhQJo=" />
+    <link href="_framework/dotnet.nats43c74x.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-sYxU+pddWYGMJCKxz41eNlF9kiFGVvCGIyyaavq+XPI=" />
     
     <!-- Defer non-critical CSS to avoid blocking render -->
     <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" media="print" onload="this.media='all'">
@@ -21,25 +21,27 @@
     </noscript>
     
     <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="AccountingWebApp.styles.css" rel="stylesheet" />
     <script type="importmap">{
   "imports": {
     "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.958z1vx7fr.js",
-    "./_framework/dotnet.js": "./_framework/dotnet.3e5ud4nxw3.js",
     "./_framework/dotnet.native.js": "./_framework/dotnet.native.wq5toy4mf1.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.nats43c74x.js",
     "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.a6jcqbs390.js"
   },
   "scopes": {},
   "integrity": {
     "./_framework/blazor.webassembly.958z1vx7fr.js": "sha256-A59Tr9HqEhHMu8kU7kruLI9ayw5MRS6Lvc6z7jCbghk=",
     "./_framework/blazor.webassembly.js": "sha256-A59Tr9HqEhHMu8kU7kruLI9ayw5MRS6Lvc6z7jCbghk=",
-    "./_framework/dotnet.3e5ud4nxw3.js": "sha256-y+PJNWX1BxIZ+kfx5E+0LlgKmvPqBF0C7Q8HlTEhQJo=",
-    "./_framework/dotnet.js": "sha256-y+PJNWX1BxIZ+kfx5E+0LlgKmvPqBF0C7Q8HlTEhQJo=",
+    "./_framework/dotnet.js": "sha256-sYxU+pddWYGMJCKxz41eNlF9kiFGVvCGIyyaavq+XPI=",
     "./_framework/dotnet.native.js": "sha256-WGKuaVZHNCQJJ5NcB4x6tMiZNhZr3E2SuuVqqOsDFnI=",
     "./_framework/dotnet.native.wq5toy4mf1.js": "sha256-WGKuaVZHNCQJJ5NcB4x6tMiZNhZr3E2SuuVqqOsDFnI=",
+    "./_framework/dotnet.nats43c74x.js": "sha256-sYxU+pddWYGMJCKxz41eNlF9kiFGVvCGIyyaavq+XPI=",
     "./_framework/dotnet.runtime.a6jcqbs390.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M=",
     "./_framework/dotnet.runtime.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M="
   }
 }</script>
+    <script src="js/index.js"></script>
 </head>
 <body>
     <div id="app">
@@ -56,8 +58,8 @@
         <span class="dismiss">ðŸ—™</span>
     </div>
 
-    <!-- Application Logic (Externalized) -->
-    <script src="js/index.js"></script>
+    <script src="_framework/blazor.webassembly.958z1vx7fr.js"></script>
+    <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
 </body>
 
 </html>
