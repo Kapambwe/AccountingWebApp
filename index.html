@@ -8,6 +8,7 @@
     
     <!-- Base path: '/' for local dev; deploy.ps1 patches to '/AccountingWebApp/' for GitHub Pages -->
     <base href="/AccountingWebApp/" />
+    <link href="_framework/dotnet.pj5vkepgde.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-K7YyqXQlM/D/VJRyO8YhBfhHAcR/vo0LQ1nbrRo0LwU=" />
     
     <!-- Single Page App for GitHub Pages -->
     <!-- Start Single Page App script -->
@@ -38,6 +39,25 @@
     </noscript>
     
     <link rel="icon" type="image/png" href="favicon.png" />
+    <script type="importmap">{
+  "imports": {
+    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.66stpp682q.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.wq5toy4mf1.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.pj5vkepgde.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.a6jcqbs390.js"
+  },
+  "scopes": {},
+  "integrity": {
+    "./_framework/blazor.webassembly.66stpp682q.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
+    "./_framework/blazor.webassembly.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
+    "./_framework/dotnet.js": "sha256-K7YyqXQlM/D/VJRyO8YhBfhHAcR/vo0LQ1nbrRo0LwU=",
+    "./_framework/dotnet.native.js": "sha256-WGKuaVZHNCQJJ5NcB4x6tMiZNhZr3E2SuuVqqOsDFnI=",
+    "./_framework/dotnet.native.wq5toy4mf1.js": "sha256-WGKuaVZHNCQJJ5NcB4x6tMiZNhZr3E2SuuVqqOsDFnI=",
+    "./_framework/dotnet.pj5vkepgde.js": "sha256-K7YyqXQlM/D/VJRyO8YhBfhHAcR/vo0LQ1nbrRo0LwU=",
+    "./_framework/dotnet.runtime.a6jcqbs390.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M=",
+    "./_framework/dotnet.runtime.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M="
+  }
+}</script>
 </head>
 <body>
     <div id="app">
@@ -70,7 +90,7 @@
             
             // Load Blazor WebAssembly script
             var blazorScript = document.createElement('script');
-            blazorScript.src = basePath + '/_framework/blazor.webassembly.js';
+            blazorScript.src = basePath + '/_framework/blazor.webassembly#[.{fingerprint}].js';
             blazorScript.defer = true;
             document.body.appendChild(blazorScript);
             
@@ -109,6 +129,10 @@
             setTimeout(function () {
                 URL.revokeObjectURL(blobUrl);
             }, 1000);
+        };
+
+        window.downloadFile = function (fileName, base64Data, contentType) {
+            window.accountingWebApp.downloadFile(fileName, contentType, base64Data);
         };
 
         window.accountingWebApp.getCurrentOrigin = function () {
