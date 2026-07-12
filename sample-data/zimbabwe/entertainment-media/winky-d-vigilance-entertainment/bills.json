@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Moyo Entertainment Group",
+    "description": "Tour Logistics",
+    "billDate": "2024-11-17T00:00:00",
+    "dueDate": "2024-12-02T00:00:00",
+    "amount": 23709.31,
+    "paidAmount": 23709.31,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Chikwanda Media Limited",
+    "description": "Music Video Production",
+    "billDate": "2025-02-21T00:00:00",
+    "dueDate": "2025-04-07T00:00:00",
+    "amount": 33967.43,
+    "paidAmount": 33967.43,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Mapfumo Music Group Holdings",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-11-13T00:00:00",
+    "dueDate": "2024-12-28T00:00:00",
+    "amount": 4945.88,
+    "paidAmount": 2814.13,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Mugabe Media Holdings",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-03-11T00:00:00",
+    "dueDate": "2025-03-26T00:00:00",
+    "amount": 29623.07,
+    "paidAmount": 29623.07,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Mawere Media Enterprises",
+    "description": "Travel & Accommodation",
+    "billDate": "2025-02-04T00:00:00",
+    "dueDate": "2025-03-06T00:00:00",
+    "amount": 6052.09,
+    "paidAmount": 6052.09,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Mawere Entertainment Enterprises",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-10-10T00:00:00",
+    "dueDate": "2024-11-09T00:00:00",
+    "amount": 23030.67,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Mawere Entertainment Enterprises",
+    "description": "Tour Logistics",
+    "billDate": "2024-12-26T00:00:00",
+    "dueDate": "2025-01-10T00:00:00",
+    "amount": 1374.75,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mawere Entertainment Enterprises",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-09-28T00:00:00",
+    "dueDate": "2024-11-12T00:00:00",
+    "amount": 21520.63,
+    "paidAmount": 21520.63,
+    "status": "Paid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Mpofu Media Enterprises",
+    "description": "Travel & Accommodation",
+    "billDate": "2025-01-29T00:00:00",
+    "dueDate": "2025-02-13T00:00:00",
+    "amount": 11132.17,
+    "paidAmount": 6357.96,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Mawere Entertainment Enterprises",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-01-26T00:00:00",
+    "dueDate": "2025-02-25T00:00:00",
+    "amount": 28793.22,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Nkomo Entertainment Ltd",
+    "description": "Studio Recording Session",
+    "billDate": "2024-10-13T00:00:00",
+    "dueDate": "2024-10-28T00:00:00",
+    "amount": 6332.63,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Mugabe Media Holdings",
+    "description": "PR Campaign",
+    "billDate": "2025-01-26T00:00:00",
+    "dueDate": "2025-02-10T00:00:00",
+    "amount": 13773.73,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

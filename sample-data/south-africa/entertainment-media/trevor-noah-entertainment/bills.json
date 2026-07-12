@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Sithole Music Group Enterprises",
+    "description": "Tour Logistics",
+    "billDate": "2024-10-30T00:00:00",
+    "dueDate": "2024-11-29T00:00:00",
+    "amount": 334327.17,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Mkhize Entertainment Limited",
+    "description": "Tour Logistics",
+    "billDate": "2024-12-08T00:00:00",
+    "dueDate": "2025-01-07T00:00:00",
+    "amount": 180056.57,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Mkhize Media Ltd",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-10-01T00:00:00",
+    "dueDate": "2024-10-31T00:00:00",
+    "amount": 221996.55,
+    "paidAmount": 221996.55,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Nkosi Productions Enterprises",
+    "description": "Management Fee",
+    "billDate": "2024-10-03T00:00:00",
+    "dueDate": "2024-11-17T00:00:00",
+    "amount": 7600.74,
+    "paidAmount": 7600.74,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Radebe Productions Co.",
+    "description": "Music Video Production",
+    "billDate": "2025-02-15T00:00:00",
+    "dueDate": "2025-03-17T00:00:00",
+    "amount": 204606.66,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Sithole Entertainment Co.",
+    "description": "Studio Recording Session",
+    "billDate": "2024-10-19T00:00:00",
+    "dueDate": "2024-12-03T00:00:00",
+    "amount": 208046.11,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Shabalala Entertainment Group",
+    "description": "PR Campaign",
+    "billDate": "2024-09-23T00:00:00",
+    "dueDate": "2024-10-23T00:00:00",
+    "amount": 231080.05,
+    "paidAmount": 231080.05,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Shabalala Entertainment Group",
+    "description": "PR Campaign",
+    "billDate": "2024-12-22T00:00:00",
+    "dueDate": "2025-02-05T00:00:00",
+    "amount": 147934.55,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Dlamin Creative Agency Limited",
+    "description": "Music Video Production",
+    "billDate": "2025-01-18T00:00:00",
+    "dueDate": "2025-03-04T00:00:00",
+    "amount": 334036.28,
+    "paidAmount": 334036.28,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Dlamin Creative Agency Limited",
+    "description": "Management Fee",
+    "billDate": "2024-12-28T00:00:00",
+    "dueDate": "2025-01-27T00:00:00",
+    "amount": 240210.44,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Dlamin Creative Agency Limited",
+    "description": "Music Video Production",
+    "billDate": "2024-12-22T00:00:00",
+    "dueDate": "2025-01-21T00:00:00",
+    "amount": 143607.44,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

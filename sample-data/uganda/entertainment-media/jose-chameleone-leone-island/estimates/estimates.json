@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 2,
+    "customerName": "Byekwaso Music Group Solutions",
+    "estimateDateDaysAgo": 48,
+    "expirationDateDaysFromNow": 33,
+    "status": "Declined",
+    "subTotal": 34549032.14,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 34549032.14,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 5,
+        "unitPrice": 6909806.43,
+        "amount": 34549032.14,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 47
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 2,
+    "customerName": "Byekwaso Music Group Solutions",
+    "estimateDateDaysAgo": 50,
+    "expirationDateDaysFromNow": 30,
+    "status": "Accepted",
+    "subTotal": 11005333.79,
+    "taxRate": 16,
+    "taxAmount": 1760853.41,
+    "total": 12766187.2,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 50,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 2,
+        "unitPrice": 5502666.89,
+        "amount": 11005333.79,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 49
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 4,
+    "customerName": "Museveni Media Co.",
+    "estimateDateDaysAgo": 10,
+    "expirationDateDaysFromNow": 36,
+    "status": "Open",
+    "subTotal": 12695023.31,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 12695023.31,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 10,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 2,
+        "unitPrice": 6347511.66,
+        "amount": 12695023.31,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 9
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 11,
+    "customerName": "Ssewanyana Creative Agency Holdings",
+    "estimateDateDaysAgo": 48,
+    "expirationDateDaysFromNow": 20,
+    "status": "Accepted",
+    "subTotal": 23567721.25,
+    "taxRate": 15,
+    "taxAmount": 3535158.19,
+    "total": 27102879.44,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 4,
+        "unitPrice": 5891930.31,
+        "amount": 23567721.25,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 47
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 11,
+    "customerName": "Ssewanyana Creative Agency Holdings",
+    "estimateDateDaysAgo": 10,
+    "expirationDateDaysFromNow": 18,
+    "status": "Sent",
+    "subTotal": 15269614.79,
+    "taxRate": 16,
+    "taxAmount": 2443138.37,
+    "total": 17712753.16,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 10,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 5,
+        "unitPrice": 3053922.96,
+        "amount": 15269614.79,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 9
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 11,
+    "customerName": "Ssewanyana Creative Agency Holdings",
+    "estimateDateDaysAgo": 47,
+    "expirationDateDaysFromNow": 43,
+    "status": "Sent",
+    "subTotal": 19266831.6,
+    "taxRate": 16,
+    "taxAmount": 3082693.06,
+    "total": 22349524.66,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 47,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 4,
+        "unitPrice": 4816707.9,
+        "amount": 19266831.6,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 46
+  }
+]

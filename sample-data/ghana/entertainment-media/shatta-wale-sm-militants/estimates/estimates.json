@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 6,
+    "customerName": "Akufo-Addo Creative Agency Limited",
+    "estimateDateDaysAgo": 27,
+    "expirationDateDaysFromNow": 20,
+    "status": "Declined",
+    "subTotal": 203046.35,
+    "taxRate": 16,
+    "taxAmount": 32487.42,
+    "total": 235533.77,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 27,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 1,
+        "unitPrice": 203046.35,
+        "amount": 203046.35,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 26
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 1,
+    "customerName": "Ofori Creative Agency Limited",
+    "estimateDateDaysAgo": 59,
+    "expirationDateDaysFromNow": 25,
+    "status": "Open",
+    "subTotal": 254132.27,
+    "taxRate": 16,
+    "taxAmount": 40661.16,
+    "total": 294793.43,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 59,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 4,
+        "unitPrice": 63533.07,
+        "amount": 254132.27,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 58
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 3,
+    "customerName": "Attah Productions Holdings",
+    "estimateDateDaysAgo": 40,
+    "expirationDateDaysFromNow": 28,
+    "status": "Expired",
+    "subTotal": 368911.35,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 368911.35,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 40,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 2,
+        "unitPrice": 184455.67,
+        "amount": 368911.35,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 39
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 7,
+    "customerName": "Kusi Media Ltd",
+    "estimateDateDaysAgo": 37,
+    "expirationDateDaysFromNow": 35,
+    "status": "Sent",
+    "subTotal": 18680.78,
+    "taxRate": 15,
+    "taxAmount": 2802.12,
+    "total": 21482.9,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 37,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 1,
+        "unitPrice": 18680.78,
+        "amount": 18680.78,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 36
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 6,
+    "customerName": "Akufo-Addo Creative Agency Limited",
+    "estimateDateDaysAgo": 32,
+    "expirationDateDaysFromNow": 21,
+    "status": "Draft",
+    "subTotal": 16992.32,
+    "taxRate": 18,
+    "taxAmount": 3058.62,
+    "total": 20050.94,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 32,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 4,
+        "unitPrice": 4248.08,
+        "amount": 16992.32,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 7,
+    "customerName": "Kusi Media Ltd",
+    "estimateDateDaysAgo": 43,
+    "expirationDateDaysFromNow": 43,
+    "status": "Open",
+    "subTotal": 97878.83,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 97878.83,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 43,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 3,
+        "unitPrice": 32626.28,
+        "amount": 97878.83,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 42
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 9,
+    "customerName": "Nkrumah Entertainment Inc.",
+    "estimateDateDaysAgo": 25,
+    "expirationDateDaysFromNow": 30,
+    "status": "Open",
+    "subTotal": 30779.33,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 30779.33,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 25,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 4,
+        "unitPrice": 7694.83,
+        "amount": 30779.33,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 24
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Gumbo Entertainment Group",
+    "description": "Studio Recording Session",
+    "billDate": "2024-11-05T00:00:00",
+    "dueDate": "2024-12-20T00:00:00",
+    "amount": 22992.58,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Mapfumo Productions Limited",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-10-01T00:00:00",
+    "dueDate": "2024-10-16T00:00:00",
+    "amount": 4568.04,
+    "paidAmount": 4568.04,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Mugabe Productions Ltd",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-02-27T00:00:00",
+    "dueDate": "2025-03-29T00:00:00",
+    "amount": 14633.49,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Sibanda Music Group Group",
+    "description": "Studio Recording Session",
+    "billDate": "2025-02-17T00:00:00",
+    "dueDate": "2025-03-19T00:00:00",
+    "amount": 31673.99,
+    "paidAmount": 9586.19,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Mutsvangwa Productions Group",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-10-04T00:00:00",
+    "dueDate": "2024-11-03T00:00:00",
+    "amount": 2724.55,
+    "paidAmount": 1839.25,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Gumbo Entertainment Group",
+    "description": "Music Video Production",
+    "billDate": "2025-03-09T00:00:00",
+    "dueDate": "2025-04-23T00:00:00",
+    "amount": 34389.53,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Mutsvangwa Productions Group",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-12-25T00:00:00",
+    "dueDate": "2025-02-08T00:00:00",
+    "amount": 14914.54,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mutsvangwa Productions Group",
+    "description": "Tour Logistics",
+    "billDate": "2024-11-08T00:00:00",
+    "dueDate": "2024-12-23T00:00:00",
+    "amount": 2789.52,
+    "paidAmount": 2789.52,
+    "status": "Paid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Moyo Entertainment Group",
+    "description": "PR Campaign",
+    "billDate": "2024-10-05T00:00:00",
+    "dueDate": "2024-10-20T00:00:00",
+    "amount": 18724.5,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Ndlovu Media Limited",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-11-22T00:00:00",
+    "dueDate": "2024-12-22T00:00:00",
+    "amount": 19785.71,
+    "paidAmount": 15640.36,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Ndlovu Media Limited",
+    "description": "Tour Logistics",
+    "billDate": "2025-01-26T00:00:00",
+    "dueDate": "2025-02-25T00:00:00",
+    "amount": 6777.44,
+    "paidAmount": 6777.44,
+    "status": "Paid"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Mugabe Media Inc.",
+    "description": "Social Media Management",
+    "billDate": "2024-11-24T00:00:00",
+    "dueDate": "2024-12-24T00:00:00",
+    "amount": 9362.68,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Moyo Entertainment Group",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-02-22T00:00:00",
+    "dueDate": "2025-04-08T00:00:00",
+    "amount": 2489.12,
+    "paidAmount": 2489.12,
+    "status": "Paid"
+  }
+]

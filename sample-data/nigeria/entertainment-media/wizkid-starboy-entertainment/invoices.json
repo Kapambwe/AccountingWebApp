@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Nwachukwu Entertainment Solutions",
+    "description": "Performance Fee",
+    "invoiceDate": "2024-12-22T00:00:00",
+    "dueDate": "2025-02-20T00:00:00",
+    "amount": 3483777.26,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 4
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Ibrahim Creative Agency Group",
+    "description": "Endorsement Deal",
+    "invoiceDate": "2025-03-04T00:00:00",
+    "dueDate": "2025-05-03T00:00:00",
+    "amount": 4432104.33,
+    "receivedAmount": 4432104.33,
+    "status": "Paid",
+    "customerId": 10
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Adewale Entertainment Holdings",
+    "description": "Concert Headlining Fee",
+    "invoiceDate": "2024-10-30T00:00:00",
+    "dueDate": "2024-11-14T00:00:00",
+    "amount": 7101022.38,
+    "receivedAmount": 7101022.38,
+    "status": "Paid",
+    "customerId": 6
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Ibrahim Creative Agency Group",
+    "description": "Endorsement Deal",
+    "invoiceDate": "2025-02-25T00:00:00",
+    "dueDate": "2025-03-12T00:00:00",
+    "amount": 14860871.02,
+    "receivedAmount": 0.0,
+    "status": "Overdue",
+    "customerId": 10
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Anyanwu Productions Co.",
+    "description": "Merchandise Revenue",
+    "invoiceDate": "2025-02-12T00:00:00",
+    "dueDate": "2025-02-27T00:00:00",
+    "amount": 7170449.33,
+    "receivedAmount": 7170449.33,
+    "status": "Paid",
+    "customerId": 11
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Eze Entertainment Ltd",
+    "description": "Collaboration Fee",
+    "invoiceDate": "2025-02-20T00:00:00",
+    "dueDate": "2025-03-22T00:00:00",
+    "amount": 9612844.36,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 3
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Eze Entertainment Ltd",
+    "description": "Collaboration Fee",
+    "invoiceDate": "2024-10-23T00:00:00",
+    "dueDate": "2024-12-22T00:00:00",
+    "amount": 14051327.35,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 3
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Ibrahim Creative Agency Group",
+    "description": "Merchandise Revenue",
+    "invoiceDate": "2025-03-11T00:00:00",
+    "dueDate": "2025-03-26T00:00:00",
+    "amount": 3326426.31,
+    "receivedAmount": 2538371.6,
+    "status": "PartiallyPaid",
+    "customerId": 10
+  },
+  {
+    "id": 9,
+    "invoiceNumber": "INV-2025-009",
+    "clientName": "Nwachukwu Entertainment Solutions",
+    "description": "Brand Deal",
+    "invoiceDate": "2024-12-20T00:00:00",
+    "dueDate": "2025-02-03T00:00:00",
+    "amount": 19200627.59,
+    "receivedAmount": 6539948.03,
+    "status": "PartiallyPaid",
+    "customerId": 4
+  }
+]

@@ -1,0 +1,202 @@
+{
+  "templates": [
+    {
+      "id": 1,
+      "name": "Invoice Approval Workflow",
+      "description": "Automated approval process for invoices above a certain threshold with multi-level approval",
+      "category": "Accounts Receivable",
+      "industry": "General",
+      "iconName": "fact_check",
+      "iconColor": "#3b82f6",
+      "isFeatured": true,
+      "isRecommended": true,
+      "usageCount": 245,
+      "rating": 4.8,
+      "tags": ["approval", "invoice", "automation"],
+      "templateDefinition": {
+        "name": "Invoice Approval Workflow",
+        "description": "Automatic approval routing for invoices",
+        "category": "Accounting",
+        "trigger": {
+          "triggerType": "Event",
+          "eventType": "InvoiceCreated",
+          "conditions": [
+            { "field": "Amount", "operator": "GreaterThan", "value": "1000", "valueType": "Number" }
+          ]
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Condition",
+            "name": "Check Amount",
+            "conditions": [
+              { "field": "Amount", "operator": "GreaterThan", "value": "10000", "valueType": "Number" }
+            ]
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Approval",
+            "name": "Manager Approval",
+            "approval": {
+              "approvalType": "Single",
+              "approvers": ["manager@example.com"],
+              "timeoutHours": 48
+            }
+          },
+          {
+            "stepNumber": 3,
+            "stepType": "Action",
+            "name": "Send Notification",
+            "action": {
+              "actionType": "SendEmail",
+              "emailTo": "{InvoiceCreator}",
+              "emailSubject": "Invoice Approved",
+              "emailBody": "Your invoice #{InvoiceNumber} has been approved."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Automated Payment Reminders",
+      "description": "Send automatic reminders to customers with overdue invoices",
+      "category": "Accounts Receivable",
+      "industry": "General",
+      "iconName": "notifications_active",
+      "iconColor": "#f59e0b",
+      "isFeatured": true,
+      "isRecommended": true,
+      "usageCount": 189,
+      "rating": 4.6,
+      "tags": ["reminder", "payment", "collections"],
+      "templateDefinition": {
+        "name": "Payment Reminder Workflow",
+        "description": "Automated reminder for overdue payments",
+        "category": "Accounting",
+        "trigger": {
+          "triggerType": "Schedule",
+          "scheduleType": "Daily",
+          "cronExpression": "0 9 * * *"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Action",
+            "name": "Find Overdue Invoices",
+            "action": {
+              "actionType": "RunReport",
+              "parameters": { "ReportType": "OverdueInvoices", "DaysPastDue": 7 }
+            }
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Action",
+            "name": "Send Reminder Email",
+            "action": {
+              "actionType": "SendEmail",
+              "emailTo": "{CustomerEmail}",
+              "emailSubject": "Payment Reminder: Invoice #{InvoiceNumber}",
+              "emailTemplate": "PaymentReminder"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Vendor Onboarding Workflow",
+      "description": "Collect vendor details, route onboarding approval, and create the supplier record.",
+      "category": "Procurement",
+      "industry": "General",
+      "iconName": "assignment_ind",
+      "iconColor": "#0f766e",
+      "isFeatured": true,
+      "isRecommended": true,
+      "usageCount": 132,
+      "rating": 4.7,
+      "tags": ["vendor", "onboarding", "procurement"],
+      "templateDefinition": {
+        "name": "Vendor Onboarding Workflow",
+        "description": "Approve and create new vendors",
+        "category": "Operations",
+        "trigger": {
+          "triggerType": "Event",
+          "eventType": "VendorCreated"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Approval",
+            "name": "Procurement Review",
+            "approval": {
+              "approvalType": "Single",
+              "approvers": ["procurement.manager@example.com"],
+              "timeoutHours": 48
+            }
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Action",
+            "name": "Create Vendor Record",
+            "action": {
+              "actionType": "CreateRecord",
+              "entityType": "Vendor",
+              "fieldMappings": {
+                "Status": "Active"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Month-End Closing Reminder",
+      "description": "Send reminders and create tasks for month-end close activities.",
+      "category": "Finance",
+      "industry": "General",
+      "iconName": "event_available",
+      "iconColor": "#2563eb",
+      "isFeatured": false,
+      "isRecommended": true,
+      "usageCount": 145,
+      "rating": 4.6,
+      "tags": ["close", "finance", "reminder"],
+      "templateDefinition": {
+        "name": "Month-End Closing Reminder",
+        "description": "Coordinate month-end accounting close",
+        "category": "Accounting",
+        "trigger": {
+          "triggerType": "Schedule",
+          "scheduleType": "Monthly",
+          "cronExpression": "0 7 25 * *"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Action",
+            "name": "Notify Finance Team",
+            "action": {
+              "actionType": "SendEmail",
+              "emailTo": "finance-team@example.com",
+              "emailSubject": "Month-End Close Reminder",
+              "emailBody": "Please complete all month-end close tasks."
+            }
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Action",
+            "name": "Create Close Tasks",
+            "action": {
+              "actionType": "AssignTask",
+              "assignedTo": "{FinanceManager}",
+              "taskType": "Month-End Close",
+              "dueDaysFromNow": 3
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

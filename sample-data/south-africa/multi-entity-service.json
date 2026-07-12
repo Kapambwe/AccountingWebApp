@@ -1,0 +1,90 @@
+[
+  {
+    "id": "za-001",
+    "entityName": "Cassper Nyovest Entertainment",
+    "entityType": "Parent",
+    "taxId": "TPIN-ZA-1001",
+    "baseCurrency": "ZAR",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "za-002",
+    "entityName": "Root of Fame Fashion Ltd",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-ZA-1002",
+    "baseCurrency": "ZAR",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "za-003",
+    "entityName": "Black Coffee Productions",
+    "entityType": "Parent",
+    "taxId": "TPIN-ZA-1003",
+    "baseCurrency": "ZAR",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "za-004",
+    "entityName": "Black Coffee Record Label",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-ZA-1004",
+    "baseCurrency": "ZAR",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "za-005",
+    "entityName": "Bonang Matheba Media Group",
+    "entityType": "Parent",
+    "taxId": "TPIN-ZA-1005",
+    "baseCurrency": "ZAR",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "za-006",
+    "entityName": "House of BNG Champagne",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-ZA-1006",
+    "baseCurrency": "ZAR",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "za-007",
+    "entityName": "AKA Entertainment Holdings",
+    "entityType": "Parent",
+    "taxId": "TPIN-ZA-1007",
+    "baseCurrency": "ZAR",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "za-008",
+    "entityName": "DJ Sbu Group",
+    "entityType": "Parent",
+    "taxId": "TPIN-ZA-1008",
+    "baseCurrency": "ZAR",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "za-009",
+    "entityName": "MoFaya Energy Drink Ltd",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-ZA-1009",
+    "baseCurrency": "ZAR",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "za-010",
+    "entityName": "Minnie Dlamini Enterprises",
+    "entityType": "Parent",
+    "taxId": "TPIN-ZA-1010",
+    "baseCurrency": "ZAR",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "za-011",
+    "entityName": "Minnie Dlamini Fashion House",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-ZA-1011",
+    "baseCurrency": "ZAR",
+    "fiscalYearEnd": "12-31"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "rw-001",
+    "entityName": "Bruce Melodie Entertainment",
+    "entityType": "Parent",
+    "taxId": "TPIN-RW-8001",
+    "baseCurrency": "RWF",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "rw-002",
+    "entityName": "The Ben Music Group",
+    "entityType": "Parent",
+    "taxId": "TPIN-RW-8002",
+    "baseCurrency": "RWF",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "rw-003",
+    "entityName": "Meddy Entertainment",
+    "entityType": "Parent",
+    "taxId": "TPIN-RW-8003",
+    "baseCurrency": "RWF",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "rw-004",
+    "entityName": "Knowless Butera Group",
+    "entityType": "Parent",
+    "taxId": "TPIN-RW-8004",
+    "baseCurrency": "RWF",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "rw-005",
+    "entityName": "Nel Ngabo Music",
+    "entityType": "Parent",
+    "taxId": "TPIN-RW-8005",
+    "baseCurrency": "RWF",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "rw-006",
+    "entityName": "Jay Polly Entertainment",
+    "entityType": "Parent",
+    "taxId": "TPIN-RW-8006",
+    "baseCurrency": "RWF",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "rw-007",
+    "entityName": "Kina Music Records",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-RW-8007",
+    "baseCurrency": "RWF",
+    "fiscalYearEnd": "12-31"
+  }
+]

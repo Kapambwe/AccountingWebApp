@@ -1,0 +1,91 @@
+{
+  "formId": "sars-cra01",
+  "formName": "SARS CRA01 - Confirmation of Residential or Business Address Form",
+  "sections": [
+    {
+      "sectionTitle": "1. TAXPAYER IDENTIFICATION",
+      "fields": [
+        {
+          "id": "taxpayerReferenceNo",
+          "label": "Tax Reference Number (Income Tax / VAT / PAYE):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.taxpayerReferenceNo"
+        },
+        {
+          "id": "legalEntityName",
+          "label": "Full Legal Name of Individual or Business entity:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.legalEntityName"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. NEW ADDRESS COORDINATES TO BE CONFIRMED",
+      "fields": [
+        {
+          "id": "addressTypeToConfirm",
+          "label": "Address Category (Residential Physical / Business Physical):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.addressTypeToConfirm"
+        },
+        {
+          "id": "complexOrBuildingName",
+          "label": "Building / Complex Name (If applicable):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.complexOrBuildingName"
+        },
+        {
+          "id": "streetNumberAndName",
+          "label": "Street Number and Street Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.streetNumberAndName"
+        },
+        {
+          "id": "suburbName",
+          "label": "Suburb:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.suburbName"
+        },
+        {
+          "id": "cityOrTown",
+          "label": "City / Town:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.cityOrTown"
+        },
+        {
+          "id": "postalCode",
+          "label": "Postal Code:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Customer.PostalCode"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. VERIFIABLE SUPPORTING DOCUMENT CHECKLIST",
+      "fields": [
+        {
+          "id": "supportingDocType",
+          "label": "Type of FICA Supporting Document Attached (e.g., Municipal Utility Bill, Lease Agreement, Bank Statement):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.supportingDocType"
+        },
+        {
+          "id": "documentIssueDate",
+          "label": "Date of Document Issue (Must be less than 3 months old):",
+          "type": "date",
+          "required": true,
+          "bindingProperty": "SchemaLocal.documentIssueDate"
+        }
+      ]
+    }
+  ]
+}
