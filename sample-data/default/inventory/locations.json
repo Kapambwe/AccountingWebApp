@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "locationCode": "WH-01",
+    "locationName": "Main Warehouse - Lusaka",
+    "type": "Warehouse",
+    "address": "Plot 1234, Industrial Area",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "isActive": true,
+    "isPrimaryLocation": true,
+    "managerName": "John Mwansa",
+    "contactPhone": "+260977123456"
+  },
+  {
+    "id": 2,
+    "locationCode": "ST-01",
+    "locationName": "Retail Store - Cairo Road",
+    "type": "Store",
+    "address": "Cairo Road, Shop 45",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "isActive": true,
+    "managerName": "Grace Phiri",
+    "contactPhone": "+260966234567"
+  },
+  {
+    "id": 3,
+    "locationCode": "WH-02",
+    "locationName": "Copperbelt Warehouse",
+    "type": "Warehouse",
+    "address": "Kitwe Industrial Zone",
+    "city": "Kitwe",
+    "country": "Zambia",
+    "isActive": true,
+    "managerName": "Peter Banda",
+    "contactPhone": "+260955345678"
+  }
+]

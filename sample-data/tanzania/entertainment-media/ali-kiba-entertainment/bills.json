@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Hassan Creative Agency Co.",
+    "description": "PR Campaign",
+    "billDate": "2024-11-06T00:00:00",
+    "dueDate": "2024-12-06T00:00:00",
+    "amount": 5768171.13,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Mkapa Music Group Group",
+    "description": "Tour Logistics",
+    "billDate": "2025-01-02T00:00:00",
+    "dueDate": "2025-01-17T00:00:00",
+    "amount": 1351158.01,
+    "paidAmount": 854574.66,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Magufuli Music Group Enterprises",
+    "description": "PR Campaign",
+    "billDate": "2024-10-20T00:00:00",
+    "dueDate": "2024-11-04T00:00:00",
+    "amount": 1343132.26,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Magufuli Music Group Enterprises",
+    "description": "PR Campaign",
+    "billDate": "2025-03-01T00:00:00",
+    "dueDate": "2025-03-31T00:00:00",
+    "amount": 2110862.87,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Hassan Creative Agency Co.",
+    "description": "Music Video Production",
+    "billDate": "2024-10-07T00:00:00",
+    "dueDate": "2024-11-06T00:00:00",
+    "amount": 1526147.79,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Laizer Entertainment Limited",
+    "description": "Social Media Management",
+    "billDate": "2024-09-30T00:00:00",
+    "dueDate": "2024-10-15T00:00:00",
+    "amount": 2609175.15,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Laizer Entertainment Limited",
+    "description": "Music Video Production",
+    "billDate": "2024-12-16T00:00:00",
+    "dueDate": "2024-12-31T00:00:00",
+    "amount": 1867428.91,
+    "paidAmount": 1867428.91,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Salum Entertainment Limited",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-02-11T00:00:00",
+    "dueDate": "2025-02-26T00:00:00",
+    "amount": 3965142.7,
+    "paidAmount": 3965142.7,
+    "status": "Paid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Salum Entertainment Limited",
+    "description": "Social Media Management",
+    "billDate": "2024-10-09T00:00:00",
+    "dueDate": "2024-11-08T00:00:00",
+    "amount": 389815.8,
+    "paidAmount": 389815.8,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Hassan Music Group Holdings",
+    "description": "Social Media Management",
+    "billDate": "2025-01-08T00:00:00",
+    "dueDate": "2025-02-07T00:00:00",
+    "amount": 5684573.46,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Magufuli Music Group Enterprises",
+    "description": "Studio Recording Session",
+    "billDate": "2025-03-03T00:00:00",
+    "dueDate": "2025-04-02T00:00:00",
+    "amount": 4398852.95,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Chande Media Holdings",
+    "description": "Studio Recording Session",
+    "billDate": "2025-01-18T00:00:00",
+    "dueDate": "2025-02-02T00:00:00",
+    "amount": 5865602.52,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Kimaro Productions Ltd",
+    "description": "Studio Recording Session",
+    "billDate": "2024-11-16T00:00:00",
+    "dueDate": "2024-12-16T00:00:00",
+    "amount": 3901627.45,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 14,
+    "billNumber": "BILL-2025-014",
+    "vendorName": "Hassan Creative Agency Co.",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-09-20T00:00:00",
+    "dueDate": "2024-10-05T00:00:00",
+    "amount": 1868204.56,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  }
+]

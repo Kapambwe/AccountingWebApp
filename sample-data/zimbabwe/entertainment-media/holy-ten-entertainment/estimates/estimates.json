@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 3,
+    "customerName": "Ndlovu Productions Enterprises",
+    "estimateDateDaysAgo": 5,
+    "expirationDateDaysFromNow": 31,
+    "status": "Open",
+    "subTotal": 30595.11,
+    "taxRate": 18,
+    "taxAmount": 5507.12,
+    "total": 36102.23,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 5,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 3,
+        "unitPrice": 10198.37,
+        "amount": 30595.11,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 4
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 4,
+    "customerName": "Ndlovu Creative Agency Solutions",
+    "estimateDateDaysAgo": 35,
+    "expirationDateDaysFromNow": 38,
+    "status": "Draft",
+    "subTotal": 30078.42,
+    "taxRate": 18,
+    "taxAmount": 5414.12,
+    "total": 35492.54,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 35,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 4,
+        "unitPrice": 7519.6,
+        "amount": 30078.42,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 9,
+    "customerName": "Gumbo Productions Holdings",
+    "estimateDateDaysAgo": 26,
+    "expirationDateDaysFromNow": 37,
+    "status": "Draft",
+    "subTotal": 2297.62,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2297.62,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 26,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 1,
+        "unitPrice": 2297.62,
+        "amount": 2297.62,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 6,
+    "customerName": "Chikwanda Entertainment Ltd",
+    "estimateDateDaysAgo": 54,
+    "expirationDateDaysFromNow": 28,
+    "status": "Draft",
+    "subTotal": 28374.39,
+    "taxRate": 15,
+    "taxAmount": 4256.16,
+    "total": 32630.55,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 54,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 5,
+        "unitPrice": 5674.88,
+        "amount": 28374.39,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 4,
+    "customerName": "Ndlovu Creative Agency Solutions",
+    "estimateDateDaysAgo": 31,
+    "expirationDateDaysFromNow": 37,
+    "status": "Draft",
+    "subTotal": 18149.8,
+    "taxRate": 16,
+    "taxAmount": 2903.97,
+    "total": 21053.77,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 31,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 3,
+        "unitPrice": 6049.93,
+        "amount": 18149.8,
+        "itemType": "Service"
+      }
+    ]
+  }
+]

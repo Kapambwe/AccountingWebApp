@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Mokoena Creative Agency Solutions",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-10-10T00:00:00",
+    "dueDate": "2024-11-09T00:00:00",
+    "amount": 184414.44,
+    "paidAmount": 104113.77,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Seretse Entertainment Ltd",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-03-04T00:00:00",
+    "dueDate": "2025-03-19T00:00:00",
+    "amount": 158351.13,
+    "paidAmount": 69827.99,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Mokoena Creative Agency Solutions",
+    "description": "Studio Recording Session",
+    "billDate": "2024-11-11T00:00:00",
+    "dueDate": "2024-12-11T00:00:00",
+    "amount": 321611.15,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Mokoena Creative Agency Solutions",
+    "description": "Studio Recording Session",
+    "billDate": "2025-03-05T00:00:00",
+    "dueDate": "2025-03-20T00:00:00",
+    "amount": 132209.3,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Molefe Productions Ltd",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-09-18T00:00:00",
+    "dueDate": "2024-11-02T00:00:00",
+    "amount": 38824.67,
+    "paidAmount": 38824.67,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Seretse Entertainment Ltd",
+    "description": "Music Video Production",
+    "billDate": "2024-10-27T00:00:00",
+    "dueDate": "2024-12-11T00:00:00",
+    "amount": 226680.51,
+    "paidAmount": 170030.16,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Mokoena Productions Ltd",
+    "description": "Music Video Production",
+    "billDate": "2025-02-03T00:00:00",
+    "dueDate": "2025-03-20T00:00:00",
+    "amount": 198431.48,
+    "paidAmount": 62169.58,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Khama Media Limited",
+    "description": "Tour Logistics",
+    "billDate": "2025-02-05T00:00:00",
+    "dueDate": "2025-02-20T00:00:00",
+    "amount": 166090.13,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  }
+]
