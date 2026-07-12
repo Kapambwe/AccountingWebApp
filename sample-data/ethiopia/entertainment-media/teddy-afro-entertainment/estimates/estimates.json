@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 2,
+    "customerName": "Girma Entertainment Enterprises",
+    "estimateDateDaysAgo": 37,
+    "expirationDateDaysFromNow": 20,
+    "status": "Open",
+    "subTotal": 987040.92,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 987040.92,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 37,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 3,
+        "unitPrice": 329013.64,
+        "amount": 987040.92,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 36
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 8,
+    "customerName": "Kassa Media Limited",
+    "estimateDateDaysAgo": 58,
+    "expirationDateDaysFromNow": 23,
+    "status": "Open",
+    "subTotal": 1071589.98,
+    "taxRate": 18,
+    "taxAmount": 192886.2,
+    "total": 1264476.18,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 58,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 3,
+        "unitPrice": 357196.66,
+        "amount": 1071589.98,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 57
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 6,
+    "customerName": "Wolde Productions Group",
+    "estimateDateDaysAgo": 8,
+    "expirationDateDaysFromNow": 30,
+    "status": "Accepted",
+    "subTotal": 883714.03,
+    "taxRate": 16,
+    "taxAmount": 141394.24,
+    "total": 1025108.27,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 1,
+        "unitPrice": 883714.03,
+        "amount": 883714.03,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 7
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 6,
+    "customerName": "Wolde Productions Group",
+    "estimateDateDaysAgo": 49,
+    "expirationDateDaysFromNow": 38,
+    "status": "Sent",
+    "subTotal": 80599.25,
+    "taxRate": 18,
+    "taxAmount": 14507.86,
+    "total": 95107.11,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 49,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 2,
+        "unitPrice": 40299.62,
+        "amount": 80599.25,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 48
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 6,
+    "customerName": "Wolde Productions Group",
+    "estimateDateDaysAgo": 58,
+    "expirationDateDaysFromNow": 35,
+    "status": "Draft",
+    "subTotal": 152987.85,
+    "taxRate": 18,
+    "taxAmount": 27537.81,
+    "total": 180525.66,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 58,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 3,
+        "unitPrice": 50995.95,
+        "amount": 152987.85,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 1,
+    "customerName": "Girma Music Group Solutions",
+    "estimateDateDaysAgo": 43,
+    "expirationDateDaysFromNow": 45,
+    "status": "Open",
+    "subTotal": 835401.59,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 835401.59,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 43,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 2,
+        "unitPrice": 417700.79,
+        "amount": 835401.59,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 42
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 4,
+    "customerName": "Bekele Media Solutions",
+    "estimateDateDaysAgo": 44,
+    "expirationDateDaysFromNow": 17,
+    "status": "Expired",
+    "subTotal": 801262.72,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 801262.72,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 44,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 3,
+        "unitPrice": 267087.57,
+        "amount": 801262.72,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 43
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 6,
+    "customerName": "Wolde Productions Group",
+    "estimateDateDaysAgo": 26,
+    "expirationDateDaysFromNow": 45,
+    "status": "Accepted",
+    "subTotal": 175731.35,
+    "taxRate": 18,
+    "taxAmount": 31631.64,
+    "total": 207362.99,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 26,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 2,
+        "unitPrice": 87865.68,
+        "amount": 175731.35,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 25
+  }
+]

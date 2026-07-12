@@ -1,0 +1,42 @@
+{
+  "invoices": [
+    {
+      "invoiceNumber": "INV-2026-041",
+      "customerName": "Copperbelt Distributors",
+      "dueDate": "today-14",
+      "amount": 124500,
+      "daysOverdue": 14,
+      "stage": "Reminder",
+      "collector": "Collections Team",
+      "risk": "Medium",
+      "promiseToPayDate": "today+2"
+    },
+    {
+      "invoiceNumber": "INV-2026-047",
+      "customerName": "Northern Retail Hub",
+      "dueDate": "today-32",
+      "amount": 286000,
+      "daysOverdue": 32,
+      "stage": "Escalation",
+      "collector": "Credit Control",
+      "risk": "High",
+      "promiseToPayDate": "today+7"
+    },
+    {
+      "invoiceNumber": "INV-2026-053",
+      "customerName": "Munali Projects",
+      "dueDate": "today+5",
+      "amount": 82000,
+      "daysOverdue": 0,
+      "stage": "Open",
+      "collector": "Collections Team",
+      "risk": "Low"
+    }
+  ],
+  "workflowSteps": [
+    { "code": "due", "title": "Identify due invoices", "status": "Completed", "ownerRole": "AR Clerk", "details": "Select open invoices reaching due date." },
+    { "code": "rem", "title": "Send reminders", "status": "Completed", "ownerRole": "Collections Officer", "details": "Email and call customers for payment." },
+    { "code": "esc", "title": "Escalate overdue balances", "status": "InProgress", "ownerRole": "Credit Controller", "details": "Escalate to management after 30 days." },
+    { "code": "clo", "title": "Close collection loop", "status": "Pending", "ownerRole": "Finance Manager", "details": "Record receipts and clear follow-up queues." }
+  ]
+}

@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 10,
+    "customerName": "Asante Music Group Solutions",
+    "estimateDateDaysAgo": 26,
+    "expirationDateDaysFromNow": 24,
+    "status": "Open",
+    "subTotal": 345463.76,
+    "taxRate": 15,
+    "taxAmount": 51819.56,
+    "total": 397283.32,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 26,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 4,
+        "unitPrice": 86365.94,
+        "amount": 345463.76,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 25
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 3,
+    "customerName": "Appiah Entertainment Solutions",
+    "estimateDateDaysAgo": 16,
+    "expirationDateDaysFromNow": 23,
+    "status": "Accepted",
+    "subTotal": 79226.26,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 79226.26,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 16,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 5,
+        "unitPrice": 15845.25,
+        "amount": 79226.26,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 15
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 3,
+    "customerName": "Appiah Entertainment Solutions",
+    "estimateDateDaysAgo": 49,
+    "expirationDateDaysFromNow": 36,
+    "status": "Draft",
+    "subTotal": 36121.16,
+    "taxRate": 16,
+    "taxAmount": 5779.39,
+    "total": 41900.55,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 49,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 4,
+        "unitPrice": 9030.29,
+        "amount": 36121.16,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 6,
+    "customerName": "Mahama Creative Agency Enterprises",
+    "estimateDateDaysAgo": 8,
+    "expirationDateDaysFromNow": 44,
+    "status": "Sent",
+    "subTotal": 85087.26,
+    "taxRate": 16,
+    "taxAmount": 13613.96,
+    "total": 98701.22,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 4,
+        "unitPrice": 21271.81,
+        "amount": 85087.26,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 7
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 11,
+    "customerName": "Ofori Productions Enterprises",
+    "estimateDateDaysAgo": 57,
+    "expirationDateDaysFromNow": 24,
+    "status": "Accepted",
+    "subTotal": 212283.26,
+    "taxRate": 15,
+    "taxAmount": 31842.49,
+    "total": 244125.75,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 57,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 3,
+        "unitPrice": 70761.09,
+        "amount": 212283.26,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 56
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 7,
+    "customerName": "Owusu Media Solutions",
+    "estimateDateDaysAgo": 52,
+    "expirationDateDaysFromNow": 26,
+    "status": "Declined",
+    "subTotal": 298014.38,
+    "taxRate": 15,
+    "taxAmount": 44702.16,
+    "total": 342716.54,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 52,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 2,
+        "unitPrice": 149007.19,
+        "amount": 298014.38,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 51
+  }
+]

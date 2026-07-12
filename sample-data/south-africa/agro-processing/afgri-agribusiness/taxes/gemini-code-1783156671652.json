@@ -1,0 +1,145 @@
+{
+  "formId": "sars-rav01",
+  "formName": "SARS RAV01 - Registration, Amendment, and Verification Form",
+  "sections": [
+    {
+      "sectionTitle": "1. TAXPAYER IDENTITY & CLIENT DETAILS",
+      "fields": [
+        {
+          "id": "registeredName",
+          "label": "Registered Legal Name / Surname & Forenames:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.registeredName"
+        },
+        {
+          "id": "tradingName",
+          "label": "Trading Name (If applicable):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.tradingName"
+        },
+        {
+          "id": "identityNumber",
+          "label": "South African ID Number / Passport Number:",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.identityNumber"
+        },
+        {
+          "id": "companyRegistrationNumber",
+          "label": "CIPC Company Registration Number (For Corporates):",
+          "type": "text",
+          "required": false,
+          "bindingProperty": "SchemaLocal.companyRegistrationNumber"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "2. DEMOGRAPHIC PARAMETERS & ADDRESS AMENDMENT",
+      "fields": [
+        {
+          "id": "physicalAddressUnitNo",
+          "label": "Physical Address - Unit / Complex / House No.:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.physicalAddressUnitNo"
+        },
+        {
+          "id": "physicalAddressStreet",
+          "label": "Physical Address - Street / Farm Name:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.physicalAddressStreet"
+        },
+        {
+          "id": "physicalAddressSuburb",
+          "label": "Physical Address - Suburb / District:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.physicalAddressSuburb"
+        },
+        {
+          "id": "physicalAddressCity",
+          "label": "Physical Address - City / Town:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.physicalAddressCity"
+        },
+        {
+          "id": "physicalAddressPostalCode",
+          "label": "Physical Address - Postal Code:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.physicalAddressPostalCode"
+        },
+        {
+          "id": "postalAddressSameAsPhysical",
+          "label": "Is Postal Address the same as Physical Address? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.postalAddressSameAsPhysical"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "3. TAX TYPE ACTIVATION & SUB-REGISTRATIONS",
+      "fields": [
+        {
+          "id": "activateIncomeTax",
+          "label": "Activate / Add Personal or Corporate Income Tax? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.activateIncomeTax"
+        },
+        {
+          "id": "activatePaye",
+          "label": "Activate / Add Pay As You Earn (PAYE)? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.activatePaye"
+        },
+        {
+          "id": "activateVat",
+          "label": "Activate / Add Value Added Tax (VAT)? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.activateVat"
+        },
+        {
+          "id": "activateCustoms",
+          "label": "Activate / Add Customs & Excise Profile? (Yes / No):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.activateCustoms"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "4. VERIFICATION DECLARATION",
+      "fields": [
+        {
+          "id": "representativeSignatureName",
+          "label": "Full Name of Representative / Tax Practitioner:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.representativeSignatureName"
+        },
+        {
+          "id": "representativeCapacity",
+          "label": "Capacity (e.g., Public Officer, Individual, Registered Practitioner):",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "SchemaLocal.representativeCapacity"
+        },
+        {
+          "id": "signature",
+          "label": "Electronic Signature / Confirmation Code:",
+          "type": "text",
+          "required": true,
+          "bindingProperty": "Customer.Name"
+        }
+      ]
+    }
+  ]
+}

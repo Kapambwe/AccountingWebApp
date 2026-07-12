@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2024-001",
+    "clientName": "Konkola Copper Mines PLC",
+    "description": "Copper products - 50 tons",
+    "invoiceDate": "today-30",
+    "dueDate": "today-5",
+    "amount": 1250000.00,
+    "receivedAmount": 850000.00,
+    "status": "PartiallyPaid",
+    "customerId": 1
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2024-002",
+    "clientName": "National Milling Corporation",
+    "description": "Maize supply - 200 tons",
+    "invoiceDate": "today-28",
+    "dueDate": "today+10",
+    "amount": 850000.00,
+    "receivedAmount": 0.00,
+    "status": "Open",
+    "customerId": 2
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2024-003",
+    "clientName": "Mopani Copper Mines PLC",
+    "description": "Mining equipment rental - Q4 2024",
+    "invoiceDate": "today-45",
+    "dueDate": "today-30",
+    "amount": 1250000.00,
+    "receivedAmount": 0.00,
+    "status": "Open",
+    "customerId": 3
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2024-004",
+    "clientName": "Zambian Breweries PLC",
+    "description": "Agricultural supplies - barley and hops",
+    "invoiceDate": "today-10",
+    "dueDate": "today+25",
+    "amount": 380000.00,
+    "receivedAmount": 0.00,
+    "status": "Open",
+    "customerId": 4
+  }
+]

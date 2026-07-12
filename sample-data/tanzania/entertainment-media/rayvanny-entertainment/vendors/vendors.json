@@ -1,0 +1,122 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Hassan Kikwete",
+      "companyName": "Magufuli Entertainment Limited",
+      "contactPerson": "Hassan Kikwete",
+      "email": "hassankikwet@kikwete.co.tz",
+      "phone": "+255 984 943 546",
+      "city": "Mwanza",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-994876",
+      "totalAmountOwed": 122102.64
+    },
+    {
+      "id": 2,
+      "vendorName": "Amina Kimaro",
+      "companyName": "Mkapa Media Limited",
+      "contactPerson": "Amina Kimaro",
+      "email": "aminakimaro@kimaro.co.tz",
+      "phone": "+255 679 097 450",
+      "city": "Morogoro",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-779571",
+      "totalAmountOwed": 151514.2
+    },
+    {
+      "id": 3,
+      "vendorName": "Fatuma Nyerere",
+      "companyName": "Magufuli Music Group Co.",
+      "contactPerson": "Fatuma Nyerere",
+      "email": "fatumanyerer@nyerere.co.tz",
+      "phone": "+255 740 400 512",
+      "city": "Arusha",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-531894",
+      "totalAmountOwed": 1391961.02
+    },
+    {
+      "id": 4,
+      "vendorName": "Halima Kapinga",
+      "companyName": "Chande Creative Agency Holdings",
+      "contactPerson": "Halima Kapinga",
+      "email": "halimakaping@kapinga.co.tz",
+      "phone": "+255 156 729 157",
+      "city": "Morogoro",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-429726",
+      "totalAmountOwed": 214161.79
+    },
+    {
+      "id": 5,
+      "vendorName": "Said Msigwa",
+      "companyName": "Kapinga Music Group Holdings",
+      "contactPerson": "Said Msigwa",
+      "email": "saidmsigwa@msigwa.co.tz",
+      "phone": "+255 339 796 876",
+      "city": "Dar es Salaam",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-110701",
+      "totalAmountOwed": 1044884.28
+    },
+    {
+      "id": 6,
+      "vendorName": "Bakari Mwenda",
+      "companyName": "Juma Creative Agency Holdings",
+      "contactPerson": "Bakari Mwenda",
+      "email": "bakarimwenda@mwenda.co.tz",
+      "phone": "+255 826 303 003",
+      "city": "Arusha",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-594728",
+      "totalAmountOwed": 23059.54
+    },
+    {
+      "id": 7,
+      "vendorName": "Fatuma Laizer",
+      "companyName": "Mkapa Music Group Enterprises",
+      "contactPerson": "Fatuma Laizer",
+      "email": "fatumalaizer@laizer.co.tz",
+      "phone": "+255 579 976 347",
+      "city": "Tanga",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-629631",
+      "totalAmountOwed": 60772.86
+    },
+    {
+      "id": 8,
+      "vendorName": "Mwajuma Kikwete",
+      "companyName": "Kapinga Creative Agency Solutions",
+      "contactPerson": "Mwajuma Kikwete",
+      "email": "mwajumakikwe@kikwete.co.tz",
+      "phone": "+255 026 883 032",
+      "city": "Mwanza",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-830621",
+      "totalAmountOwed": 461158.42
+    },
+    {
+      "id": 9,
+      "vendorName": "Rashid Kapinga",
+      "companyName": "Juma Creative Agency Co.",
+      "contactPerson": "Rashid Kapinga",
+      "email": "rashidkaping@kapinga.co.tz",
+      "phone": "+255 316 156 671",
+      "city": "Dar es Salaam",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-624070",
+      "totalAmountOwed": 207617.54
+    }
+  ],
+  "vendorCredits": []
+}

@@ -1,0 +1,122 @@
+{
+  "companyName": "Don Jazzy Mavin Records",
+  "companyAddress": "Kano, Nigeria",
+  "companyTaxId": "FIRS-4377146-DJMR",
+  "generatedDate": "2025-09-30",
+  "currency": "NGN",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Anambra Trading Ltd",
+      "customerEmail": "accounts@anambra.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-20",
+          "reference": "INV-N-2025-015",
+          "description": "Exclusive brand deal - Apr-Jun",
+          "debit": 7495500,
+          "credit": 0.0,
+          "balance": 7495500
+        },
+        {
+          "date": "2025-05-26",
+          "reference": "PMT-N-2025-014",
+          "description": "Partial payment received - mobile money",
+          "debit": 0.0,
+          "credit": 3609500,
+          "balance": 3886000
+        }
+      ],
+      "closingBalance": 3886000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Eko Industries Ltd",
+      "customerEmail": "accounts@eko.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-25",
+          "reference": "INV-N-2025-022",
+          "description": "Royalty payment - streaming Q3 2025",
+          "debit": 25722500,
+          "credit": 0.0,
+          "balance": 25722500
+        },
+        {
+          "date": "2025-09-24",
+          "reference": "PMT-N-2025-027",
+          "description": "Partial payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 15192000,
+          "balance": 10530500
+        }
+      ],
+      "closingBalance": 10530500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Lagos Industries Ltd",
+      "customerEmail": "finance@lagos.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-28",
+          "reference": "INV-N-2025-032",
+          "description": "Headline performance - Summer Festival",
+          "debit": 14076000,
+          "credit": 0.0,
+          "balance": 14076000
+        }
+      ],
+      "closingBalance": 14076000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Kano Group Plc",
+      "customerEmail": "finance@kano.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-25",
+          "reference": "INV-N-2025-045",
+          "description": "Merchandise partnership revenue",
+          "debit": 22397500,
+          "credit": 0.0,
+          "balance": 22397500
+        },
+        {
+          "date": "2025-02-28",
+          "reference": "PMT-N-2025-043",
+          "description": "Partial partial payment received",
+          "debit": 0.0,
+          "credit": 11057000,
+          "balance": 11340500
+        }
+      ],
+      "closingBalance": 11340500,
+      "status": "Partially Paid"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 69691500,
+    "totalReceived": 29858500,
+    "totalOutstanding": 39833000,
+    "totalOverdue": 39833000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 10530500.0,
+      "days61to90": 14076000.0,
+      "over90days": 15226500.0
+    }
+  }
+}

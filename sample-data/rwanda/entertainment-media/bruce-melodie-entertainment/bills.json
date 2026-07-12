@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Nkurunziza Entertainment Co.",
+    "description": "Tour Logistics",
+    "billDate": "2025-03-03T00:00:00",
+    "dueDate": "2025-04-17T00:00:00",
+    "amount": 2429359.63,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Rugamba Creative Agency Inc.",
+    "description": "Studio Recording Session",
+    "billDate": "2025-02-21T00:00:00",
+    "dueDate": "2025-04-07T00:00:00",
+    "amount": 4630487.49,
+    "paidAmount": 4630487.49,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Murekezi Productions Ltd",
+    "description": "Studio Recording Session",
+    "billDate": "2025-03-13T00:00:00",
+    "dueDate": "2025-04-27T00:00:00",
+    "amount": 3683929.58,
+    "paidAmount": 3683929.58,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Karugarama Creative Agency Enterprises",
+    "description": "Social Media Management",
+    "billDate": "2024-12-13T00:00:00",
+    "dueDate": "2024-12-28T00:00:00",
+    "amount": 1745706.84,
+    "paidAmount": 1745706.84,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Twagirayezu Productions Limited",
+    "description": "Tour Logistics",
+    "billDate": "2025-01-09T00:00:00",
+    "dueDate": "2025-01-24T00:00:00",
+    "amount": 2744205.03,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Twagirayezu Productions Limited",
+    "description": "PR Campaign",
+    "billDate": "2024-12-29T00:00:00",
+    "dueDate": "2025-02-12T00:00:00",
+    "amount": 824248.31,
+    "paidAmount": 824248.31,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Nkurunziza Music Group Co.",
+    "description": "Music Video Production",
+    "billDate": "2024-10-28T00:00:00",
+    "dueDate": "2024-11-12T00:00:00",
+    "amount": 2641053.9,
+    "paidAmount": 2641053.9,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Karugarama Creative Agency Enterprises",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-11-22T00:00:00",
+    "dueDate": "2024-12-07T00:00:00",
+    "amount": 4888673.74,
+    "paidAmount": 1953975.96,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Karugarama Creative Agency Enterprises",
+    "description": "Studio Recording Session",
+    "billDate": "2025-01-14T00:00:00",
+    "dueDate": "2025-01-29T00:00:00",
+    "amount": 2723316.24,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  }
+]
