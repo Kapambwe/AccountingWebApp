@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 3,
+    "customerName": "Mugabe Music Group Ltd",
+    "estimateDateDaysAgo": 36,
+    "expirationDateDaysFromNow": 41,
+    "status": "Draft",
+    "subTotal": 36704.63,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 36704.63,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 36,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 2,
+        "unitPrice": 18352.31,
+        "amount": 36704.63,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 12,
+    "customerName": "Chiwenga Music Group Group",
+    "estimateDateDaysAgo": 17,
+    "expirationDateDaysFromNow": 21,
+    "status": "Declined",
+    "subTotal": 17663.89,
+    "taxRate": 16,
+    "taxAmount": 2826.22,
+    "total": 20490.11,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 17,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 4,
+        "unitPrice": 4415.97,
+        "amount": 17663.89,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 16
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 10,
+    "customerName": "Moyo Entertainment Ltd",
+    "estimateDateDaysAgo": 58,
+    "expirationDateDaysFromNow": 43,
+    "status": "Accepted",
+    "subTotal": 19048.25,
+    "taxRate": 16,
+    "taxAmount": 3047.72,
+    "total": 22095.97,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 58,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 2,
+        "unitPrice": 9524.12,
+        "amount": 19048.25,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 57
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 10,
+    "customerName": "Moyo Entertainment Ltd",
+    "estimateDateDaysAgo": 53,
+    "expirationDateDaysFromNow": 20,
+    "status": "Sent",
+    "subTotal": 15918.78,
+    "taxRate": 15,
+    "taxAmount": 2387.82,
+    "total": 18306.6,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 53,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 1,
+        "unitPrice": 15918.78,
+        "amount": 15918.78,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 52
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 2,
+    "customerName": "Mutsvangwa Music Group Solutions",
+    "estimateDateDaysAgo": 18,
+    "expirationDateDaysFromNow": 37,
+    "status": "Accepted",
+    "subTotal": 19059.84,
+    "taxRate": 15,
+    "taxAmount": 2858.98,
+    "total": 21918.82,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 18,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 3,
+        "unitPrice": 6353.28,
+        "amount": 19059.84,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 17
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 12,
+    "customerName": "Chiwenga Music Group Group",
+    "estimateDateDaysAgo": 8,
+    "expirationDateDaysFromNow": 44,
+    "status": "Expired",
+    "subTotal": 18018.04,
+    "taxRate": 16,
+    "taxAmount": 2882.89,
+    "total": 20900.93,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 1,
+        "unitPrice": 18018.04,
+        "amount": 18018.04,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 7
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 12,
+    "customerName": "Chiwenga Music Group Group",
+    "estimateDateDaysAgo": 41,
+    "expirationDateDaysFromNow": 42,
+    "status": "Expired",
+    "subTotal": 3348.04,
+    "taxRate": 16,
+    "taxAmount": 535.69,
+    "total": 3883.73,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 41,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 5,
+        "unitPrice": 669.61,
+        "amount": 3348.04,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 40
+  }
+]

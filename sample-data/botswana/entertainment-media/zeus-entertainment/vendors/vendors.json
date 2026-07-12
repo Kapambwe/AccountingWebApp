@@ -1,0 +1,122 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Kgosi Mokoena",
+      "companyName": "Segokgo Productions Inc.",
+      "contactPerson": "Kgosi Mokoena",
+      "email": "kgosimokoena@mokoena.co.bw",
+      "phone": "+267 261 269 525",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-335715",
+      "totalAmountOwed": 38818.98
+    },
+    {
+      "id": 2,
+      "vendorName": "Keabetswe Nkate",
+      "companyName": "Khama Music Group Co.",
+      "contactPerson": "Keabetswe Nkate",
+      "email": "keabetswenka@nkate.co.bw",
+      "phone": "+267 587 635 652",
+      "city": "Kasane",
+      "country": "Botswana",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-467522",
+      "totalAmountOwed": 26924.82
+    },
+    {
+      "id": 3,
+      "vendorName": "Tshepo Mosarwa",
+      "companyName": "Nkate Music Group Group",
+      "contactPerson": "Tshepo Mosarwa",
+      "email": "tshepomosarw@mosarwa.co.bw",
+      "phone": "+267 435 821 031",
+      "city": "Serowe",
+      "country": "Botswana",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-865966",
+      "totalAmountOwed": 45270.35
+    },
+    {
+      "id": 4,
+      "vendorName": "Neo Nkate",
+      "companyName": "Mosarwa Music Group Co.",
+      "contactPerson": "Neo Nkate",
+      "email": "neonkate@nkate.co.bw",
+      "phone": "+267 849 742 017",
+      "city": "Maun",
+      "country": "Botswana",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-740895",
+      "totalAmountOwed": 29706.55
+    },
+    {
+      "id": 5,
+      "vendorName": "Refilwe Mosarwa",
+      "companyName": "Nkate Music Group Group",
+      "contactPerson": "Refilwe Mosarwa",
+      "email": "refilwemosar@mosarwa.co.bw",
+      "phone": "+267 359 305 709",
+      "city": "Serowe",
+      "country": "Botswana",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-274716",
+      "totalAmountOwed": 9765.11
+    },
+    {
+      "id": 6,
+      "vendorName": "Kgosi Motsepe",
+      "companyName": "Mokoena Entertainment Inc.",
+      "contactPerson": "Kgosi Motsepe",
+      "email": "kgosimotsepe@motsepe.co.bw",
+      "phone": "+267 315 741 116",
+      "city": "Serowe",
+      "country": "Botswana",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-278861",
+      "totalAmountOwed": 11712.76
+    },
+    {
+      "id": 7,
+      "vendorName": "Keabetswe Motsepe",
+      "companyName": "Gaolathe Music Group Ltd",
+      "contactPerson": "Keabetswe Motsepe",
+      "email": "keabetswemot@motsepe.co.bw",
+      "phone": "+267 781 628 795",
+      "city": "Lobatse",
+      "country": "Botswana",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-201096",
+      "totalAmountOwed": 50167.03
+    },
+    {
+      "id": 8,
+      "vendorName": "Mpho Segokgo",
+      "companyName": "Setlhabi Entertainment Enterprises",
+      "contactPerson": "Mpho Segokgo",
+      "email": "mphosegokgo@segokgo.co.bw",
+      "phone": "+267 444 293 859",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-811108",
+      "totalAmountOwed": 41125.95
+    },
+    {
+      "id": 9,
+      "vendorName": "Aobakwe Seretse",
+      "companyName": "Seretse Creative Agency Solutions",
+      "contactPerson": "Aobakwe Seretse",
+      "email": "aobakweseret@seretse.co.bw",
+      "phone": "+267 662 270 115",
+      "city": "Kasane",
+      "country": "Botswana",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-419835",
+      "totalAmountOwed": 49770.87
+    }
+  ],
+  "vendorCredits": []
+}

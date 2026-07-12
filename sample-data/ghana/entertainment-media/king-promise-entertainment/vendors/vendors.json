@@ -1,0 +1,109 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Adjoa Appiah",
+      "companyName": "Asiedu Music Group Limited",
+      "contactPerson": "Adjoa Appiah",
+      "email": "adjoaappiah@appiah.com.gh",
+      "phone": "+233 899 533 866",
+      "city": "Tamale",
+      "country": "Ghana",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-657450",
+      "totalAmountOwed": 354.55
+    },
+    {
+      "id": 2,
+      "vendorName": "Fiifi Attah",
+      "companyName": "Mensah Media Enterprises",
+      "contactPerson": "Fiifi Attah",
+      "email": "fiifiattah@attah.com.gh",
+      "phone": "+233 117 361 900",
+      "city": "Tamale",
+      "country": "Ghana",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-532748",
+      "totalAmountOwed": 38792.09
+    },
+    {
+      "id": 3,
+      "vendorName": "Kojo Nkrumah",
+      "companyName": "Asiedu Creative Agency Holdings",
+      "contactPerson": "Kojo Nkrumah",
+      "email": "kojonkrumah@nkrumah.com.gh",
+      "phone": "+233 520 780 571",
+      "city": "Kumasi",
+      "country": "Ghana",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-274362",
+      "totalAmountOwed": 60411.25
+    },
+    {
+      "id": 4,
+      "vendorName": "Kofi Appiah",
+      "companyName": "Mensah Media Holdings",
+      "contactPerson": "Kofi Appiah",
+      "email": "kofiappiah@appiah.com.gh",
+      "phone": "+233 189 806 477",
+      "city": "Accra",
+      "country": "Ghana",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-986140",
+      "totalAmountOwed": 1308.97
+    },
+    {
+      "id": 5,
+      "vendorName": "Kofi Rawlings",
+      "companyName": "Ofori Creative Agency Enterprises",
+      "contactPerson": "Kofi Rawlings",
+      "email": "kofirawlings@rawlings.com.gh",
+      "phone": "+233 704 779 678",
+      "city": "Sekondi-Takoradi",
+      "country": "Ghana",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-289432",
+      "totalAmountOwed": 25584.14
+    },
+    {
+      "id": 6,
+      "vendorName": "Ama Agyeman",
+      "companyName": "Nkrumah Music Group Solutions",
+      "contactPerson": "Ama Agyeman",
+      "email": "amaagyeman@agyeman.com.gh",
+      "phone": "+233 205 305 584",
+      "city": "Cape Coast",
+      "country": "Ghana",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-296767",
+      "totalAmountOwed": 4411.57
+    },
+    {
+      "id": 7,
+      "vendorName": "Kwame Akufo-Addo",
+      "companyName": "Mensah Productions Limited",
+      "contactPerson": "Kwame Akufo-Addo",
+      "email": "kwameakufoad@akufoaddo.com.gh",
+      "phone": "+233 984 314 728",
+      "city": "Sekondi-Takoradi",
+      "country": "Ghana",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-880013",
+      "totalAmountOwed": 16308.22
+    },
+    {
+      "id": 8,
+      "vendorName": "Adjoa Nkrumah",
+      "companyName": "Akufo-Addo Media Limited",
+      "contactPerson": "Adjoa Nkrumah",
+      "email": "adjoankrumah@nkrumah.com.gh",
+      "phone": "+233 418 327 434",
+      "city": "Cape Coast",
+      "country": "Ghana",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-267284",
+      "totalAmountOwed": 6873.85
+    }
+  ],
+  "vendorCredits": []
+}
