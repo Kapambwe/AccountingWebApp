@@ -1,0 +1,66 @@
+[
+  {
+    "id": "zw-001",
+    "entityName": "Winky D Entertainment",
+    "entityType": "Parent",
+    "taxId": "TPIN-ZW-2001",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "zw-002",
+    "entityName": "Jah Prayzah Music Holdings",
+    "entityType": "Parent",
+    "taxId": "TPIN-ZW-2002",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "zw-003",
+    "entityName": "Military Touch Movement",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-ZW-2003",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "zw-004",
+    "entityName": "Pokello Nare Group",
+    "entityType": "Parent",
+    "taxId": "TPIN-ZW-2004",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "zw-005",
+    "entityName": "Nud Fro Fashion",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-ZW-2005",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "zw-006",
+    "entityName": "Stunner Entertainment Ltd",
+    "entityType": "Parent",
+    "taxId": "TPIN-ZW-2006",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "zw-007",
+    "entityName": "Tocky Vibes Productions",
+    "entityType": "Parent",
+    "taxId": "TPIN-ZW-2007",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "zw-008",
+    "entityName": "Tatelicious Enterprises",
+    "entityType": "Parent",
+    "taxId": "TPIN-ZW-2008",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  }
+]

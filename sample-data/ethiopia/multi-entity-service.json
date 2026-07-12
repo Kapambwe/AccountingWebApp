@@ -1,0 +1,50 @@
+[
+  {
+    "id": "et-001",
+    "entityName": "Teddy Afro Entertainment",
+    "entityType": "Parent",
+    "taxId": "TPIN-ET-9001",
+    "baseCurrency": "ETB",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "et-002",
+    "entityName": "Aster Aweke Productions",
+    "entityType": "Parent",
+    "taxId": "TPIN-ET-9002",
+    "baseCurrency": "ETB",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "et-003",
+    "entityName": "Gigi Music Group",
+    "entityType": "Parent",
+    "taxId": "TPIN-ET-9003",
+    "baseCurrency": "ETB",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "et-004",
+    "entityName": "Tilahun Gessesse Foundation",
+    "entityType": "Parent",
+    "taxId": "TPIN-ET-9004",
+    "baseCurrency": "ETB",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "et-005",
+    "entityName": "Mahmoud Ahmed Music Ltd",
+    "entityType": "Parent",
+    "taxId": "TPIN-ET-9005",
+    "baseCurrency": "ETB",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "et-006",
+    "entityName": "Gossaye Tesfaye Entertainment",
+    "entityType": "Parent",
+    "taxId": "TPIN-ET-9006",
+    "baseCurrency": "ETB",
+    "fiscalYearEnd": "12-31"
+  }
+]

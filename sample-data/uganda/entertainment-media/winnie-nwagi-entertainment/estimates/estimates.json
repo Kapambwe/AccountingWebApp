@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 4,
+    "customerName": "Mutebe Entertainment Co.",
+    "estimateDateDaysAgo": 52,
+    "expirationDateDaysFromNow": 25,
+    "status": "Declined",
+    "subTotal": 26574728.36,
+    "taxRate": 15,
+    "taxAmount": 3986209.25,
+    "total": 30560937.61,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 52,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 3,
+        "unitPrice": 8858242.79,
+        "amount": 26574728.36,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 51
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 1,
+    "customerName": "Lutalo Productions Limited",
+    "estimateDateDaysAgo": 37,
+    "expirationDateDaysFromNow": 36,
+    "status": "Open",
+    "subTotal": 8106380.57,
+    "taxRate": 15,
+    "taxAmount": 1215957.09,
+    "total": 9322337.66,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 37,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 4,
+        "unitPrice": 2026595.14,
+        "amount": 8106380.57,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 36
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 8,
+    "customerName": "Namutebi Music Group Inc.",
+    "estimateDateDaysAgo": 9,
+    "expirationDateDaysFromNow": 23,
+    "status": "Sent",
+    "subTotal": 20870134.05,
+    "taxRate": 18,
+    "taxAmount": 3756624.13,
+    "total": 24626758.18,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 9,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 3,
+        "unitPrice": 6956711.35,
+        "amount": 20870134.05,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 8
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 3,
+    "customerName": "Museveni Productions Limited",
+    "estimateDateDaysAgo": 43,
+    "expirationDateDaysFromNow": 30,
+    "status": "Accepted",
+    "subTotal": 25612739.28,
+    "taxRate": 16,
+    "taxAmount": 4098038.28,
+    "total": 29710777.56,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 43,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 4,
+        "unitPrice": 6403184.82,
+        "amount": 25612739.28,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 42
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 7,
+    "customerName": "Ssewanyana Media Enterprises",
+    "estimateDateDaysAgo": 21,
+    "expirationDateDaysFromNow": 32,
+    "status": "Accepted",
+    "subTotal": 5840421.74,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 5840421.74,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 21,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 3,
+        "unitPrice": 1946807.25,
+        "amount": 5840421.74,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 20
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 8,
+    "customerName": "Namutebi Music Group Inc.",
+    "estimateDateDaysAgo": 13,
+    "expirationDateDaysFromNow": 33,
+    "status": "Accepted",
+    "subTotal": 1083384.44,
+    "taxRate": 18,
+    "taxAmount": 195009.2,
+    "total": 1278393.64,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 13,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 1,
+        "unitPrice": 1083384.44,
+        "amount": 1083384.44,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 12
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 7,
+    "customerName": "Ssewanyana Media Enterprises",
+    "estimateDateDaysAgo": 19,
+    "expirationDateDaysFromNow": 26,
+    "status": "Expired",
+    "subTotal": 12562164.53,
+    "taxRate": 16,
+    "taxAmount": 2009946.32,
+    "total": 14572110.85,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 19,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 2,
+        "unitPrice": 6281082.26,
+        "amount": 12562164.53,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 18
+  }
+]

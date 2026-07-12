@@ -1,0 +1,56 @@
+{
+  "accounts": [
+    {
+      "bankName": "Zambia National Bank",
+      "accountName": "ZMW Operating",
+      "currency": "ZMW",
+      "ledgerBalance": 12450000,
+      "availableBalance": 11820000,
+      "inTransitAmount": 630000,
+      "status": "Active"
+    },
+    {
+      "bankName": "Standard Chartered",
+      "accountName": "USD Collections",
+      "currency": "USD",
+      "ledgerBalance": 980000,
+      "availableBalance": 920000,
+      "inTransitAmount": 60000,
+      "status": "Active"
+    },
+    {
+      "bankName": "ABSA",
+      "accountName": "Reserve Account",
+      "currency": "ZMW",
+      "ledgerBalance": 3400000,
+      "availableBalance": 1200000,
+      "inTransitAmount": 2200000,
+      "status": "Restricted"
+    }
+  ],
+  "alerts": [
+    {
+      "alertNumber": "TR-001",
+      "priority": "High",
+      "message": "Large supplier payment batch scheduled for tomorrow.",
+      "owner": "Treasury",
+      "status": "Open",
+      "amount": 4200000,
+      "dueDate": "today+1"
+    },
+    {
+      "alertNumber": "TR-002",
+      "priority": "Medium",
+      "message": "USD balance below target operating threshold.",
+      "owner": "Treasury",
+      "status": "Open",
+      "amount": 980000,
+      "dueDate": "today+3"
+    }
+  ],
+  "workflowSteps": [
+    { "code": "pos", "title": "Review cash position", "status": "Completed", "ownerRole": "Treasury Analyst", "details": "Consolidate balances across bank accounts." },
+    { "code": "liq", "title": "Assess liquidity forecast", "status": "InProgress", "ownerRole": "Treasury Manager", "details": "Check the next 30-day cash forecast." },
+    { "code": "pay", "title": "Approve payment batch", "status": "Pending", "ownerRole": "Finance Director", "details": "Authorize transfers and supplier disbursements." }
+  ]
+}
