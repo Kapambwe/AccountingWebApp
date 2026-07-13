@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 5,
+    "customerName": "Chirwa Entertainment Inc.",
+    "estimateDateDaysAgo": 40,
+    "expirationDateDaysFromNow": 37,
+    "status": "Declined",
+    "subTotal": 893316.02,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 893316.02,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 40,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 4,
+        "unitPrice": 223329.01,
+        "amount": 893316.02,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 39
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 6,
+    "customerName": "Malewezi Entertainment Inc.",
+    "estimateDateDaysAgo": 5,
+    "expirationDateDaysFromNow": 22,
+    "status": "Expired",
+    "subTotal": 5367313.77,
+    "taxRate": 15,
+    "taxAmount": 805097.07,
+    "total": 6172410.84,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 5,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 2,
+        "unitPrice": 2683656.88,
+        "amount": 5367313.77,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 4
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 4,
+    "customerName": "Mtambo Media Enterprises",
+    "estimateDateDaysAgo": 20,
+    "expirationDateDaysFromNow": 26,
+    "status": "Expired",
+    "subTotal": 3396059.2,
+    "taxRate": 16,
+    "taxAmount": 543369.47,
+    "total": 3939428.67,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 20,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 4,
+        "unitPrice": 849014.8,
+        "amount": 3396059.2,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 19
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 4,
+    "customerName": "Mtambo Media Enterprises",
+    "estimateDateDaysAgo": 11,
+    "expirationDateDaysFromNow": 32,
+    "status": "Expired",
+    "subTotal": 2157556.11,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2157556.11,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 11,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 2,
+        "unitPrice": 1078778.05,
+        "amount": 2157556.11,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 10
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 7,
+    "customerName": "Tembo Productions Limited",
+    "estimateDateDaysAgo": 59,
+    "expirationDateDaysFromNow": 19,
+    "status": "Open",
+    "subTotal": 3603110.91,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3603110.91,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 59,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 5,
+        "unitPrice": 720622.18,
+        "amount": 3603110.91,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 58
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 4,
+    "customerName": "Mtambo Media Enterprises",
+    "estimateDateDaysAgo": 43,
+    "expirationDateDaysFromNow": 19,
+    "status": "Expired",
+    "subTotal": 3738129.29,
+    "taxRate": 16,
+    "taxAmount": 598100.69,
+    "total": 4336229.98,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 43,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 2,
+        "unitPrice": 1869064.65,
+        "amount": 3738129.29,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 42
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 6,
+    "customerName": "Malewezi Entertainment Inc.",
+    "estimateDateDaysAgo": 55,
+    "expirationDateDaysFromNow": 38,
+    "status": "Expired",
+    "subTotal": 3115655.55,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3115655.55,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 55,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 5,
+        "unitPrice": 623131.11,
+        "amount": 3115655.55,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 54
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 7,
+    "customerName": "Tembo Productions Limited",
+    "estimateDateDaysAgo": 32,
+    "expirationDateDaysFromNow": 24,
+    "status": "Accepted",
+    "subTotal": 1537778.93,
+    "taxRate": 15,
+    "taxAmount": 230666.84,
+    "total": 1768445.77,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 32,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 4,
+        "unitPrice": 384444.73,
+        "amount": 1537778.93,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 31
+  }
+]

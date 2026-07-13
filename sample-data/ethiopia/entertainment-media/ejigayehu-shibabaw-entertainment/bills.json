@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Meles Entertainment Enterprises",
+    "description": "PR Campaign",
+    "billDate": "2025-03-01T00:00:00",
+    "dueDate": "2025-04-15T00:00:00",
+    "amount": 544499.52,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Gebre Media Co.",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-02-25T00:00:00",
+    "dueDate": "2025-03-27T00:00:00",
+    "amount": 597527.88,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Meles Entertainment Inc.",
+    "description": "Management Fee",
+    "billDate": "2025-01-14T00:00:00",
+    "dueDate": "2025-02-28T00:00:00",
+    "amount": 212528.06,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Meles Entertainment Inc.",
+    "description": "Studio Recording Session",
+    "billDate": "2024-11-24T00:00:00",
+    "dueDate": "2024-12-24T00:00:00",
+    "amount": 1313914.07,
+    "paidAmount": 1313914.07,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Mengistu Creative Agency Limited",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-10-28T00:00:00",
+    "dueDate": "2024-11-12T00:00:00",
+    "amount": 301494.68,
+    "paidAmount": 301494.68,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Kassa Music Group Group",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-12-11T00:00:00",
+    "dueDate": "2025-01-25T00:00:00",
+    "amount": 771078.77,
+    "paidAmount": 771078.77,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Gebre Music Group Limited",
+    "description": "Studio Recording Session",
+    "billDate": "2025-01-12T00:00:00",
+    "dueDate": "2025-02-11T00:00:00",
+    "amount": 766329.33,
+    "paidAmount": 766329.33,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mengistu Creative Agency Limited",
+    "description": "Music Video Production",
+    "billDate": "2024-11-18T00:00:00",
+    "dueDate": "2024-12-18T00:00:00",
+    "amount": 1230789.26,
+    "paidAmount": 1230789.26,
+    "status": "Paid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Meles Entertainment Inc.",
+    "description": "PR Campaign",
+    "billDate": "2024-11-28T00:00:00",
+    "dueDate": "2024-12-13T00:00:00",
+    "amount": 955544.34,
+    "paidAmount": 955544.34,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Mekonen Entertainment Solutions",
+    "description": "Tour Logistics",
+    "billDate": "2024-09-19T00:00:00",
+    "dueDate": "2024-10-19T00:00:00",
+    "amount": 873308.44,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Gebre Music Group Limited",
+    "description": "Tour Logistics",
+    "billDate": "2024-10-14T00:00:00",
+    "dueDate": "2024-10-29T00:00:00",
+    "amount": 453912.22,
+    "paidAmount": 322703.67,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Selassie Productions Enterprises",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-11-25T00:00:00",
+    "dueDate": "2024-12-25T00:00:00",
+    "amount": 686016.63,
+    "paidAmount": 686016.63,
+    "status": "Paid"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Mengistu Creative Agency Limited",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-10-15T00:00:00",
+    "dueDate": "2024-11-14T00:00:00",
+    "amount": 1063516.14,
+    "paidAmount": 1063516.14,
+    "status": "Paid"
+  }
+]

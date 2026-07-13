@@ -1,0 +1,31 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "accountName": "Default CRM Account",
+      "accountNumber": "CRM-DEF-001",
+      "website": "https://example.com",
+      "phone": "+0000000000",
+      "industry": "General",
+      "description": "Default CRM account for template purposes.",
+      "accountType": "Customer",
+      "status": "Active",
+      "visibilityScope": "Public",
+      "employeeCount": 10,
+      "annualRevenue": 1000000,
+      "billingCity": "Default City",
+      "billingCountry": "Default Country",
+      "shippingCity": "Default City",
+      "shippingCountry": "Default Country",
+      "accountingCustomerId": 1001,
+      "defaultCasePriority": "Medium",
+      "defaultCaseType": "Question",
+      "defaultCaseDueDays": 5,
+      "defaultCaseSubjectPrefix": "DEF",
+      "createdBy": "System"
+    }
+  ],
+  "leads": [],
+  "opportunities": [],
+  "contacts": []
+}

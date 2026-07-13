@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Mosarwa Music Group Co.",
+    "description": "Performance Fee",
+    "invoiceDate": "2025-03-06T00:00:00",
+    "dueDate": "2025-04-05T00:00:00",
+    "amount": 195601.12,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 8
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Segokgo Creative Agency Limited",
+    "description": "Brand Deal",
+    "invoiceDate": "2025-03-03T00:00:00",
+    "dueDate": "2025-04-02T00:00:00",
+    "amount": 20213.17,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 1
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Setlhabi Media Co.",
+    "description": "Merchandise Revenue",
+    "invoiceDate": "2024-12-08T00:00:00",
+    "dueDate": "2024-12-23T00:00:00",
+    "amount": 215870.73,
+    "receivedAmount": 0.0,
+    "status": "Overdue",
+    "customerId": 6
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Setlhabi Media Co.",
+    "description": "Merchandise Revenue",
+    "invoiceDate": "2025-01-26T00:00:00",
+    "dueDate": "2025-02-10T00:00:00",
+    "amount": 347338.22,
+    "receivedAmount": 347338.22,
+    "status": "Paid",
+    "customerId": 6
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Setlhabi Media Co.",
+    "description": "Music Licensing",
+    "invoiceDate": "2024-10-16T00:00:00",
+    "dueDate": "2024-11-30T00:00:00",
+    "amount": 196056.55,
+    "receivedAmount": 196056.55,
+    "status": "Paid",
+    "customerId": 6
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Letshego Productions Enterprises",
+    "description": "Brand Deal",
+    "invoiceDate": "2024-12-27T00:00:00",
+    "dueDate": "2025-02-10T00:00:00",
+    "amount": 158235.02,
+    "receivedAmount": 158235.02,
+    "status": "Paid",
+    "customerId": 3
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Letshego Productions Enterprises",
+    "description": "Streaming Royalty",
+    "invoiceDate": "2024-10-20T00:00:00",
+    "dueDate": "2024-11-04T00:00:00",
+    "amount": 277843.56,
+    "receivedAmount": 277843.56,
+    "status": "Paid",
+    "customerId": 3
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Setlhabi Media Co.",
+    "description": "Concert Headlining Fee",
+    "invoiceDate": "2024-10-05T00:00:00",
+    "dueDate": "2024-12-04T00:00:00",
+    "amount": 184845.44,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 7
+  }
+]

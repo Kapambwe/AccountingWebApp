@@ -1,0 +1,122 @@
+{
+  "companyName": "Aster Aweke Entertainment",
+  "companyAddress": "Addis Ababa, Ethiopia",
+  "companyTaxId": "ERCA-3548996-AAE",
+  "generatedDate": "2025-09-30",
+  "currency": "ETB",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Awash Group PLC",
+      "customerEmail": "finance@awash.com.et",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-21",
+          "reference": "INV-E-2025-012",
+          "description": "Endorsement deal - Q3",
+          "debit": 1732500,
+          "credit": 0.0,
+          "balance": 1732500
+        },
+        {
+          "date": "2025-09-21",
+          "reference": "PMT-E-2025-015",
+          "description": "Payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 1732500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Blue Nile Industries PLC",
+      "customerEmail": "contact@blue.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-20",
+          "reference": "INV-E-2025-023",
+          "description": "Live concert performance fee",
+          "debit": 897500,
+          "credit": 0.0,
+          "balance": 897500
+        },
+        {
+          "date": "2025-08-04",
+          "reference": "PMT-E-2025-022",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 897500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Axum Industries PLC",
+      "customerEmail": "finance@axum.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-20",
+          "reference": "INV-E-2025-036",
+          "description": "Headline performance - National Arts Festival",
+          "debit": 293500,
+          "credit": 0.0,
+          "balance": 293500
+        }
+      ],
+      "closingBalance": 293500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Blue Nile Holdings PLC",
+      "customerEmail": "accounts@blue.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-05",
+          "reference": "INV-E-2025-044",
+          "description": "Merchandise partnership revenue",
+          "debit": 699000,
+          "credit": 0.0,
+          "balance": 699000
+        },
+        {
+          "date": "2025-07-23",
+          "reference": "PMT-E-2025-043",
+          "description": "Payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 699000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 3622500,
+    "totalReceived": 3329000,
+    "totalOutstanding": 293500,
+    "totalOverdue": 293500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 293500.0,
+      "over90days": 0.0
+    }
+  }
+}

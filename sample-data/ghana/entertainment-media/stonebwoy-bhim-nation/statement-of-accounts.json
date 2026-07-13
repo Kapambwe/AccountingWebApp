@@ -1,0 +1,158 @@
+{
+  "companyName": "Stonebwoy Bhim Nation",
+  "companyAddress": "Cape Coast, Ghana",
+  "companyTaxId": "GRA-5410433-SBN",
+  "generatedDate": "2025-09-30",
+  "currency": "GHS",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Volta Enterprises Ltd",
+      "customerEmail": "contact@volta.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-24",
+          "reference": "INV-G-2025-012",
+          "description": "Brand ambassador fee - Q3 campaign",
+          "debit": 187000,
+          "credit": 0.0,
+          "balance": 187000
+        }
+      ],
+      "closingBalance": 187000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Gold Coast Trading Ltd",
+      "customerEmail": "info@gold.com.gh",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-24",
+          "reference": "INV-G-2025-027",
+          "description": "Endorsement deal - Q1",
+          "debit": 112000,
+          "credit": 0.0,
+          "balance": 112000
+        },
+        {
+          "date": "2025-09-18",
+          "reference": "PMT-G-2025-028",
+          "description": "Partial payment received - mobile money",
+          "debit": 0.0,
+          "credit": 75500,
+          "balance": 36500
+        }
+      ],
+      "closingBalance": 36500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Gold Coast Industries Ltd",
+      "customerEmail": "contact@gold.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-10",
+          "reference": "INV-G-2025-038",
+          "description": "Digital content licensing fee",
+          "debit": 282000,
+          "credit": 0.0,
+          "balance": 282000
+        }
+      ],
+      "closingBalance": 282000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Brong Trading Ltd",
+      "customerEmail": "finance@brong.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-09",
+          "reference": "INV-G-2025-048",
+          "description": "Live concert performance fee",
+          "debit": 277500,
+          "credit": 0.0,
+          "balance": 277500
+        }
+      ],
+      "closingBalance": 277500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Gold Coast Group Ltd",
+      "customerEmail": "finance@gold.com.gh",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-11",
+          "reference": "INV-G-2025-058",
+          "description": "Royalty payment - streaming Q1 2025",
+          "debit": 250500,
+          "credit": 0.0,
+          "balance": 250500
+        },
+        {
+          "date": "2025-07-27",
+          "reference": "PMT-G-2025-052",
+          "description": "Payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 250500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Ashanti Trading Ltd",
+      "customerEmail": "contact@ashanti.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-18",
+          "reference": "INV-G-2025-066",
+          "description": "Endorsement deal - Q3",
+          "debit": 261000,
+          "credit": 0.0,
+          "balance": 261000
+        },
+        {
+          "date": "2025-04-23",
+          "reference": "PMT-G-2025-068",
+          "description": "Payment received - mobile money",
+          "debit": 0.0,
+          "credit": 261000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 1370000,
+    "totalReceived": 587000,
+    "totalOutstanding": 783000,
+    "totalOverdue": 783000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 223500.0,
+      "days61to90": 277500.0,
+      "over90days": 282000.0
+    }
+  }
+}

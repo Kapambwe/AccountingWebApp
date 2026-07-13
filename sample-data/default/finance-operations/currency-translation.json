@@ -1,0 +1,45 @@
+{
+  "entities": [
+    {
+      "entityName": "Zambeef Zambia",
+      "functionalCurrency": "ZMW",
+      "reportingCurrency": "ZMW",
+      "exchangeRate": 1.0,
+      "netAssetsLocal": 15600000,
+      "netAssetsReporting": 15600000,
+      "minorityInterest": 0,
+      "ownershipPercentage": 100,
+      "translationMethod": "Not required",
+      "status": "Translated"
+    },
+    {
+      "entityName": "Zambeef Botswana",
+      "functionalCurrency": "BWP",
+      "reportingCurrency": "ZMW",
+      "exchangeRate": 1.92,
+      "netAssetsLocal": 3600000,
+      "netAssetsReporting": 6912000,
+      "minorityInterest": 480000,
+      "ownershipPercentage": 85,
+      "translationMethod": "Closing rate",
+      "status": "Pending"
+    },
+    {
+      "entityName": "Zambeef South Africa",
+      "functionalCurrency": "ZAR",
+      "reportingCurrency": "ZMW",
+      "exchangeRate": 1.39,
+      "netAssetsLocal": 4800000,
+      "netAssetsReporting": 6672000,
+      "minorityInterest": 250000,
+      "ownershipPercentage": 92,
+      "translationMethod": "Closing rate",
+      "status": "Translated"
+    }
+  ],
+  "workflowSteps": [
+    { "code": "fx", "title": "Load exchange rates", "status": "Completed", "ownerRole": "Group Accountant", "details": "Retrieve closing rates and reporting currency settings." },
+    { "code": "tr", "title": "Translate entity balances", "status": "InProgress", "ownerRole": "Consolidation Lead", "details": "Convert assets, liabilities, income, and equity." },
+    { "code": "mi", "title": "Calculate minority interest", "status": "Pending", "ownerRole": "Group Controller", "details": "Apply ownership percentage and NCI disclosure." }
+  ]
+}

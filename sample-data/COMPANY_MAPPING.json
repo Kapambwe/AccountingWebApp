@@ -1,0 +1,113 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Konkola Copper Mines PLC",
+      "folderId": "konkola-copper-mines-plc",
+      "industry": "Mining - Copper",
+      "location": "Chingola, Copperbelt",
+      "description": "Major copper mining operation in the Zambian Copperbelt",
+      "keywords": ["mining", "copper", "extraction", "ore processing"]
+    },
+    {
+      "id": 2,
+      "name": "National Milling Corporation",
+      "folderId": "national-milling-corporation",
+      "industry": "Agriculture - Milling",
+      "location": "Lusaka",
+      "description": "Leading grain milling and flour production company",
+      "keywords": ["agriculture", "milling", "grains", "flour"]
+    },
+    {
+      "id": 3,
+      "name": "Mopani Copper Mines PLC",
+      "folderId": "mopani-copper-mines-plc",
+      "industry": "Mining - Copper",
+      "location": "Kitwe, Copperbelt",
+      "description": "Major copper mining operation in Kitwe",
+      "keywords": ["mining", "copper", "open pit", "ore extraction"]
+    },
+    {
+      "id": 4,
+      "name": "Zambian Breweries PLC",
+      "folderId": "zambian-breweries-plc",
+      "industry": "Manufacturing - Beverages",
+      "location": "Lusaka",
+      "description": "Premier beer and beverage manufacturing company",
+      "keywords": ["brewing", "beverages", "beer", "manufacturing"]
+    },
+    {
+      "id": 5,
+      "name": "Zambia Sugar PLC",
+      "folderId": "zambia-sugar-plc",
+      "industry": "Agriculture - Sugar",
+      "location": "Nakambala, Southern Province",
+      "description": "Major sugar production facility",
+      "keywords": ["sugar", "agriculture", "processing", "refining"]
+    },
+    {
+      "id": 6,
+      "name": "Chilanga Cement PLC",
+      "folderId": "chilanga-cement-plc",
+      "industry": "Manufacturing - Cement",
+      "location": "Chilanga",
+      "description": "Leading cement manufacturer in Zambia",
+      "keywords": ["cement", "manufacturing", "construction", "production"]
+    },
+    {
+      "id": 7,
+      "name": "Shoprite Checkers Zambia",
+      "folderId": "shoprite-checkers-zambia",
+      "industry": "Retail",
+      "location": "Lusaka",
+      "description": "Major retail supermarket chain",
+      "keywords": ["retail", "supermarket", "shopping", "merchandise"]
+    },
+    {
+      "id": 8,
+      "name": "Zambia Railways Limited",
+      "folderId": "zambia-railways-limited",
+      "industry": "Transport - Logistics",
+      "location": "Lusaka",
+      "description": "National railway transport operator",
+      "keywords": ["railways", "transport", "freight", "logistics"]
+    },
+    {
+      "id": 9,
+      "name": "Zambian Properties Ltd",
+      "folderId": "zambian-properties-ltd",
+      "industry": "Real Estate",
+      "location": "Lusaka",
+      "description": "Real estate development and property management company",
+      "keywords": ["real estate", "property", "development", "leasing"]
+    },
+    {
+      "id": 10,
+      "name": "Zambeef Products PLC",
+      "folderId": "zambeef-products-plc",
+      "industry": "Agriculture - Meat Processing",
+      "location": "Lusaka",
+      "description": "Integrated livestock farming and meat processing company",
+      "keywords": ["meat", "agriculture", "processing", "livestock"]
+    },
+    {
+      "id": 11,
+      "name": "Road Development Agency",
+      "folderId": "road-development-agency",
+      "industry": "Government - Infrastructure",
+      "location": "Lusaka",
+      "description": "Government agency responsible for road development and maintenance",
+      "keywords": ["infrastructure", "roads", "government", "construction"]
+    }
+  ],
+  "metadata": {
+    "totalCompanies": 11,
+    "totalFiles": 52,
+    "filesPerCompany": 52,
+    "jsonFilesPerCompany": 51,
+    "createdDate": "2025-01-18",
+    "currency": "ZMW",
+    "basePath": "/sample-data/",
+    "format": "Each folder contains identical JSON service files with company-specific data customizations"
+  }
+}
