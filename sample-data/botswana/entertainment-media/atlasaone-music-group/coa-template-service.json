@@ -520,7 +520,7 @@
         "subType": "Operating Expense"
       },
       {
-        "accountNumber":="5810",
+        "accountNumber": "5810",
         "accountName": "Accommodation & Lodging",
         "accountType": "Expense",
         "subType": "Operating Expense"

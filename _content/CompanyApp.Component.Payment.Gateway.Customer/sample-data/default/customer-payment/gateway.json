@@ -1,0 +1,149 @@
+{
+  "options": [
+    {
+      "option": "mobileMoney",
+      "displayName": "Mobile money",
+      "providerKey": "airtel-money",
+      "isEnabled": true,
+      "supportsHostedForm": false,
+      "supportedMobileMoneyNetworks": ["Airtel Money", "MTN Mobile Money", "Zamtel Money"],
+      "inputFields": [
+        { "key": "phoneNumber", "label": "Mobile number", "type": "tel", "required": true, "placeholder": "+260 97 000 0000" }
+      ]
+    },
+    {
+      "option": "bankTransfer",
+      "displayName": "Bank transfer",
+      "providerKey": "zambia-bank-transfer",
+      "isEnabled": true,
+      "supportsHostedForm": false,
+      "bankAccount": {
+        "bankName": "Zanaco",
+        "accountName": "Sample Trading Company Ltd",
+        "accountNumber": "010000123456",
+        "branchName": "Lusaka Business Centre",
+        "instructions": "Use the payment reference as your transfer narration."
+      }
+    },
+    {
+      "option": "fastPaymentGateway",
+      "displayName": "Card payment",
+      "providerKey": "payfast",
+      "isEnabled": true,
+      "supportsHostedForm": true,
+      "supportedCardBrands": ["Visa", "Mastercard"],
+      "supportsThreeDSecure": true
+    }
+  ],
+  "paymentMethods": [
+    {
+      "id": "mock-card-visa-001",
+      "displayName": "Visa ending 4242",
+      "type": "Card",
+      "countries": ["ZM", "ZA"],
+      "currencies": ["ZMW", "ZAR"],
+      "requiresRedirect": false,
+      "requiresAuthorization": true
+    },
+    {
+      "id": "mock-mobile-001",
+      "displayName": "Airtel Money",
+      "type": "MobileMoney",
+      "countries": ["ZM"],
+      "currencies": ["ZMW"],
+      "requiresRedirect": false,
+      "requiresAuthorization": true
+    }
+  ],
+  "history": [
+    {
+      "paymentGuid": "c0a80101-0000-4000-8000-000000000001",
+      "providerKey": "payfast",
+      "reference": "MOCK-PAY-20241115001",
+      "amount": 12500,
+      "currency": "ZMW",
+      "status": "success",
+      "paymentDate": "2024-11-15T10:30:00Z",
+      "invoiceNumber": "INV-2024-001"
+    },
+    {
+      "paymentGuid": "c0a80101-0000-4000-8000-000000000002",
+      "providerKey": "airtel-money",
+      "reference": "MOCK-PAY-20241120002",
+      "amount": 7800,
+      "currency": "ZMW",
+      "status": "pending",
+      "paymentDate": "2024-11-20T09:15:00Z",
+      "invoiceNumber": "INV-2024-002"
+    },
+    {
+      "paymentGuid": "c0a80101-0000-4000-8000-000000000003",
+      "providerKey": "payfast",
+      "reference": "MOCK-PAY-20241121003",
+      "amount": 4500,
+      "currency": "ZMW",
+      "status": "failed",
+      "paymentDate": "2024-11-21T11:45:00Z",
+      "invoiceNumber": "INV-2024-003"
+    },
+    {
+      "paymentGuid": "c0a80101-0000-4000-8000-000000000004",
+      "providerKey": "zambia-bank-transfer",
+      "reference": "MOCK-PAY-20241122004",
+      "amount": 3200,
+      "currency": "ZMW",
+      "status": "cancelled",
+      "paymentDate": "2024-11-22T08:20:00Z",
+      "invoiceNumber": "INV-2024-004"
+    },
+    {
+      "paymentGuid": "c0a80101-0000-4000-8000-000000000005",
+      "providerKey": "payfast",
+      "reference": "MOCK-PAY-20241123005",
+      "amount": 2100,
+      "currency": "ZMW",
+      "status": "refunded",
+      "paymentDate": "2024-11-23T14:10:00Z",
+      "invoiceNumber": "INV-2024-005"
+    }
+  ],
+  "subscriptions": [
+    {
+      "subscriptionGuid": "c0a80101-0000-4000-8000-000000000011",
+      "name": "Monthly Accounting Plan",
+      "status": "Active",
+      "amount": 1500,
+      "currency": "ZMW",
+      "nextPaymentDate": "2025-01-01T00:00:00Z",
+      "canCancel": true,
+      "canRetry": false
+    }
+  ],
+  "alerts": {
+    "customerGuid": "c0a80101-0000-4000-8000-000000000099",
+    "totalOutstanding": 7800,
+    "totalUpcoming": 1500,
+    "outstandingPayments": [
+      {
+        "invoiceGuid": "c0a80101-0000-4000-8000-000000000021",
+        "invoiceNumber": "INV-2024-002",
+        "dueDate": "2024-12-10T00:00:00Z",
+        "amountDue": 7800,
+        "currency": "ZMW",
+        "status": "Overdue",
+        "isOverdue": true
+      }
+    ],
+    "upcomingPayments": [
+      {
+        "invoiceGuid": "c0a80101-0000-4000-8000-000000000022",
+        "invoiceNumber": "INV-2025-001",
+        "dueDate": "2025-01-01T00:00:00Z",
+        "amountDue": 1500,
+        "currency": "ZMW",
+        "status": "Upcoming",
+        "isOverdue": false
+      }
+    ]
+  }
+}

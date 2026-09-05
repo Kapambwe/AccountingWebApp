@@ -1,0 +1,24 @@
+[
+  {
+    "statementId": "statement-demo-001",
+    "data": {
+      "totalRevenue": 1250000,
+      "totalExpenses": 875000
+    },
+    "signatures": [
+      {
+        "role": "Management",
+        "signerId": "user-001",
+        "signature": "signed_statement-demo-001",
+        "signedAt": "2026-07-31T12:00:00Z"
+      }
+    ],
+    "proofsOfWork": [
+      {
+        "evidenceId": "evidence-demo-001",
+        "evidenceType": "ManagementAccounts",
+        "validationUrl": "https://example.com/demo/evidence-001"
+      }
+    ]
+  }
+]

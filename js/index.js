@@ -67,7 +67,13 @@ window.accountingWebApp.loadSameOriginText = async function (path) {
     window.fetch = function (resource, init) {
         var requestUrl = typeof resource === 'string'
             ? resource
-            : (resource && resource.url ? resource.url : String(resource));
+            : (resource && resource.url ? resource.url : '');
+
+        // Directly pass through all Blazor WebAssembly bootstrapper/framework assets 
+        // to avoid stripping/altering Subresource Integrity (SRI) headers.
+        if (requestUrl.indexOf('/_framework/') !== -1) {
+            return originalFetch(resource, init);
+        }
 
         if (requestUrl === 'http://localhost:5000/sample-data/directory-structure.json') {
             var sameOriginUrl = window.location.origin + '/sample-data/directory-structure.json';

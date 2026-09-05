@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "taskName": "Verify identity (NRC/TPIN)",
+    "description": "Confirm identity and tax registration",
+    "isRequired": true,
+    "isCompleted": false
+  },
+  {
+    "id": 2,
+    "taskName": "Collect bank details",
+    "description": "Verify bank account for payroll",
+    "isRequired": true,
+    "isCompleted": false
+  },
+  {
+    "id": 3,
+    "taskName": "Enroll NAPSA/NHIMA",
+    "description": "Confirm statutory numbers",
+    "isRequired": true,
+    "isCompleted": false
+  },
+  {
+    "id": 4,
+    "taskName": "Issue employment contract",
+    "description": "Signed contract and job offer",
+    "isRequired": true,
+    "isCompleted": false
+  },
+  {
+    "id": 5,
+    "taskName": "System access provisioning",
+    "description": "Email and system access",
+    "isRequired": false,
+    "isCompleted": false
+  }
+]

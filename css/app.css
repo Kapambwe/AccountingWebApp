@@ -113,3 +113,32 @@ code {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
     text-align: start;
 }
+
+.gateway-unavailable-popup {
+    position: fixed;
+    top: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 2000;
+    display: flex;
+    gap: .75rem;
+    align-items: center;
+    max-width: min(90vw, 760px);
+    padding: .9rem 1rem;
+    color: #664d03;
+    background: #fff3cd;
+    border: 1px solid #ffecb5;
+    border-radius: .375rem;
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .15);
+}
+
+.gateway-unavailable-popup span { flex: 1; }
+
+.gateway-unavailable-popup button {
+    border: 0;
+    border-radius: .25rem;
+    padding: .35rem .65rem;
+    color: #664d03;
+    background: transparent;
+    cursor: pointer;
+}

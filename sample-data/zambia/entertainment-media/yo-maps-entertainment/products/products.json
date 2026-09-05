@@ -1,0 +1,85 @@
+{
+  "categories": [
+    { "id": 1, "name": "Music", "applicableType": "all", "isActive": true },
+    { "id": 2, "name": "Events", "applicableType": "all", "isActive": true },
+    { "id": 3, "name": "Services", "applicableType": "service", "isActive": true },
+    { "id": 4, "name": "Merchandise", "applicableType": "product", "isActive": true }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "itemCode": "PROD-YM-001",
+      "name": "Aweah Album - Digital Download",
+      "description": "Hit album featuring top Zambian tracks",
+      "type": "product",
+      "categoryId": 1,
+      "categoryName": "Music",
+      "salesPrice": 50,
+      "cost": 0,
+      "quantityOnHand": 9999,
+      "reorderPoint": 0,
+      "preferredVendor": "Self-Produced",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "itemCode": "PROD-YM-002",
+      "name": "Aweah Album - Physical CD",
+      "description": "Physical CD album with packaging",
+      "type": "product",
+      "categoryId": 1,
+      "categoryName": "Music",
+      "salesPrice": 100,
+      "cost": 0,
+      "quantityOnHand": 450,
+      "reorderPoint": 50,
+      "preferredVendor": "CD Manufacturing Zambia",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "itemCode": "SERV-YM-001",
+      "name": "Music Video Production",
+      "description": "Professional music video production services",
+      "type": "service",
+      "categoryId": 3,
+      "categoryName": "Services",
+      "salesPrice": 15000,
+      "cost": 0,
+      "quantityOnHand": 0,
+      "reorderPoint": 0,
+      "preferredVendor": "Self-Service",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "itemCode": "SERV-YM-002",
+      "name": "Private Event Performance",
+      "description": "Private performance at weddings or corporate events",
+      "type": "service",
+      "categoryId": 3,
+      "categoryName": "Services",
+      "salesPrice": 35000,
+      "cost": 0,
+      "quantityOnHand": 0,
+      "reorderPoint": 0,
+      "preferredVendor": "Self-Service",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "itemCode": "PROD-YM-003",
+      "name": "Yo Maps Merchandise - T-Shirt",
+      "description": "Official Yo Maps branded t-shirt",
+      "type": "product",
+      "categoryId": 4,
+      "categoryName": "Merchandise",
+      "salesPrice": 120,
+      "cost": 0,
+      "quantityOnHand": 350,
+      "reorderPoint": 50,
+      "preferredVendor": "Merchandise Manufacturers Ltd",
+      "isActive": true
+    }
+  ]
+}

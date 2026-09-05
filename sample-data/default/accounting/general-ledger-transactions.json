@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "transactionNumber": "GL-2025-001",
+    "transactionDate": "2025-01-15T00:00:00",
+    "description": "Opening journal entry",
+    "type": "JournalEntry",
+    "status": "Posted",
+    "lines": [],
+    "totalAmount": 10000.00,
+    "createdBy": "chief.accountant",
+    "createdDate": "2025-01-15T00:00:00"
+  },
+  { "id": 2, "transactionNumber": "GL-2025-002", "transactionDate": "2025-01-20T00:00:00", "description": "Service revenue", "type": "Invoice", "status": "Posted", "lines": [], "totalAmount": 12500.00, "createdBy": "chief.accountant", "createdDate": "2025-01-20T00:00:00" },
+  { "id": 3, "transactionNumber": "GL-2025-003", "transactionDate": "2025-01-25T00:00:00", "description": "Office expense payment", "type": "Payment", "status": "Posted", "lines": [], "totalAmount": 2500.00, "createdBy": "chief.accountant", "createdDate": "2025-01-25T00:00:00" },
+  { "id": 4, "transactionNumber": "GL-2025-004", "transactionDate": "2025-02-01T00:00:00", "description": "Monthly accrual", "type": "JournalEntry", "status": "Approved", "lines": [], "totalAmount": 8000.00, "createdBy": "chief.accountant", "createdDate": "2025-02-01T00:00:00" },
+  { "id": 5, "transactionNumber": "GL-2025-005", "transactionDate": "2025-02-05T00:00:00", "description": "Bank transfer", "type": "Transfer", "status": "Posted", "lines": [], "totalAmount": 6000.00, "createdBy": "chief.accountant", "createdDate": "2025-02-05T00:00:00"
+  }
+]
