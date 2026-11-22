@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Bekele Productions Group",
+    "description": "Social Media Management",
+    "billDate": "2024-10-09T00:00:00",
+    "dueDate": "2024-10-24T00:00:00",
+    "amount": 100767.09,
+    "paidAmount": 100767.09,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Selassie Entertainment Group",
+    "description": "PR Campaign",
+    "billDate": "2024-09-22T00:00:00",
+    "dueDate": "2024-10-22T00:00:00",
+    "amount": 464085.0,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Kassa Productions Enterprises",
+    "description": "Tour Logistics",
+    "billDate": "2025-01-19T00:00:00",
+    "dueDate": "2025-03-05T00:00:00",
+    "amount": 873448.37,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Meles Music Group Holdings",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-11-18T00:00:00",
+    "dueDate": "2024-12-03T00:00:00",
+    "amount": 975526.24,
+    "paidAmount": 975526.24,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Bekele Music Group Inc.",
+    "description": "Management Fee",
+    "billDate": "2025-01-03T00:00:00",
+    "dueDate": "2025-01-18T00:00:00",
+    "amount": 753998.01,
+    "paidAmount": 753998.01,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Kassa Productions Enterprises",
+    "description": "Tour Logistics",
+    "billDate": "2024-11-25T00:00:00",
+    "dueDate": "2024-12-25T00:00:00",
+    "amount": 853824.22,
+    "paidAmount": 853824.22,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Kassa Productions Enterprises",
+    "description": "Tour Logistics",
+    "billDate": "2024-12-09T00:00:00",
+    "dueDate": "2025-01-23T00:00:00",
+    "amount": 1251381.84,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mekonen Media Solutions",
+    "description": "PR Campaign",
+    "billDate": "2025-02-01T00:00:00",
+    "dueDate": "2025-02-16T00:00:00",
+    "amount": 18707.69,
+    "paidAmount": 8042.75,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Kassa Productions Enterprises",
+    "description": "Social Media Management",
+    "billDate": "2024-09-23T00:00:00",
+    "dueDate": "2024-10-23T00:00:00",
+    "amount": 1074831.56,
+    "paidAmount": 1074831.56,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Kassa Productions Enterprises",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-10-02T00:00:00",
+    "dueDate": "2024-11-01T00:00:00",
+    "amount": 231958.59,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Bekele Music Group Inc.",
+    "description": "Studio Recording Session",
+    "billDate": "2024-11-29T00:00:00",
+    "dueDate": "2024-12-29T00:00:00",
+    "amount": 417331.38,
+    "paidAmount": 417331.38,
+    "status": "Paid"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Bekele Music Group Inc.",
+    "description": "PR Campaign",
+    "billDate": "2024-10-15T00:00:00",
+    "dueDate": "2024-11-29T00:00:00",
+    "amount": 1262812.52,
+    "paidAmount": 527102.03,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Desta Creative Agency Inc.",
+    "description": "PR Campaign",
+    "billDate": "2024-10-26T00:00:00",
+    "dueDate": "2024-11-25T00:00:00",
+    "amount": 1186590.57,
+    "paidAmount": 1186590.57,
+    "status": "Paid"
+  },
+  {
+    "id": 14,
+    "billNumber": "BILL-2025-014",
+    "vendorName": "Mengistu Music Group Enterprises",
+    "description": "Management Fee",
+    "billDate": "2024-12-14T00:00:00",
+    "dueDate": "2025-01-28T00:00:00",
+    "amount": 766109.14,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

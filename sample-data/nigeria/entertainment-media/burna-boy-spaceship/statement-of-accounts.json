@@ -1,0 +1,114 @@
+{
+  "companyName": "Burna Boy Spaceship",
+  "companyAddress": "Port Harcourt, Nigeria",
+  "companyTaxId": "FIRS-4248648-BBS",
+  "generatedDate": "2025-09-30",
+  "currency": "NGN",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Lagos Resources Ltd",
+      "customerEmail": "admin@lagos.com.ng",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-12",
+          "reference": "INV-N-2025-015",
+          "description": "Merchandise partnership revenue",
+          "debit": 26366500,
+          "credit": 0.0,
+          "balance": 26366500
+        },
+        {
+          "date": "2025-03-12",
+          "reference": "PMT-N-2025-019",
+          "description": "Partial settlement payment received",
+          "debit": 0.0,
+          "credit": 12579000,
+          "balance": 13787500
+        }
+      ],
+      "closingBalance": 13787500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Eko Industries Ltd",
+      "customerEmail": "info@eko.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-19",
+          "reference": "INV-N-2025-029",
+          "description": "Endorsement deal - Q3",
+          "debit": 48556000,
+          "credit": 0.0,
+          "balance": 48556000
+        }
+      ],
+      "closingBalance": 48556000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Anambra Group Plc",
+      "customerEmail": "billing@anambra.com.ng",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-05",
+          "reference": "INV-N-2025-034",
+          "description": "Exclusive brand deal - Q1",
+          "debit": 39026500,
+          "credit": 0.0,
+          "balance": 39026500
+        }
+      ],
+      "closingBalance": 39026500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Sokoto Group Plc",
+      "customerEmail": "accounts@sokoto.com.ng",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-12",
+          "reference": "INV-N-2025-041",
+          "description": "Headline performance - Independence Day Concert",
+          "debit": 46672000,
+          "credit": 0.0,
+          "balance": 46672000
+        },
+        {
+          "date": "2025-05-08",
+          "reference": "PMT-N-2025-044",
+          "description": "Partial partial payment received",
+          "debit": 0.0,
+          "credit": 18764500,
+          "balance": 27907500
+        }
+      ],
+      "closingBalance": 27907500,
+      "status": "Partially Paid"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 160621000,
+    "totalReceived": 31343500,
+    "totalOutstanding": 129277500,
+    "totalOverdue": 80721500.0,
+    "agingSummary": {
+      "current": 48556000.0,
+      "days1to30": 0.0,
+      "days31to60": 39026500.0,
+      "days61to90": 0.0,
+      "over90days": 41695000.0
+    }
+  }
+}

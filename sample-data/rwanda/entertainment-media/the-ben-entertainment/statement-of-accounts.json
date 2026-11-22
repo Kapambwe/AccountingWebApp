@@ -1,0 +1,122 @@
+{
+  "companyName": "The Ben Entertainment",
+  "companyAddress": "Gisenyi, Rwanda",
+  "companyTaxId": "RRA-1584190-TBE",
+  "generatedDate": "2025-09-30",
+  "currency": "RWF",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Bugesera Industries Ltd",
+      "customerEmail": "finance@bugesera.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-02",
+          "reference": "INV-R-2025-017",
+          "description": "Digital content licensing fee",
+          "debit": 1379500,
+          "credit": 0.0,
+          "balance": 1379500
+        },
+        {
+          "date": "2025-04-02",
+          "reference": "PMT-R-2025-019",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 1379500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Karisimbi Holdings Ltd",
+      "customerEmail": "finance@karisimbi.co.rw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-02",
+          "reference": "INV-R-2025-025",
+          "description": "Brand ambassador fee - Q1 campaign",
+          "debit": 227500,
+          "credit": 0.0,
+          "balance": 227500
+        },
+        {
+          "date": "2025-05-23",
+          "reference": "PMT-R-2025-028",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 227500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Kigali Enterprises Ltd",
+      "customerEmail": "info@kigali.co.rw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-22",
+          "reference": "INV-R-2025-033",
+          "description": "Digital content licensing fee",
+          "debit": 5729500,
+          "credit": 0.0,
+          "balance": 5729500
+        },
+        {
+          "date": "2025-08-09",
+          "reference": "PMT-R-2025-032",
+          "description": "Partial payment received - mobile money",
+          "debit": 0.0,
+          "credit": 2209500,
+          "balance": 3520000
+        }
+      ],
+      "closingBalance": 3520000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Nyungwe Industries Ltd",
+      "customerEmail": "info@nyungwe.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-03",
+          "reference": "INV-R-2025-046",
+          "description": "Digital content licensing fee",
+          "debit": 1858000,
+          "credit": 0.0,
+          "balance": 1858000
+        }
+      ],
+      "closingBalance": 1858000,
+      "status": "Outstanding"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 9194500,
+    "totalReceived": 3816500,
+    "totalOutstanding": 5378000,
+    "totalOverdue": 5378000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 1858000.0,
+      "days61to90": 3520000.0,
+      "over90days": 0.0
+    }
+  }
+}

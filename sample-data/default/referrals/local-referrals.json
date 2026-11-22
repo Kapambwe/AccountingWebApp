@@ -1,0 +1,47 @@
+{
+  "referrals": [
+    {
+      "id": "44444444-4444-4444-4444-444444444444",
+      "referrerId": "user-001",
+      "referrerName": "Current User",
+      "referralCode": "DEMO-REF-2026",
+      "referredCustomerId": "55555555-5555-5555-5555-555555555555",
+      "referredCompanyName": "Demo Trading Limited",
+      "referredContactName": "Musa Tembo",
+      "referredEmail": "musa@example.com",
+      "referredPhone": "+260-97-555-0101",
+      "industryType": "Retail Trading",
+      "source": "Direct",
+      "relationshipType": "Professional",
+      "subscriptionTier": "Professional",
+      "monthlyValue": 900,
+      "totalValue": 10800,
+      "commissionAmount": 540,
+      "commissionMonthsPaid": 2,
+      "commissionMonthsTotal": 12,
+      "status": "Converted",
+      "referralDate": "2026-07-15T00:00:00Z",
+      "notes": "Sample referral loaded from JSON."
+    }
+  ],
+  "referralCodes": [
+    {
+      "id": "22222222-2222-2222-2222-222222222222",
+      "userId": "11111111-1111-1111-1111-111111111111",
+      "userName": "Current User",
+      "code": "DEMO-REF-2026",
+      "description": "Demonstration referral campaign",
+      "discountPercentage": 5,
+      "commissionPercentage": 10,
+      "maxUses": 100,
+      "currentUses": 12,
+      "expirationDate": "2026-12-31T00:00:00Z",
+      "isActive": true,
+      "createdDate": "2026-07-01T00:00:00Z",
+      "referralUrl": "https://accountingapp.com/signup?ref=DEMO-REF-2026",
+      "commissionEnabled": true,
+      "commissionRate": 0.1
+    }
+  ],
+  "referralActivities": []
+}

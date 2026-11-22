@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 2,
+    "customerName": "Segokgo Entertainment Limited",
+    "estimateDateDaysAgo": 14,
+    "expirationDateDaysFromNow": 34,
+    "status": "Declined",
+    "subTotal": 144560.55,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 144560.55,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 14,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 5,
+        "unitPrice": 28912.11,
+        "amount": 144560.55,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 13
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 9,
+    "customerName": "Motsepe Music Group Holdings",
+    "estimateDateDaysAgo": 14,
+    "expirationDateDaysFromNow": 34,
+    "status": "Accepted",
+    "subTotal": 99338.39,
+    "taxRate": 15,
+    "taxAmount": 14900.76,
+    "total": 114239.15,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 14,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 1,
+        "unitPrice": 99338.39,
+        "amount": 99338.39,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 13
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 8,
+    "customerName": "Nkate Creative Agency Ltd",
+    "estimateDateDaysAgo": 60,
+    "expirationDateDaysFromNow": 17,
+    "status": "Expired",
+    "subTotal": 314800.12,
+    "taxRate": 18,
+    "taxAmount": 56664.02,
+    "total": 371464.14,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 60,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 2,
+        "unitPrice": 157400.06,
+        "amount": 314800.12,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 59
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 6,
+    "customerName": "Gaolathe Entertainment Enterprises",
+    "estimateDateDaysAgo": 25,
+    "expirationDateDaysFromNow": 42,
+    "status": "Accepted",
+    "subTotal": 185661.21,
+    "taxRate": 18,
+    "taxAmount": 33419.02,
+    "total": 219080.23,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 25,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 1,
+        "unitPrice": 185661.21,
+        "amount": 185661.21,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 24
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 7,
+    "customerName": "Tlou Music Group Enterprises",
+    "estimateDateDaysAgo": 36,
+    "expirationDateDaysFromNow": 28,
+    "status": "Sent",
+    "subTotal": 142495.44,
+    "taxRate": 16,
+    "taxAmount": 22799.27,
+    "total": 165294.71,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 36,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 5,
+        "unitPrice": 28499.09,
+        "amount": 142495.44,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 35
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 9,
+    "customerName": "Motsepe Music Group Holdings",
+    "estimateDateDaysAgo": 49,
+    "expirationDateDaysFromNow": 22,
+    "status": "Declined",
+    "subTotal": 322416.03,
+    "taxRate": 15,
+    "taxAmount": 48362.4,
+    "total": 370778.43,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 49,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 4,
+        "unitPrice": 80604.01,
+        "amount": 322416.03,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 48
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 7,
+    "customerName": "Tlou Music Group Enterprises",
+    "estimateDateDaysAgo": 22,
+    "expirationDateDaysFromNow": 41,
+    "status": "Declined",
+    "subTotal": 67912.68,
+    "taxRate": 18,
+    "taxAmount": 12224.28,
+    "total": 80136.96,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 22,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 5,
+        "unitPrice": 13582.54,
+        "amount": 67912.68,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 21
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 5,
+    "customerName": "Letshego Music Group Enterprises",
+    "estimateDateDaysAgo": 35,
+    "expirationDateDaysFromNow": 38,
+    "status": "Expired",
+    "subTotal": 299862.48,
+    "taxRate": 16,
+    "taxAmount": 47978.0,
+    "total": 347840.48,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 35,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 3,
+        "unitPrice": 99954.16,
+        "amount": 299862.48,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 34
+  }
+]

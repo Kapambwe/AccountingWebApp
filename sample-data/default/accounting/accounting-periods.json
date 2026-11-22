@@ -1,0 +1,72 @@
+{
+  "periods": [
+    {
+      "id": 1,
+      "name": "Jan 2024",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-31",
+      "isClosed": true,
+      "closedBy": "Finance Manager",
+      "closedDate": "2024-02-02",
+      "closeNotes": "Month-end close completed."
+    },
+    {
+      "id": 2,
+      "name": "Feb 2024",
+      "startDate": "2024-02-01",
+      "endDate": "2024-02-29",
+      "isClosed": true,
+      "closedBy": "Finance Manager",
+      "closedDate": "2024-03-02",
+      "closeNotes": "Bank recs and AP close complete."
+    },
+    {
+      "id": 3,
+      "name": "Mar 2024",
+      "startDate": "2024-03-01",
+      "endDate": "2024-03-31",
+      "isClosed": false
+    },
+    {
+      "id": 4,
+      "name": "Apr 2024",
+      "startDate": "2024-04-01",
+      "endDate": "2024-04-30",
+      "isClosed": false
+    }
+  ],
+  "checklist": [
+    {
+      "id": 1,
+      "periodId": 3,
+      "title": "Post recurring journal entries",
+      "description": "Depreciation, accruals, and allocations.",
+      "isCompleted": true,
+      "completedBy": "Accountant",
+      "completedDate": "today-2"
+    },
+    {
+      "id": 2,
+      "periodId": 3,
+      "title": "Review unpaid bills and invoices",
+      "description": "Validate AP/AR aging and exceptions.",
+      "isCompleted": true,
+      "completedBy": "AR/AP Lead",
+      "completedDate": "today-1"
+    },
+    {
+      "id": 3,
+      "periodId": 3,
+      "title": "Reconcile bank accounts",
+      "description": "Complete bank reconciliations for all operating accounts.",
+      "isCompleted": false
+    },
+    {
+      "id": 4,
+      "periodId": 3,
+      "title": "Run trial balance and validate",
+      "description": "Ensure debits equal credits and investigate variances.",
+      "isCompleted": false
+    }
+  ]
+}

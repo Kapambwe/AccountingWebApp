@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 9,
+    "customerName": "Mtambo Media Inc.",
+    "estimateDateDaysAgo": 48,
+    "expirationDateDaysFromNow": 38,
+    "status": "Expired",
+    "subTotal": 5584038.79,
+    "taxRate": 16,
+    "taxAmount": 893446.21,
+    "total": 6477485.0,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 1,
+        "unitPrice": 5584038.79,
+        "amount": 5584038.79,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 47
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 8,
+    "customerName": "Kaunda Entertainment Ltd",
+    "estimateDateDaysAgo": 56,
+    "expirationDateDaysFromNow": 23,
+    "status": "Open",
+    "subTotal": 658975.9,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 658975.9,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 56,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 2,
+        "unitPrice": 329487.95,
+        "amount": 658975.9,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 55
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 2,
+    "customerName": "Malewezi Music Group Limited",
+    "estimateDateDaysAgo": 38,
+    "expirationDateDaysFromNow": 38,
+    "status": "Declined",
+    "subTotal": 6357392.09,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 6357392.09,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 38,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 4,
+        "unitPrice": 1589348.02,
+        "amount": 6357392.09,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 37
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 9,
+    "customerName": "Mtambo Media Inc.",
+    "estimateDateDaysAgo": 58,
+    "expirationDateDaysFromNow": 17,
+    "status": "Declined",
+    "subTotal": 7408952.02,
+    "taxRate": 16,
+    "taxAmount": 1185432.32,
+    "total": 8594384.34,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 58,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 5,
+        "unitPrice": 1481790.4,
+        "amount": 7408952.02,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 57
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 8,
+    "customerName": "Kaunda Entertainment Ltd",
+    "estimateDateDaysAgo": 19,
+    "expirationDateDaysFromNow": 16,
+    "status": "Declined",
+    "subTotal": 6974027.62,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 6974027.62,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 19,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 2,
+        "unitPrice": 3487013.81,
+        "amount": 6974027.62,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 18
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 2,
+    "customerName": "Malewezi Music Group Limited",
+    "estimateDateDaysAgo": 32,
+    "expirationDateDaysFromNow": 35,
+    "status": "Expired",
+    "subTotal": 7984422.96,
+    "taxRate": 16,
+    "taxAmount": 1277507.67,
+    "total": 9261930.63,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 32,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 5,
+        "unitPrice": 1596884.59,
+        "amount": 7984422.96,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 31
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 1,
+    "customerName": "Kaunda Creative Agency Enterprises",
+    "estimateDateDaysAgo": 12,
+    "expirationDateDaysFromNow": 27,
+    "status": "Sent",
+    "subTotal": 2060852.65,
+    "taxRate": 18,
+    "taxAmount": 370953.48,
+    "total": 2431806.13,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 12,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 3,
+        "unitPrice": 686950.88,
+        "amount": 2060852.65,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 11
+  }
+]

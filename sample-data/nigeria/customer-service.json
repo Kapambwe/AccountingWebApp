@@ -1,0 +1,152 @@
+[
+  {
+    "id": "ng-cust-001",
+    "customerName": "MTV Base Africa",
+    "email": "production@mtvbase.ng",
+    "phone": "+234-1-461-0000",
+    "address": "Victoria Island, Lagos",
+    "taxId": "TAX-NG-3001",
+    "creditLimit": 85000000.00,
+    "outstandingBalance": 22000000.00
+  },
+  {
+    "id": "ng-cust-002",
+    "customerName": "SoundCity TV",
+    "email": "bookings@soundcity.ng",
+    "phone": "+234-1-270-0000",
+    "address": "Lekki, Lagos",
+    "taxId": "TAX-NG-3002",
+    "creditLimit": 75000000.00,
+    "outstandingBalance": 18500000.00
+  },
+  {
+    "id": "ng-cust-003",
+    "customerName": "TRACE TV Nigeria",
+    "email": "content@trace.ng",
+    "phone": "+234-1-295-0000",
+    "address": "Ikeja, Lagos",
+    "taxId": "TAX-NG-3003",
+    "creditLimit": 65000000.00,
+    "outstandingBalance": 15200000.00
+  },
+  {
+    "id": "ng-cust-004",
+    "customerName": "Guinness Nigeria",
+    "email": "events@guinness.ng",
+    "phone": "+234-1-271-2000",
+    "address": "Ikeja, Lagos",
+    "taxId": "TAX-NG-3004",
+    "creditLimit": 150000000.00,
+    "outstandingBalance": 42000000.00
+  },
+  {
+    "id": "ng-cust-005",
+    "customerName": "Hennessy Nigeria",
+    "email": "marketing@hennessy.ng",
+    "phone": "+234-1-280-3000",
+    "address": "Victoria Island, Lagos",
+    "taxId": "TAX-NG-3005",
+    "creditLimit": 180000000.00,
+    "outstandingBalance": 55000000.00
+  },
+  {
+    "id": "ng-cust-006",
+    "customerName": "GTBank Entertainment",
+    "email": "events@gtbank.ng",
+    "phone": "+234-1-448-0000",
+    "address": "Victoria Island, Lagos",
+    "taxId": "TAX-NG-3006",
+    "creditLimit": 120000000.00,
+    "outstandingBalance": 35000000.00
+  },
+  {
+    "id": "ng-cust-007",
+    "customerName": "Pepsi Nigeria Marketing",
+    "email": "sponsorships@pepsi.ng",
+    "phone": "+234-1-270-5000",
+    "address": "Ikeja, Lagos",
+    "taxId": "TAX-NG-3007",
+    "creditLimit": 200000000.00,
+    "outstandingBalance": 68000000.00
+  },
+  {
+    "id": "ng-cust-008",
+    "customerName": "Coca-Cola Nigeria",
+    "email": "events@coca-cola.ng",
+    "phone": "+234-1-271-6000",
+    "address": "Ebute Metta, Lagos",
+    "taxId": "TAX-NG-3008",
+    "creditLimit": 220000000.00,
+    "outstandingBalance": 72000000.00
+  },
+  {
+    "id": "ng-cust-009",
+    "customerName": "Eko Hotel & Suites",
+    "email": "events@ekohotel.ng",
+    "phone": "+234-1-277-0000",
+    "address": "Victoria Island, Lagos",
+    "taxId": "TAX-NG-3009",
+    "creditLimit": 95000000.00,
+    "outstandingBalance": 28000000.00
+  },
+  {
+    "id": "ng-cust-010",
+    "customerName": "Landmark Event Centre",
+    "email": "bookings@landmarkeventcentre.ng",
+    "phone": "+234-1-291-0000",
+    "address": "Victoria Island, Lagos",
+    "taxId": "TAX-NG-3010",
+    "creditLimit": 110000000.00,
+    "outstandingBalance": 32000000.00
+  },
+  {
+    "id": "ng-cust-011",
+    "customerName": "Boomplay Music",
+    "email": "artists@boomplay.ng",
+    "phone": "+234-1-342-0000",
+    "address": "Lekki, Lagos",
+    "taxId": "TAX-NG-3011",
+    "creditLimit": 155000000.00,
+    "outstandingBalance": 48000000.00
+  },
+  {
+    "id": "ng-cust-012",
+    "customerName": "Audiomack Africa",
+    "email": "partnerships@audiomack.ng",
+    "phone": "+234-1-354-0000",
+    "address": "Ikeja, Lagos",
+    "taxId": "TAX-NG-3012",
+    "creditLimit": 125000000.00,
+    "outstandingBalance": 38000000.00
+  },
+  {
+    "id": "ng-cust-013",
+    "customerName": "MTN Nigeria",
+    "email": "sponsorships@mtn.ng",
+    "phone": "+234-803-000-0000",
+    "address": "Falomo, Lagos",
+    "taxId": "TAX-NG-3013",
+    "creditLimit": 350000000.00,
+    "outstandingBalance": 125000000.00
+  },
+  {
+    "id": "ng-cust-014",
+    "customerName": "Globacom Nigeria",
+    "email": "marketing@glo.ng",
+    "phone": "+234-805-000-0000",
+    "address": "Mike Adenuga Towers, Lagos",
+    "taxId": "TAX-NG-3014",
+    "creditLimit": 280000000.00,
+    "outstandingBalance": 95000000.00
+  },
+  {
+    "id": "ng-cust-015",
+    "customerName": "Festival Organizers Ltd",
+    "email": "info@festivalng.com",
+    "phone": "+234-1-463-0000",
+    "address": "Lekki, Lagos",
+    "taxId": "TAX-NG-3015",
+    "creditLimit": 175000000.00,
+    "outstandingBalance": 58000000.00
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 5,
+    "customerName": "Mkapa Entertainment Ltd",
+    "estimateDateDaysAgo": 30,
+    "expirationDateDaysFromNow": 21,
+    "status": "Draft",
+    "subTotal": 7315764.0,
+    "taxRate": 15,
+    "taxAmount": 1097364.6,
+    "total": 8413128.6,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 30,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 2,
+        "unitPrice": 3657882.0,
+        "amount": 7315764.0,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 6,
+    "customerName": "Hassan Entertainment Limited",
+    "estimateDateDaysAgo": 36,
+    "expirationDateDaysFromNow": 37,
+    "status": "Draft",
+    "subTotal": 2769922.51,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2769922.51,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 36,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 3,
+        "unitPrice": 923307.5,
+        "amount": 2769922.51,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 5,
+    "customerName": "Mkapa Entertainment Ltd",
+    "estimateDateDaysAgo": 52,
+    "expirationDateDaysFromNow": 23,
+    "status": "Accepted",
+    "subTotal": 2955737.32,
+    "taxRate": 18,
+    "taxAmount": 532032.72,
+    "total": 3487770.04,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 52,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 2,
+        "unitPrice": 1477868.66,
+        "amount": 2955737.32,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 51
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 1,
+    "customerName": "Salum Creative Agency Enterprises",
+    "estimateDateDaysAgo": 19,
+    "expirationDateDaysFromNow": 45,
+    "status": "Accepted",
+    "subTotal": 7699031.31,
+    "taxRate": 15,
+    "taxAmount": 1154854.7,
+    "total": 8853886.01,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 19,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 3,
+        "unitPrice": 2566343.77,
+        "amount": 7699031.31,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 18
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 11,
+    "customerName": "Mwenda Productions Ltd",
+    "estimateDateDaysAgo": 15,
+    "expirationDateDaysFromNow": 33,
+    "status": "Sent",
+    "subTotal": 185825.81,
+    "taxRate": 16,
+    "taxAmount": 29732.13,
+    "total": 215557.94,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 15,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 1,
+        "unitPrice": 185825.81,
+        "amount": 185825.81,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 14
+  }
+]

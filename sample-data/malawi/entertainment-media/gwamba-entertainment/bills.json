@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Gondwe Entertainment Co.",
+    "description": "Studio Recording Session",
+    "billDate": "2025-01-21T00:00:00",
+    "dueDate": "2025-02-20T00:00:00",
+    "amount": 5258351.38,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Muluzi Music Group Co.",
+    "description": "Music Video Production",
+    "billDate": "2024-09-25T00:00:00",
+    "dueDate": "2024-11-09T00:00:00",
+    "amount": 6871818.69,
+    "paidAmount": 6871818.69,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Mutharika Creative Agency Co.",
+    "description": "Studio Recording Session",
+    "billDate": "2024-11-12T00:00:00",
+    "dueDate": "2024-11-27T00:00:00",
+    "amount": 776814.28,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Muluzi Music Group Co.",
+    "description": "PR Campaign",
+    "billDate": "2025-01-20T00:00:00",
+    "dueDate": "2025-03-06T00:00:00",
+    "amount": 4685511.26,
+    "paidAmount": 4685511.26,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Gondwe Entertainment Co.",
+    "description": "Social Media Management",
+    "billDate": "2024-09-22T00:00:00",
+    "dueDate": "2024-11-06T00:00:00",
+    "amount": 5025763.18,
+    "paidAmount": 5025763.18,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Phiri Music Group Ltd",
+    "description": "Studio Recording Session",
+    "billDate": "2025-01-05T00:00:00",
+    "dueDate": "2025-02-19T00:00:00",
+    "amount": 1128466.07,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Chilima Creative Agency Holdings",
+    "description": "Management Fee",
+    "billDate": "2025-03-13T00:00:00",
+    "dueDate": "2025-03-28T00:00:00",
+    "amount": 5390268.14,
+    "paidAmount": 3496475.14,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Muluzi Music Group Co.",
+    "description": "Tour Logistics",
+    "billDate": "2024-10-22T00:00:00",
+    "dueDate": "2024-11-06T00:00:00",
+    "amount": 4052475.17,
+    "paidAmount": 3160380.06,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Gondwe Media Co.",
+    "description": "Tour Logistics",
+    "billDate": "2025-02-18T00:00:00",
+    "dueDate": "2025-04-04T00:00:00",
+    "amount": 5220301.78,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Mutharika Creative Agency Co.",
+    "description": "Studio Recording Session",
+    "billDate": "2025-02-18T00:00:00",
+    "dueDate": "2025-04-04T00:00:00",
+    "amount": 412718.64,
+    "paidAmount": 412718.64,
+    "status": "Paid"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Gondwe Media Co.",
+    "description": "PR Campaign",
+    "billDate": "2024-11-14T00:00:00",
+    "dueDate": "2024-11-29T00:00:00",
+    "amount": 3385732.28,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Phiri Music Group Ltd",
+    "description": "Social Media Management",
+    "billDate": "2025-02-10T00:00:00",
+    "dueDate": "2025-02-25T00:00:00",
+    "amount": 131624.1,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Nkosi Productions Inc.",
+    "description": "PR Campaign",
+    "billDate": "2024-12-28T00:00:00",
+    "dueDate": "2025-01-12T00:00:00",
+    "amount": 1600063.36,
+    "paidAmount": 1600063.36,
+    "status": "Paid"
+  }
+]

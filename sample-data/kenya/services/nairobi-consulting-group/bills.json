@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Microsoft Kenya Ltd",
+    "description": "Microsoft Azure Cloud Services",
+    "billDate": "2025-01-15T00:00:00",
+    "dueDate": "2025-02-14T00:00:00",
+    "amount": 850000.00,
+    "paidAmount": 850000.00,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Strathmore Business School",
+    "description": "Strathmore MBA Executive Program - Team",
+    "billDate": "2025-03-15T00:00:00",
+    "dueDate": "2025-04-14T00:00:00",
+    "amount": 1200000.00,
+    "paidAmount": 0.00,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Deloitte & Touche Kenya",
+    "description": "Deloitte Sub-contract Technical Expertise",
+    "billDate": "2025-02-05T00:00:00",
+    "dueDate": "2025-03-07T00:00:00",
+    "amount": 2500000.00,
+    "paidAmount": 2500000.00,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Oracle Corporation Kenya",
+    "description": "Oracle NetSuite ERP Annual License",
+    "billDate": "2025-08-05T00:00:00",
+    "dueDate": "2025-09-04T00:00:00",
+    "amount": 620000.00,
+    "paidAmount": 0.00,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Marriott Courtyard Nairobi",
+    "description": "Courtyard Hotel - Client Boardroom Rental",
+    "billDate": "2025-01-25T00:00:00",
+    "dueDate": "2025-02-24T00:00:00",
+    "amount": 185000.00,
+    "paidAmount": 185000.00,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Kenya Airways PLC",
+    "description": "Kenya Airways Business Travel - Team",
+    "billDate": "2025-05-10T00:00:00",
+    "dueDate": "2025-06-09T00:00:00",
+    "amount": 680000.00,
+    "paidAmount": 0.00,
+    "status": "Overdue"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "PricewaterhouseCoopers Kenya",
+    "description": "PwC Technical Review Fee",
+    "billDate": "2025-06-15T00:00:00",
+    "dueDate": "2025-07-15T00:00:00",
+    "amount": 1800000.00,
+    "paidAmount": 1800000.00,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Safaricom Business Solutions",
+    "description": "Safaricom Business Mobile Data Bundle",
+    "billDate": "2025-09-01T00:00:00",
+    "dueDate": "2025-10-01T00:00:00",
+    "amount": 95000.00,
+    "paidAmount": 0.00,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "KPMG East Africa Ltd",
+    "description": "Kpmg Audit Support Services",
+    "billDate": "2025-04-20T00:00:00",
+    "dueDate": "2025-05-20T00:00:00",
+    "amount": 1400000.00,
+    "paidAmount": 1400000.00,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Google Kenya Ltd",
+    "description": "Google Workspace Annual Subscription",
+    "billDate": "2025-07-01T00:00:00",
+    "dueDate": "2025-07-31T00:00:00",
+    "amount": 145000.00,
+    "paidAmount": 0.00,
+    "status": "Overdue"
+  }
+]

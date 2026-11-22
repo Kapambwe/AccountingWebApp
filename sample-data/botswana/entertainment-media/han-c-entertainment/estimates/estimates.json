@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 9,
+    "customerName": "Letshego Media Holdings",
+    "estimateDateDaysAgo": 40,
+    "expirationDateDaysFromNow": 37,
+    "status": "Expired",
+    "subTotal": 7692.26,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 7692.26,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 40,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 4,
+        "unitPrice": 1923.07,
+        "amount": 7692.26,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 39
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 6,
+    "customerName": "Gaolathe Productions Inc.",
+    "estimateDateDaysAgo": 20,
+    "expirationDateDaysFromNow": 45,
+    "status": "Open",
+    "subTotal": 242282.48,
+    "taxRate": 16,
+    "taxAmount": 38765.2,
+    "total": 281047.68,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 20,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 2,
+        "unitPrice": 121141.24,
+        "amount": 242282.48,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 19
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 1,
+    "customerName": "Nkate Creative Agency Limited",
+    "estimateDateDaysAgo": 33,
+    "expirationDateDaysFromNow": 15,
+    "status": "Sent",
+    "subTotal": 372677.71,
+    "taxRate": 18,
+    "taxAmount": 67081.99,
+    "total": 439759.7,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 33,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 1,
+        "unitPrice": 372677.71,
+        "amount": 372677.71,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 32
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 7,
+    "customerName": "Gaolathe Creative Agency Co.",
+    "estimateDateDaysAgo": 26,
+    "expirationDateDaysFromNow": 38,
+    "status": "Expired",
+    "subTotal": 35109.49,
+    "taxRate": 15,
+    "taxAmount": 5266.42,
+    "total": 40375.91,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 26,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 3,
+        "unitPrice": 11703.16,
+        "amount": 35109.49,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 25
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 7,
+    "customerName": "Gaolathe Creative Agency Co.",
+    "estimateDateDaysAgo": 51,
+    "expirationDateDaysFromNow": 37,
+    "status": "Sent",
+    "subTotal": 93952.11,
+    "taxRate": 18,
+    "taxAmount": 16911.38,
+    "total": 110863.49,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 51,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 5,
+        "unitPrice": 18790.42,
+        "amount": 93952.11,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 50
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 8,
+    "customerName": "Tlou Media Solutions",
+    "estimateDateDaysAgo": 27,
+    "expirationDateDaysFromNow": 32,
+    "status": "Draft",
+    "subTotal": 341476.22,
+    "taxRate": 16,
+    "taxAmount": 54636.2,
+    "total": 396112.42,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 27,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 5,
+        "unitPrice": 68295.24,
+        "amount": 341476.22,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 4,
+    "customerName": "Motsepe Creative Agency Group",
+    "estimateDateDaysAgo": 20,
+    "expirationDateDaysFromNow": 35,
+    "status": "Open",
+    "subTotal": 14229.96,
+    "taxRate": 16,
+    "taxAmount": 2276.79,
+    "total": 16506.75,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 20,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 4,
+        "unitPrice": 3557.49,
+        "amount": 14229.96,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 19
+  }
+]

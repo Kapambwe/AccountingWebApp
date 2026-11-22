@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 7,
+    "customerName": "Dlamini Creative Agency Ltd",
+    "estimateDateDaysAgo": 20,
+    "expirationDateDaysFromNow": 30,
+    "status": "Accepted",
+    "subTotal": 224477.82,
+    "taxRate": 16,
+    "taxAmount": 35916.45,
+    "total": 260394.27,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 20,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 1,
+        "unitPrice": 224477.82,
+        "amount": 224477.82,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 19
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 2,
+    "customerName": "Nkosi Productions Inc.",
+    "estimateDateDaysAgo": 36,
+    "expirationDateDaysFromNow": 43,
+    "status": "Sent",
+    "subTotal": 301819.29,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 301819.29,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 36,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 4,
+        "unitPrice": 75454.82,
+        "amount": 301819.29,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 35
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 9,
+    "customerName": "Motsepe Productions Co.",
+    "estimateDateDaysAgo": 28,
+    "expirationDateDaysFromNow": 39,
+    "status": "Open",
+    "subTotal": 13782.35,
+    "taxRate": 18,
+    "taxAmount": 2480.82,
+    "total": 16263.17,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 28,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 3,
+        "unitPrice": 4594.12,
+        "amount": 13782.35,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 27
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 4,
+    "customerName": "Motsepe Media Ltd",
+    "estimateDateDaysAgo": 46,
+    "expirationDateDaysFromNow": 43,
+    "status": "Draft",
+    "subTotal": 392354.6,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 392354.6,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 46,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 5,
+        "unitPrice": 78470.92,
+        "amount": 392354.6,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 9,
+    "customerName": "Motsepe Productions Co.",
+    "estimateDateDaysAgo": 13,
+    "expirationDateDaysFromNow": 35,
+    "status": "Draft",
+    "subTotal": 360204.61,
+    "taxRate": 18,
+    "taxAmount": 64836.83,
+    "total": 425041.44,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 13,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 1,
+        "unitPrice": 360204.61,
+        "amount": 360204.61,
+        "itemType": "Service"
+      }
+    ]
+  }
+]

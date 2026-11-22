@@ -1,0 +1,109 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Nuru Kikwete",
+      "companyName": "Nyerere Media Ltd",
+      "contactPerson": "Nuru Kikwete",
+      "email": "nurukikwete@kikwete.co.tz",
+      "phone": "+255 666 028 380",
+      "city": "Zanzibar",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-869978",
+      "totalAmountOwed": 157331.3
+    },
+    {
+      "id": 2,
+      "vendorName": "Juma Kikwete",
+      "companyName": "Mwenda Entertainment Ltd",
+      "contactPerson": "Juma Kikwete",
+      "email": "jumakikwete@kikwete.co.tz",
+      "phone": "+255 390 496 044",
+      "city": "Dodoma",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-597301",
+      "totalAmountOwed": 398736.78
+    },
+    {
+      "id": 3,
+      "vendorName": "Hassan Hassan",
+      "companyName": "Mwenda Entertainment Co.",
+      "contactPerson": "Hassan Hassan",
+      "email": "hassanhassan@hassan.co.tz",
+      "phone": "+255 885 895 340",
+      "city": "Dodoma",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-377843",
+      "totalAmountOwed": 40637.03
+    },
+    {
+      "id": 4,
+      "vendorName": "Amina Juma",
+      "companyName": "Kimaro Creative Agency Group",
+      "contactPerson": "Amina Juma",
+      "email": "aminajuma@juma.co.tz",
+      "phone": "+255 300 186 923",
+      "city": "Tanga",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-120877",
+      "totalAmountOwed": 618301.25
+    },
+    {
+      "id": 5,
+      "vendorName": "Hassan Chande",
+      "companyName": "Kikwete Creative Agency Ltd",
+      "contactPerson": "Hassan Chande",
+      "email": "hassanchande@chande.co.tz",
+      "phone": "+255 489 503 193",
+      "city": "Mwanza",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-470391",
+      "totalAmountOwed": 15192.92
+    },
+    {
+      "id": 6,
+      "vendorName": "Nuru Juma",
+      "companyName": "Kimaro Music Group Ltd",
+      "contactPerson": "Nuru Juma",
+      "email": "nurujuma@juma.co.tz",
+      "phone": "+255 166 616 623",
+      "city": "Mbeya",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-880424",
+      "totalAmountOwed": 269124.89
+    },
+    {
+      "id": 7,
+      "vendorName": "Hamisi Juma",
+      "companyName": "Mwenda Music Group Inc.",
+      "contactPerson": "Hamisi Juma",
+      "email": "hamisijuma@juma.co.tz",
+      "phone": "+255 623 013 607",
+      "city": "Tanga",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-996544",
+      "totalAmountOwed": 1503272.45
+    },
+    {
+      "id": 8,
+      "vendorName": "Halima Laizer",
+      "companyName": "Kikwete Creative Agency Inc.",
+      "contactPerson": "Halima Laizer",
+      "email": "halimalaizer@laizer.co.tz",
+      "phone": "+255 817 930 188",
+      "city": "Tanga",
+      "country": "Tanzania",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-720653",
+      "totalAmountOwed": 85708.7
+    }
+  ],
+  "vendorCredits": []
+}

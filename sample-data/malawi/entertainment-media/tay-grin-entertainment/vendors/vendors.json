@@ -1,0 +1,109 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Mtisunge Mtambo",
+      "companyName": "Nkosi Music Group Co.",
+      "contactPerson": "Mtisunge Mtambo",
+      "email": "mtisungemtam@mtambo.co.mw",
+      "phone": "+265 672 744 799",
+      "city": "Zomba",
+      "country": "Malawi",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-809983",
+      "totalAmountOwed": 844226.31
+    },
+    {
+      "id": 2,
+      "vendorName": "Chisomo Gondwe",
+      "companyName": "Mutharika Productions Limited",
+      "contactPerson": "Chisomo Gondwe",
+      "email": "chisomogondw@gondwe.co.mw",
+      "phone": "+265 640 213 225",
+      "city": "Karonga",
+      "country": "Malawi",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-845619",
+      "totalAmountOwed": 765147.28
+    },
+    {
+      "id": 3,
+      "vendorName": "Zikomo Nkosi",
+      "companyName": "Muluzi Productions Ltd",
+      "contactPerson": "Zikomo Nkosi",
+      "email": "zikomonkosi@nkosi.co.mw",
+      "phone": "+265 344 901 141",
+      "city": "Mzuzu",
+      "country": "Malawi",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-857000",
+      "totalAmountOwed": 94035.86
+    },
+    {
+      "id": 4,
+      "vendorName": "Kondwani Banda",
+      "companyName": "Muluzi Music Group Co.",
+      "contactPerson": "Kondwani Banda",
+      "email": "kondwaniband@banda.co.mw",
+      "phone": "+265 698 440 306",
+      "city": "Karonga",
+      "country": "Malawi",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-824759",
+      "totalAmountOwed": 1017788.79
+    },
+    {
+      "id": 5,
+      "vendorName": "Mphatso Malewezi",
+      "companyName": "Nkosi Creative Agency Holdings",
+      "contactPerson": "Mphatso Malewezi",
+      "email": "mphatsomalew@malewezi.co.mw",
+      "phone": "+265 138 843 341",
+      "city": "Zomba",
+      "country": "Malawi",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-524606",
+      "totalAmountOwed": 1270532.95
+    },
+    {
+      "id": 6,
+      "vendorName": "Madalitso Gondwe",
+      "companyName": "Phiri Productions Inc.",
+      "contactPerson": "Madalitso Gondwe",
+      "email": "madalitsogon@gondwe.co.mw",
+      "phone": "+265 037 175 184",
+      "city": "Balaka",
+      "country": "Malawi",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-228629",
+      "totalAmountOwed": 425272.88
+    },
+    {
+      "id": 7,
+      "vendorName": "Kondwani Chakwera",
+      "companyName": "Chilima Music Group Inc.",
+      "contactPerson": "Kondwani Chakwera",
+      "email": "kondwanichak@chakwera.co.mw",
+      "phone": "+265 518 226 456",
+      "city": "Blantyre",
+      "country": "Malawi",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-169397",
+      "totalAmountOwed": 20633.65
+    },
+    {
+      "id": 8,
+      "vendorName": "Mphatso Malewezi",
+      "companyName": "Gondwe Creative Agency Inc.",
+      "contactPerson": "Mphatso Malewezi",
+      "email": "mphatsomalew@malewezi.co.mw",
+      "phone": "+265 544 193 559",
+      "city": "Lilongwe",
+      "country": "Malawi",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-889127",
+      "totalAmountOwed": 668008.98
+    }
+  ],
+  "vendorCredits": []
+}

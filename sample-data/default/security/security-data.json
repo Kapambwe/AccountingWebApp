@@ -1,0 +1,47 @@
+[
+  {
+    "id": "security-default-001",
+    "userId": "chief.accountant",
+    "userName": "Chief Accountant",
+    "roles": ["Accountant"],
+    "permissions": ["ViewReports", "CreateTransactions", "EditInvoice", "ReceivePayment"],
+    "lastLogin": "2025-01-01T08:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-default-002",
+    "userId": "administrator",
+    "userName": "Administrator",
+    "roles": ["Administrator"],
+    "permissions": ["ViewReports", "CreateTransactions", "ApproveBudgets"],
+    "lastLogin": "2025-01-02T08:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-default-003",
+    "userId": "finance.manager",
+    "userName": "Finance Manager",
+    "roles": ["Manager"],
+    "permissions": ["ViewReports", "CreateTransactions"],
+    "lastLogin": "2025-01-03T08:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-default-004",
+    "userId": "payables.officer",
+    "userName": "Payables Officer",
+    "roles": ["Clerk"],
+    "permissions": ["CreateTransactions"],
+    "lastLogin": "2025-01-04T08:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-default-005",
+    "userId": "viewer",
+    "userName": "Viewer",
+    "roles": ["Viewer"],
+    "permissions": ["ViewReports"],
+    "lastLogin": "2025-01-05T08:00:00Z",
+    "isActive": true
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "userId": "11111111-1111-1111-1111-111111111111",
+    "username": "demo",
+    "email": "demo@example.com",
+    "displayName": "Demo User",
+    "roles": [ "User", "Admin" ],
+    "permissions": [ "ViewDashboard", "ViewInvoices", "CreateInvoice", "ViewReports", "ManageUsers" ]
+  }
+]

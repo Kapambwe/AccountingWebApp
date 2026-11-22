@@ -1,0 +1,52 @@
+[
+  {
+    "id": "prod-default-001",
+    "productName": "Professional Services",
+    "description": "Professional accounting and advisory services",
+    "category": "Services",
+    "unitPrice": 1000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Demo Supplier"
+  },
+  {
+    "id": "prod-default-002",
+    "productName": "Consulting Package",
+    "description": "Standard consulting service package",
+    "category": "Services",
+    "unitPrice": 2500.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Demo Supplier"
+  },
+  {
+    "id": "prod-default-003",
+    "productName": "Training Workshop",
+    "description": "One-day accounting systems training workshop",
+    "category": "Training",
+    "unitPrice": 5000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Demo Supplier"
+  },
+  {
+    "id": "prod-default-004",
+    "productName": "Monthly Support",
+    "description": "Monthly accounting application support subscription",
+    "category": "Subscriptions",
+    "unitPrice": 1500.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Demo Supplier"
+  },
+  {
+    "id": "prod-default-005",
+    "productName": "Data Migration",
+    "description": "Financial data migration and validation service",
+    "category": "Services",
+    "unitPrice": 7500.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Demo Supplier"
+  }
+]

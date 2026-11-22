@@ -1,0 +1,23 @@
+{
+  "recurringTransactions": [
+    {
+      "id": 1,
+      "templateName": "Monthly Rent - Head Office",
+      "description": "Monthly rental payment for head office in Lusaka",
+      "transactionType": "Bill",
+      "amount": 15000.00,
+      "frequency": "Monthly",
+      "frequencyInterval": 1,
+      "startDate": "2024-01-01",
+      "nextRunDate": "today+5",
+      "lastRunDate": "today-30",
+      "runCount": 12,
+      "isActive": true,
+      "vendorId": 1,
+      "vendorName": "Lusaka Properties Ltd",
+      "createdBy": "System",
+      "createdDate": "2024-01-01"
+    }
+  ],
+  "history": []
+}

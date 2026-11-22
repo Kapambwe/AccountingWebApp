@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Bensouda Entertainment Inc.",
+    "description": "Tour Logistics",
+    "billDate": "2025-01-30T00:00:00",
+    "dueDate": "2025-03-01T00:00:00",
+    "amount": 345989.38,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Alaoui Creative Agency Group",
+    "description": "Music Video Production",
+    "billDate": "2024-11-30T00:00:00",
+    "dueDate": "2025-01-14T00:00:00",
+    "amount": 164577.03,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Bensouda Entertainment Inc.",
+    "description": "PR Campaign",
+    "billDate": "2025-01-21T00:00:00",
+    "dueDate": "2025-03-07T00:00:00",
+    "amount": 171690.3,
+    "paidAmount": 171690.3,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Berrada Media Solutions",
+    "description": "Tour Logistics",
+    "billDate": "2024-11-05T00:00:00",
+    "dueDate": "2024-11-20T00:00:00",
+    "amount": 266705.94,
+    "paidAmount": 80551.74,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Bensouda Entertainment Inc.",
+    "description": "Tour Logistics",
+    "billDate": "2024-11-13T00:00:00",
+    "dueDate": "2024-12-13T00:00:00",
+    "amount": 304060.64,
+    "paidAmount": 304060.64,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Alaoui Creative Agency Group",
+    "description": "PR Campaign",
+    "billDate": "2024-12-12T00:00:00",
+    "dueDate": "2024-12-27T00:00:00",
+    "amount": 141368.26,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Lahlou Productions Holdings",
+    "description": "Music Video Production",
+    "billDate": "2025-03-09T00:00:00",
+    "dueDate": "2025-03-24T00:00:00",
+    "amount": 83909.38,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Alaoui Creative Agency Group",
+    "description": "PR Campaign",
+    "billDate": "2024-10-22T00:00:00",
+    "dueDate": "2024-11-06T00:00:00",
+    "amount": 249023.33,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Benali Music Group Limited",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-12-29T00:00:00",
+    "dueDate": "2025-01-28T00:00:00",
+    "amount": 307880.63,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Alaoui Creative Agency Group",
+    "description": "PR Campaign",
+    "billDate": "2024-11-17T00:00:00",
+    "dueDate": "2025-01-01T00:00:00",
+    "amount": 312650.49,
+    "paidAmount": 312650.49,
+    "status": "Paid"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Bensouda Entertainment Inc.",
+    "description": "Travel & Accommodation",
+    "billDate": "2025-01-03T00:00:00",
+    "dueDate": "2025-02-02T00:00:00",
+    "amount": 96205.51,
+    "paidAmount": 96205.51,
+    "status": "Paid"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Alaoui Creative Agency Group",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-10-30T00:00:00",
+    "dueDate": "2024-12-14T00:00:00",
+    "amount": 74600.65,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Lahlou Productions Holdings",
+    "description": "Studio Recording Session",
+    "billDate": "2025-02-22T00:00:00",
+    "dueDate": "2025-03-09T00:00:00",
+    "amount": 92285.35,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 14,
+    "billNumber": "BILL-2025-014",
+    "vendorName": "Benkirane Music Group Co.",
+    "description": "Social Media Management",
+    "billDate": "2024-12-10T00:00:00",
+    "dueDate": "2024-12-25T00:00:00",
+    "amount": 171472.01,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 15,
+    "billNumber": "BILL-2025-015",
+    "vendorName": "Tahiri Creative Agency Enterprises",
+    "description": "Studio Recording Session",
+    "billDate": "2025-02-07T00:00:00",
+    "dueDate": "2025-02-22T00:00:00",
+    "amount": 319878.26,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

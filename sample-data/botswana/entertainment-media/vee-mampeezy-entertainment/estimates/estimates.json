@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 8,
+    "customerName": "Motsepe Media Holdings",
+    "estimateDateDaysAgo": 19,
+    "expirationDateDaysFromNow": 45,
+    "status": "Accepted",
+    "subTotal": 377975.8,
+    "taxRate": 18,
+    "taxAmount": 68035.64,
+    "total": 446011.44,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 19,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 3,
+        "unitPrice": 125991.93,
+        "amount": 377975.8,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 18
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 6,
+    "customerName": "Letshego Media Co.",
+    "estimateDateDaysAgo": 44,
+    "expirationDateDaysFromNow": 17,
+    "status": "Accepted",
+    "subTotal": 135376.76,
+    "taxRate": 18,
+    "taxAmount": 24367.82,
+    "total": 159744.58,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 44,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 4,
+        "unitPrice": 33844.19,
+        "amount": 135376.76,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 43
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 1,
+    "customerName": "Mogae Media Enterprises",
+    "estimateDateDaysAgo": 10,
+    "expirationDateDaysFromNow": 25,
+    "status": "Expired",
+    "subTotal": 222151.06,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 222151.06,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 10,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 1,
+        "unitPrice": 222151.06,
+        "amount": 222151.06,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 9
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 6,
+    "customerName": "Letshego Media Co.",
+    "estimateDateDaysAgo": 17,
+    "expirationDateDaysFromNow": 22,
+    "status": "Draft",
+    "subTotal": 59313.27,
+    "taxRate": 18,
+    "taxAmount": 10676.39,
+    "total": 69989.66,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 17,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 1,
+        "unitPrice": 59313.27,
+        "amount": 59313.27,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 11,
+    "customerName": "Tlou Media Co.",
+    "estimateDateDaysAgo": 46,
+    "expirationDateDaysFromNow": 42,
+    "status": "Draft",
+    "subTotal": 200987.42,
+    "taxRate": 18,
+    "taxAmount": 36177.74,
+    "total": 237165.16,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 46,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 1,
+        "unitPrice": 200987.42,
+        "amount": 200987.42,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 5,
+    "customerName": "Mogae Music Group Inc.",
+    "estimateDateDaysAgo": 48,
+    "expirationDateDaysFromNow": 28,
+    "status": "Accepted",
+    "subTotal": 74666.32,
+    "taxRate": 15,
+    "taxAmount": 11199.95,
+    "total": 85866.27,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 5,
+        "unitPrice": 14933.26,
+        "amount": 74666.32,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 47
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 1,
+    "customerName": "Mogae Media Enterprises",
+    "estimateDateDaysAgo": 10,
+    "expirationDateDaysFromNow": 44,
+    "status": "Declined",
+    "subTotal": 231445.67,
+    "taxRate": 15,
+    "taxAmount": 34716.85,
+    "total": 266162.52,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 10,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 5,
+        "unitPrice": 46289.13,
+        "amount": 231445.67,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 9
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 5,
+    "customerName": "Sithole Entertainment Holdings",
+    "estimateDateDaysAgo": 19,
+    "expirationDateDaysFromNow": 36,
+    "status": "Declined",
+    "subTotal": 328162.64,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 328162.64,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 19,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 4,
+        "unitPrice": 82040.66,
+        "amount": 328162.64,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 18
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 2,
+    "customerName": "Motsepe Media Holdings",
+    "estimateDateDaysAgo": 16,
+    "expirationDateDaysFromNow": 19,
+    "status": "Expired",
+    "subTotal": 244993.8,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 244993.8,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 16,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 3,
+        "unitPrice": 81664.6,
+        "amount": 244993.8,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 15
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 1,
+    "customerName": "Dlamini Music Group Group",
+    "estimateDateDaysAgo": 57,
+    "expirationDateDaysFromNow": 42,
+    "status": "Sent",
+    "subTotal": 330371.65,
+    "taxRate": 15,
+    "taxAmount": 49555.75,
+    "total": 379927.4,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 57,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 4,
+        "unitPrice": 82592.91,
+        "amount": 330371.65,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 56
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 5,
+    "customerName": "Sithole Entertainment Holdings",
+    "estimateDateDaysAgo": 17,
+    "expirationDateDaysFromNow": 22,
+    "status": "Draft",
+    "subTotal": 69157.06,
+    "taxRate": 15,
+    "taxAmount": 10373.56,
+    "total": 79530.62,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 17,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 2,
+        "unitPrice": 34578.53,
+        "amount": 69157.06,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 8,
+    "customerName": "Dlamini Media Inc.",
+    "estimateDateDaysAgo": 18,
+    "expirationDateDaysFromNow": 19,
+    "status": "Accepted",
+    "subTotal": 284230.91,
+    "taxRate": 18,
+    "taxAmount": 51161.56,
+    "total": 335392.47,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 18,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 3,
+        "unitPrice": 94743.64,
+        "amount": 284230.91,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 17
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 8,
+    "customerName": "Dlamini Media Inc.",
+    "estimateDateDaysAgo": 19,
+    "expirationDateDaysFromNow": 28,
+    "status": "Sent",
+    "subTotal": 378087.95,
+    "taxRate": 16,
+    "taxAmount": 60494.07,
+    "total": 438582.02,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 19,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 1,
+        "unitPrice": 378087.95,
+        "amount": 378087.95,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 18
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 2,
+    "customerName": "Motsepe Media Holdings",
+    "estimateDateDaysAgo": 50,
+    "expirationDateDaysFromNow": 27,
+    "status": "Accepted",
+    "subTotal": 365784.8,
+    "taxRate": 15,
+    "taxAmount": 54867.72,
+    "total": 420652.52,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 50,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 1,
+        "unitPrice": 365784.8,
+        "amount": 365784.8,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 49
+  }
+]

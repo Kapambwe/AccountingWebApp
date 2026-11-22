@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Nkate Music Group Co.",
+    "description": "Social Media Management",
+    "billDate": "2024-12-11T00:00:00",
+    "dueDate": "2025-01-25T00:00:00",
+    "amount": 60201.99,
+    "paidAmount": 60201.99,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Mogae Music Group Co.",
+    "description": "Management Fee",
+    "billDate": "2025-01-25T00:00:00",
+    "dueDate": "2025-02-24T00:00:00",
+    "amount": 339379.32,
+    "paidAmount": 154655.53,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Segokgo Creative Agency Ltd",
+    "description": "Social Media Management",
+    "billDate": "2024-11-02T00:00:00",
+    "dueDate": "2024-11-17T00:00:00",
+    "amount": 146464.18,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Seretse Entertainment Inc.",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-02-07T00:00:00",
+    "dueDate": "2025-03-09T00:00:00",
+    "amount": 84023.66,
+    "paidAmount": 84023.66,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Nkate Music Group Co.",
+    "description": "Tour Logistics",
+    "billDate": "2024-12-18T00:00:00",
+    "dueDate": "2025-01-02T00:00:00",
+    "amount": 250271.97,
+    "paidAmount": 250271.97,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Seretse Entertainment Inc.",
+    "description": "Social Media Management",
+    "billDate": "2024-11-30T00:00:00",
+    "dueDate": "2025-01-14T00:00:00",
+    "amount": 264359.89,
+    "paidAmount": 264359.89,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Mogae Music Group Co.",
+    "description": "Social Media Management",
+    "billDate": "2025-01-20T00:00:00",
+    "dueDate": "2025-03-06T00:00:00",
+    "amount": 65958.36,
+    "paidAmount": 65958.36,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mokoena Entertainment Solutions",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-10-27T00:00:00",
+    "dueDate": "2024-11-26T00:00:00",
+    "amount": 24256.5,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Mokoena Creative Agency Solutions",
+    "description": "Tour Logistics",
+    "billDate": "2024-11-04T00:00:00",
+    "dueDate": "2024-11-19T00:00:00",
+    "amount": 146553.82,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Seretse Media Holdings",
+    "description": "Studio Recording Session",
+    "billDate": "2025-03-13T00:00:00",
+    "dueDate": "2025-03-28T00:00:00",
+    "amount": 86474.22,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Molefe Creative Agency Enterprises",
+    "description": "PR Campaign",
+    "billDate": "2024-11-17T00:00:00",
+    "dueDate": "2024-12-17T00:00:00",
+    "amount": 104871.48,
+    "paidAmount": 104871.48,
+    "status": "Paid"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Molefe Productions Solutions",
+    "description": "PR Campaign",
+    "billDate": "2024-12-16T00:00:00",
+    "dueDate": "2025-01-15T00:00:00",
+    "amount": 91657.66,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Segokgo Creative Agency Ltd",
+    "description": "PR Campaign",
+    "billDate": "2024-10-04T00:00:00",
+    "dueDate": "2024-10-19T00:00:00",
+    "amount": 239007.01,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

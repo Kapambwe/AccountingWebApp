@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "paymentNumber": "PAY-2025-001",
+    "invoiceId": 1,
+    "customerId": 1,
+    "clientName": "Safaricom PLC",
+    "amount": 6000000.00,
+    "paymentDate": "2025-01-20T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TXN-20250120-001"
+  },
+  {
+    "id": 2,
+    "paymentNumber": "PAY-2025-002",
+    "invoiceId": 1,
+    "customerId": 1,
+    "clientName": "Safaricom PLC",
+    "amount": 7000000.00,
+    "paymentDate": "2025-02-28T00:00:00",
+    "paymentMethod": "EFT",
+    "referenceNumber": "TXN-20250228-001"
+  },
+  {
+    "id": 3,
+    "paymentNumber": "PAY-2025-003",
+    "invoiceId": 1,
+    "customerId": 1,
+    "clientName": "Safaricom PLC",
+    "amount": 5000000.00,
+    "paymentDate": "2025-04-10T00:00:00",
+    "paymentMethod": "RTGS",
+    "referenceNumber": "TXN-20250410-001"
+  },
+  {
+    "id": 4,
+    "paymentNumber": "PAY-2025-004",
+    "invoiceId": 3,
+    "customerId": 3,
+    "clientName": "Equity Bank Kenya Ltd",
+    "amount": 9800000.00,
+    "paymentDate": "2025-03-15T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TXN-20250315-001"
+  },
+  {
+    "id": 5,
+    "paymentNumber": "PAY-2025-005",
+    "invoiceId": 5,
+    "customerId": 5,
+    "clientName": "Kenya Airways PLC",
+    "amount": 5500000.00,
+    "paymentDate": "2025-04-20T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TXN-20250420-001"
+  },
+  {
+    "id": 6,
+    "paymentNumber": "PAY-2025-006",
+    "invoiceId": 7,
+    "customerId": 7,
+    "clientName": "KCB Bank Group Ltd",
+    "amount": 3000000.00,
+    "paymentDate": "2025-05-15T00:00:00",
+    "paymentMethod": "M-Pesa Business",
+    "referenceNumber": "TXN-20250515-001"
+  },
+  {
+    "id": 7,
+    "paymentNumber": "PAY-2025-007",
+    "invoiceId": 7,
+    "customerId": 7,
+    "clientName": "KCB Bank Group Ltd",
+    "amount": 2460000.00,
+    "paymentDate": "2025-06-15T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TXN-20250615-001"
+  },
+  {
+    "id": 8,
+    "paymentNumber": "PAY-2025-008",
+    "invoiceId": 8,
+    "customerId": 8,
+    "clientName": "Standard Chartered Bank Kenya",
+    "amount": 6750000.00,
+    "paymentDate": "2025-06-25T00:00:00",
+    "paymentMethod": "RTGS",
+    "referenceNumber": "TXN-20250625-001"
+  },
+  {
+    "id": 9,
+    "paymentNumber": "PAY-2025-009",
+    "invoiceId": 10,
+    "customerId": 10,
+    "clientName": "Co-operative Bank of Kenya",
+    "amount": 5000000.00,
+    "paymentDate": "2025-07-15T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TXN-20250715-001"
+  },
+  {
+    "id": 10,
+    "paymentNumber": "PAY-2025-010",
+    "invoiceId": 10,
+    "customerId": 10,
+    "clientName": "Co-operative Bank of Kenya",
+    "amount": 6200000.00,
+    "paymentDate": "2025-08-05T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "TXN-20250805-001"
+  }
+]

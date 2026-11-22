@@ -1,0 +1,213 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 12,
+    "customerName": "Bizimungu Productions Inc.",
+    "estimateDateDaysAgo": 58,
+    "expirationDateDaysFromNow": 30,
+    "status": "Accepted",
+    "subTotal": 2124569.97,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2124569.97,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 58,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 1,
+        "unitPrice": 2124569.97,
+        "amount": 2124569.97,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 57
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 3,
+    "customerName": "Nkurunziza Creative Agency Inc.",
+    "estimateDateDaysAgo": 43,
+    "expirationDateDaysFromNow": 40,
+    "status": "Draft",
+    "subTotal": 2132786.16,
+    "taxRate": 16,
+    "taxAmount": 341245.79,
+    "total": 2474031.95,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 43,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 3,
+        "unitPrice": 710928.72,
+        "amount": 2132786.16,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 3,
+    "customerName": "Nkurunziza Creative Agency Inc.",
+    "estimateDateDaysAgo": 25,
+    "expirationDateDaysFromNow": 29,
+    "status": "Draft",
+    "subTotal": 2508798.96,
+    "taxRate": 18,
+    "taxAmount": 451583.81,
+    "total": 2960382.77,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 25,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 3,
+        "unitPrice": 836266.32,
+        "amount": 2508798.96,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 1,
+    "customerName": "Murekezi Creative Agency Solutions",
+    "estimateDateDaysAgo": 56,
+    "expirationDateDaysFromNow": 25,
+    "status": "Draft",
+    "subTotal": 7012897.63,
+    "taxRate": 16,
+    "taxAmount": 1122063.62,
+    "total": 8134961.25,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 56,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 3,
+        "unitPrice": 2337632.54,
+        "amount": 7012897.63,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 5,
+    "customerName": "Nkurunziza Entertainment Inc.",
+    "estimateDateDaysAgo": 8,
+    "expirationDateDaysFromNow": 43,
+    "status": "Declined",
+    "subTotal": 3698374.06,
+    "taxRate": 18,
+    "taxAmount": 665707.33,
+    "total": 4364081.39,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 5,
+        "unitPrice": 739674.81,
+        "amount": 3698374.06,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 7
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 2,
+    "customerName": "Karugarama Entertainment Enterprises",
+    "estimateDateDaysAgo": 49,
+    "expirationDateDaysFromNow": 20,
+    "status": "Open",
+    "subTotal": 3197641.64,
+    "taxRate": 15,
+    "taxAmount": 479646.25,
+    "total": 3677287.89,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 49,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 5,
+        "unitPrice": 639528.33,
+        "amount": 3197641.64,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 48
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 4,
+    "customerName": "Makuza Entertainment Co.",
+    "estimateDateDaysAgo": 8,
+    "expirationDateDaysFromNow": 21,
+    "status": "Draft",
+    "subTotal": 5043395.74,
+    "taxRate": 16,
+    "taxAmount": 806943.32,
+    "total": 5850339.06,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 5,
+        "unitPrice": 1008679.15,
+        "amount": 5043395.74,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 13,
+    "customerName": "Musoni Music Group Solutions",
+    "estimateDateDaysAgo": 48,
+    "expirationDateDaysFromNow": 43,
+    "status": "Draft",
+    "subTotal": 82069.82,
+    "taxRate": 16,
+    "taxAmount": 13131.17,
+    "total": 95200.99,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 3,
+        "unitPrice": 27356.61,
+        "amount": 82069.82,
+        "itemType": "Service"
+      }
+    ]
+  }
+]

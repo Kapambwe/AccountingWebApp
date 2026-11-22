@@ -1,0 +1,122 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Chidinma Ibrahim",
+      "companyName": "Eze Creative Agency Enterprises",
+      "contactPerson": "Chidinma Ibrahim",
+      "email": "chidinmaibra@ibrahim.com.ng",
+      "phone": "+234 868 816 171",
+      "city": "Kaduna",
+      "country": "Nigeria",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-940015",
+      "totalAmountOwed": 211256.49
+    },
+    {
+      "id": 2,
+      "vendorName": "Ngozi Nwosu",
+      "companyName": "Anyanwu Productions Holdings",
+      "contactPerson": "Ngozi Nwosu",
+      "email": "ngozinwosu@nwosu.com.ng",
+      "phone": "+234 758 291 112",
+      "city": "Enugu",
+      "country": "Nigeria",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-991289",
+      "totalAmountOwed": 1244542.64
+    },
+    {
+      "id": 3,
+      "vendorName": "Tunde Adewale",
+      "companyName": "Oduya Creative Agency Co.",
+      "contactPerson": "Tunde Adewale",
+      "email": "tundeadewale@adewale.com.ng",
+      "phone": "+234 445 428 157",
+      "city": "Abuja",
+      "country": "Nigeria",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-625566",
+      "totalAmountOwed": 220186.15
+    },
+    {
+      "id": 4,
+      "vendorName": "Ibrahim Oduya",
+      "companyName": "Okafor Entertainment Inc.",
+      "contactPerson": "Ibrahim Oduya",
+      "email": "ibrahimoduya@oduya.com.ng",
+      "phone": "+234 615 126 224",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-812562",
+      "totalAmountOwed": 941880.45
+    },
+    {
+      "id": 5,
+      "vendorName": "Yetunde Adeyemi",
+      "companyName": "Nwosu Music Group Solutions",
+      "contactPerson": "Yetunde Adeyemi",
+      "email": "yetundeadeye@adeyemi.com.ng",
+      "phone": "+234 434 649 726",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-502561",
+      "totalAmountOwed": 848121.34
+    },
+    {
+      "id": 6,
+      "vendorName": "Ngozi Adeyemi",
+      "companyName": "Adeleke Creative Agency Solutions",
+      "contactPerson": "Ngozi Adeyemi",
+      "email": "ngoziadeyemi@adeyemi.com.ng",
+      "phone": "+234 128 913 002",
+      "city": "Abuja",
+      "country": "Nigeria",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-405426",
+      "totalAmountOwed": 164502.28
+    },
+    {
+      "id": 7,
+      "vendorName": "Chidinma Obi",
+      "companyName": "Anyanwu Creative Agency Limited",
+      "contactPerson": "Chidinma Obi",
+      "email": "chidinmaobi@obi.com.ng",
+      "phone": "+234 184 244 492",
+      "city": "Abuja",
+      "country": "Nigeria",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-453356",
+      "totalAmountOwed": 1516456.39
+    },
+    {
+      "id": 8,
+      "vendorName": "Oluwaseun Bello",
+      "companyName": "Anyanwu Entertainment Group",
+      "contactPerson": "Oluwaseun Bello",
+      "email": "oluwaseunbel@bello.com.ng",
+      "phone": "+234 317 011 349",
+      "city": "Kaduna",
+      "country": "Nigeria",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-157839",
+      "totalAmountOwed": 1941606.29
+    },
+    {
+      "id": 9,
+      "vendorName": "Yetunde Okeke",
+      "companyName": "Eze Music Group Limited",
+      "contactPerson": "Yetunde Okeke",
+      "email": "yetundeokeke@okeke.com.ng",
+      "phone": "+234 044 236 303",
+      "city": "Kano",
+      "country": "Nigeria",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-355131",
+      "totalAmountOwed": 831399.29
+    }
+  ],
+  "vendorCredits": []
+}

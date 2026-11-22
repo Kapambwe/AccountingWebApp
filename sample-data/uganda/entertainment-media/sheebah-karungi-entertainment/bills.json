@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Nsereko Productions Co.",
+    "description": "PR Campaign",
+    "billDate": "2024-12-27T00:00:00",
+    "dueDate": "2025-01-11T00:00:00",
+    "amount": 28631078.23,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Ssemakula Media Ltd",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-10-19T00:00:00",
+    "dueDate": "2024-12-03T00:00:00",
+    "amount": 21320259.71,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Ssemakula Media Ltd",
+    "description": "Tour Logistics",
+    "billDate": "2024-10-17T00:00:00",
+    "dueDate": "2024-11-16T00:00:00",
+    "amount": 3245576.11,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Namutebi Productions Ltd",
+    "description": "PR Campaign",
+    "billDate": "2024-09-17T00:00:00",
+    "dueDate": "2024-10-17T00:00:00",
+    "amount": 2837227.62,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Nsereko Productions Co.",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-01-24T00:00:00",
+    "dueDate": "2025-02-23T00:00:00",
+    "amount": 8687223.48,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Baingana Creative Agency Ltd",
+    "description": "Social Media Management",
+    "billDate": "2025-02-07T00:00:00",
+    "dueDate": "2025-02-22T00:00:00",
+    "amount": 31967525.34,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Lutalo Entertainment Co.",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-02-02T00:00:00",
+    "dueDate": "2025-02-17T00:00:00",
+    "amount": 24348304.35,
+    "paidAmount": 24348304.35,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Namutebi Productions Ltd",
+    "description": "Music Video Production",
+    "billDate": "2024-10-11T00:00:00",
+    "dueDate": "2024-10-26T00:00:00",
+    "amount": 20461591.26,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Namutebi Productions Ltd",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-11-22T00:00:00",
+    "dueDate": "2025-01-06T00:00:00",
+    "amount": 19660162.12,
+    "paidAmount": 19660162.12,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Ssemakula Music Group Co.",
+    "description": "PR Campaign",
+    "billDate": "2024-12-14T00:00:00",
+    "dueDate": "2025-01-13T00:00:00",
+    "amount": 12121613.97,
+    "paidAmount": 12121613.97,
+    "status": "Paid"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Baingana Creative Agency Ltd",
+    "description": "Social Media Management",
+    "billDate": "2024-12-10T00:00:00",
+    "dueDate": "2025-01-09T00:00:00",
+    "amount": 28979156.57,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

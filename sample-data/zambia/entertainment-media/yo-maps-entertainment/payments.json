@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "paymentNumber": "PAY-YM-2025-001",
+    "invoiceId": 1,
+    "customerId": 1,
+    "clientName": "Top Events Zambia Ltd",
+    "amount": 120000.00,
+    "paymentDate": "2025-01-17T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "YM-TRF-20250117-001",
+    "bankAccount": "Zanaco Business Account",
+    "notes": "Payment for INV-YM-2025-001"
+  },
+  { "id": 2, "paymentNumber": "PAY-YM-2025-002", "invoiceId": 2, "customerId": 2, "clientName": "MTN Zambia Limited", "amount": 75000.00, "paymentDate": "2025-02-04T00:00:00", "paymentMethod": "Mobile Money", "referenceNumber": "YM-MTN-20250204-001", "bankAccount": null, "notes": "Payment for INV-YM-2025-002" },
+  { "id": 3, "paymentNumber": "PAY-YM-2025-003", "invoiceId": 3, "customerId": 3, "clientName": "Zambian Breweries PLC", "amount": 50000.00, "paymentDate": "2025-02-09T00:00:00", "paymentMethod": "Bank Transfer", "referenceNumber": "YM-ZB-20250209-001", "bankAccount": "Zanaco Business Account", "notes": "Payment for INV-YM-2025-003" },
+  { "id": 4, "paymentNumber": "PAY-YM-2025-004", "invoiceId": 7, "customerId": 7, "clientName": "Airtel Zambia Limited", "amount": 30000.00, "paymentDate": "2025-02-14T00:00:00", "paymentMethod": "Bank Transfer", "referenceNumber": "YM-AIR-20250214-001", "bankAccount": "FNB Business Account", "notes": "Part payment for INV-YM-2025-007" },
+  { "id": 5, "paymentNumber": "PAY-YM-2025-005", "invoiceId": 11, "customerId": 11, "clientName": "ZAM Entertainment & Events", "amount": 75000.00, "paymentDate": "2025-05-01T00:00:00", "paymentMethod": "Bank Transfer", "referenceNumber": "YM-ZAM-20250501-001", "bankAccount": "Zanaco Business Account", "notes": "Advance payment for INV-YM-2025-011" 
+  }
+]

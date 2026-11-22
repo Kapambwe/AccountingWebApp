@@ -1,0 +1,122 @@
+{
+  "companyName": "Tiwa Savage Entertainment",
+  "companyAddress": "Abuja, Nigeria",
+  "companyTaxId": "FIRS-9730022-TSE",
+  "generatedDate": "2025-09-30",
+  "currency": "NGN",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Kano Enterprises Ltd",
+      "customerEmail": "finance@kano.com.ng",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-12",
+          "reference": "INV-N-2025-011",
+          "description": "Digital content licensing fee",
+          "debit": 30089000,
+          "credit": 0.0,
+          "balance": 30089000
+        },
+        {
+          "date": "2025-03-02",
+          "reference": "PMT-N-2025-019",
+          "description": "Partial settlement payment received",
+          "debit": 0.0,
+          "credit": 19487000,
+          "balance": 10602000
+        }
+      ],
+      "closingBalance": 10602000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Anambra Trading Ltd",
+      "customerEmail": "contact@anambra.com.ng",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-26",
+          "reference": "INV-N-2025-026",
+          "description": "Royalty payment - streaming Q1 2025",
+          "debit": 9537000,
+          "credit": 0.0,
+          "balance": 9537000
+        },
+        {
+          "date": "2025-06-22",
+          "reference": "PMT-N-2025-028",
+          "description": "Payment received - mobile money",
+          "debit": 0.0,
+          "credit": 9537000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Eko Resources Ltd",
+      "customerEmail": "accounts@eko.com.ng",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-15",
+          "reference": "INV-N-2025-038",
+          "description": "Live concert performance fee",
+          "debit": 35541500,
+          "credit": 0.0,
+          "balance": 35541500
+        },
+        {
+          "date": "2025-06-17",
+          "reference": "PMT-N-2025-031",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 35541500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Abuja Industries Ltd",
+      "customerEmail": "accounts@abuja.com.ng",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-02",
+          "reference": "INV-N-2025-048",
+          "description": "Endorsement deal - Jan-Mar",
+          "debit": 7326500,
+          "credit": 0.0,
+          "balance": 7326500
+        }
+      ],
+      "closingBalance": 7326500,
+      "status": "Overdue"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 82494000,
+    "totalReceived": 64565500,
+    "totalOutstanding": 17928500,
+    "totalOverdue": 17928500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 0.0,
+      "over90days": 17928500.0
+    }
+  }
+}

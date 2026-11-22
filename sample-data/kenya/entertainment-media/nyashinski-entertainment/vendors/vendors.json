@@ -1,0 +1,122 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Wairimu Ochieng",
+      "companyName": "Odhiambo Music Group Solutions",
+      "contactPerson": "Wairimu Ochieng",
+      "email": "wairimuochie@ochieng.co.ke",
+      "phone": "+254 978 469 778",
+      "city": "Thika",
+      "country": "Kenya",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-478677",
+      "totalAmountOwed": 100280.09
+    },
+    {
+      "id": 2,
+      "vendorName": "Wanjiku Moi",
+      "companyName": "Ruto Productions Ltd",
+      "contactPerson": "Wanjiku Moi",
+      "email": "wanjikumoi@moi.co.ke",
+      "phone": "+254 432 189 470",
+      "city": "Mombasa",
+      "country": "Kenya",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-517105",
+      "totalAmountOwed": 27252.44
+    },
+    {
+      "id": 3,
+      "vendorName": "Mwangi Kenyatta",
+      "companyName": "Ruto Media Inc.",
+      "contactPerson": "Mwangi Kenyatta",
+      "email": "mwangikenyat@kenyatta.co.ke",
+      "phone": "+254 952 267 352",
+      "city": "Mombasa",
+      "country": "Kenya",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-890786",
+      "totalAmountOwed": 129636.86
+    },
+    {
+      "id": 4,
+      "vendorName": "Nyambura Ruto",
+      "companyName": "Kenyatta Media Solutions",
+      "contactPerson": "Nyambura Ruto",
+      "email": "nyamburaruto@ruto.co.ke",
+      "phone": "+254 799 514 242",
+      "city": "Nakuru",
+      "country": "Kenya",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-954726",
+      "totalAmountOwed": 194995.22
+    },
+    {
+      "id": 5,
+      "vendorName": "Wanjiru Moi",
+      "companyName": "Mwangi Media Holdings",
+      "contactPerson": "Wanjiru Moi",
+      "email": "wanjirumoi@moi.co.ke",
+      "phone": "+254 515 822 897",
+      "city": "Mombasa",
+      "country": "Kenya",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-970106",
+      "totalAmountOwed": 85940.08
+    },
+    {
+      "id": 6,
+      "vendorName": "Onyango Njoroge",
+      "companyName": "Mugo Entertainment Group",
+      "contactPerson": "Onyango Njoroge",
+      "email": "onyangonjoro@njoroge.co.ke",
+      "phone": "+254 383 977 516",
+      "city": "Nakuru",
+      "country": "Kenya",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-328234",
+      "totalAmountOwed": 1683.1
+    },
+    {
+      "id": 7,
+      "vendorName": "Kamau Odhiambo",
+      "companyName": "Ngugi Entertainment Limited",
+      "contactPerson": "Kamau Odhiambo",
+      "email": "kamauodhiamb@odhiambo.co.ke",
+      "phone": "+254 919 510 092",
+      "city": "Nakuru",
+      "country": "Kenya",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-287621",
+      "totalAmountOwed": 131634.2
+    },
+    {
+      "id": 8,
+      "vendorName": "Onyango Kibaki",
+      "companyName": "Kimani Media Limited",
+      "contactPerson": "Onyango Kibaki",
+      "email": "onyangokibak@kibaki.co.ke",
+      "phone": "+254 415 692 958",
+      "city": "Machakos",
+      "country": "Kenya",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-927707",
+      "totalAmountOwed": 139729.93
+    },
+    {
+      "id": 9,
+      "vendorName": "Muthoni Odhiambo",
+      "companyName": "Kenyatta Music Group Solutions",
+      "contactPerson": "Muthoni Odhiambo",
+      "email": "muthoniodhia@odhiambo.co.ke",
+      "phone": "+254 251 966 040",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-603570",
+      "totalAmountOwed": 10625.69
+    }
+  ],
+  "vendorCredits": []
+}

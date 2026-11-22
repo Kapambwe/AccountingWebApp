@@ -1,0 +1,109 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Lebogang Mbeki",
+      "companyName": "Motsepe Media Enterprises",
+      "contactPerson": "Lebogang Mbeki",
+      "email": "lebogangmbek@mbeki.co.za",
+      "phone": "+27 465 819 434",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-847962",
+      "totalAmountOwed": 7404.43
+    },
+    {
+      "id": 2,
+      "vendorName": "Mpho Khumalo",
+      "companyName": "Radebe Entertainment Inc.",
+      "contactPerson": "Mpho Khumalo",
+      "email": "mphokhumalo@khumalo.co.za",
+      "phone": "+27 221 322 403",
+      "city": "East London",
+      "country": "South Africa",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-116906",
+      "totalAmountOwed": 48524.26
+    },
+    {
+      "id": 3,
+      "vendorName": "Bongani Mkhize",
+      "companyName": "Nkosi Creative Agency Limited",
+      "contactPerson": "Bongani Mkhize",
+      "email": "bonganimkhiz@mkhize.co.za",
+      "phone": "+27 572 025 612",
+      "city": "Durban",
+      "country": "South Africa",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-413182",
+      "totalAmountOwed": 9802.0
+    },
+    {
+      "id": 4,
+      "vendorName": "Lebogang Sithole",
+      "companyName": "Ramaphosa Productions Solutions",
+      "contactPerson": "Lebogang Sithole",
+      "email": "lebogangsith@sithole.co.za",
+      "phone": "+27 631 545 847",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-183796",
+      "totalAmountOwed": 8548.0
+    },
+    {
+      "id": 5,
+      "vendorName": "Zanele Mandela",
+      "companyName": "Mandela Creative Agency Holdings",
+      "contactPerson": "Zanele Mandela",
+      "email": "zanelemandel@mandela.co.za",
+      "phone": "+27 945 411 066",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-547874",
+      "totalAmountOwed": 58550.57
+    },
+    {
+      "id": 6,
+      "vendorName": "Nomsa Zuma",
+      "companyName": "Nkosi Creative Agency Inc.",
+      "contactPerson": "Nomsa Zuma",
+      "email": "nomsazuma@zuma.co.za",
+      "phone": "+27 781 747 880",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-687343",
+      "totalAmountOwed": 14029.67
+    },
+    {
+      "id": 7,
+      "vendorName": "Sipho Nxumalo",
+      "companyName": "Khumalo Media Holdings",
+      "contactPerson": "Sipho Nxumalo",
+      "email": "siphonxumalo@nxumalo.co.za",
+      "phone": "+27 872 239 569",
+      "city": "Durban",
+      "country": "South Africa",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-188513",
+      "totalAmountOwed": 5020.3
+    },
+    {
+      "id": 8,
+      "vendorName": "Bongani Radebe",
+      "companyName": "Nxumalo Entertainment Solutions",
+      "contactPerson": "Bongani Radebe",
+      "email": "bonganiradeb@radebe.co.za",
+      "phone": "+27 385 405 255",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-965327",
+      "totalAmountOwed": 5238.9
+    }
+  ],
+  "vendorCredits": []
+}

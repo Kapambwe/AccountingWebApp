@@ -1,0 +1,122 @@
+{
+  "companyName": "Ejigayehu Shibabaw Entertainment",
+  "companyAddress": "Gondar, Ethiopia",
+  "companyTaxId": "ERCA-7909890-ESE",
+  "generatedDate": "2025-09-30",
+  "currency": "ETB",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Harar Solutions PLC",
+      "customerEmail": "info@harar.com.et",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-14",
+          "reference": "INV-E-2025-019",
+          "description": "Merchandise partnership revenue",
+          "debit": 1249000,
+          "credit": 0.0,
+          "balance": 1249000
+        }
+      ],
+      "closingBalance": 1249000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Harar Solutions PLC",
+      "customerEmail": "info@harar.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-19",
+          "reference": "INV-E-2025-027",
+          "description": "Brand ambassador fee - Apr-Jun campaign",
+          "debit": 1859000,
+          "credit": 0.0,
+          "balance": 1859000
+        },
+        {
+          "date": "2025-07-23",
+          "reference": "PMT-E-2025-024",
+          "description": "Settlement payment received",
+          "debit": 0.0,
+          "credit": 1859000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Lalibela Trading PLC",
+      "customerEmail": "accounts@lalibela.com.et",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-10",
+          "reference": "INV-E-2025-032",
+          "description": "Performance fee - Music Awards Night",
+          "debit": 1388500,
+          "credit": 0.0,
+          "balance": 1388500
+        },
+        {
+          "date": "2025-07-15",
+          "reference": "PMT-E-2025-033",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 1388500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Addis Trading PLC",
+      "customerEmail": "finance@addis.com.et",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-03",
+          "reference": "INV-E-2025-044",
+          "description": "Royalty payment - streaming Q2 2025",
+          "debit": 405500,
+          "credit": 0.0,
+          "balance": 405500
+        },
+        {
+          "date": "2025-02-17",
+          "reference": "PMT-E-2025-046",
+          "description": "Partial payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 228500,
+          "balance": 177000
+        }
+      ],
+      "closingBalance": 177000,
+      "status": "Partially Paid"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 4902000,
+    "totalReceived": 3476000,
+    "totalOutstanding": 1426000,
+    "totalOverdue": 1426000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 1249000.0,
+      "over90days": 177000.0
+    }
+  }
+}

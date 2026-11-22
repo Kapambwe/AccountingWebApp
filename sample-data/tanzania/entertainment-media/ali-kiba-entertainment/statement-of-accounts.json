@@ -1,0 +1,130 @@
+{
+  "companyName": "Ali Kiba Entertainment",
+  "companyAddress": "Mwanza, Tanzania",
+  "companyTaxId": "TIN-9444647-AKE",
+  "generatedDate": "2025-09-30",
+  "currency": "TZS",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Arusha Holdings Ltd",
+      "customerEmail": "contact@arusha.co.tz",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-09",
+          "reference": "INV-T-2025-012",
+          "description": "Royalty payment - streaming Q1 2025",
+          "debit": 9043000,
+          "credit": 0.0,
+          "balance": 9043000
+        },
+        {
+          "date": "2025-06-01",
+          "reference": "PMT-T-2025-014",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 9043000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Kilimanjaro Group Ltd",
+      "customerEmail": "accounts@kilimanjaro.co.tz",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-15",
+          "reference": "INV-T-2025-027",
+          "description": "Digital content licensing fee",
+          "debit": 7452500,
+          "credit": 0.0,
+          "balance": 7452500
+        },
+        {
+          "date": "2025-06-27",
+          "reference": "PMT-T-2025-026",
+          "description": "Partial settlement payment received",
+          "debit": 0.0,
+          "credit": 4533500,
+          "balance": 2919000
+        }
+      ],
+      "closingBalance": 2919000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Arusha Solutions Ltd",
+      "customerEmail": "admin@arusha.co.tz",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-21",
+          "reference": "INV-T-2025-035",
+          "description": "Endorsement deal - Apr-Jun",
+          "debit": 7240000,
+          "credit": 0.0,
+          "balance": 7240000
+        },
+        {
+          "date": "2025-05-25",
+          "reference": "PMT-T-2025-036",
+          "description": "Payment received - mobile money",
+          "debit": 0.0,
+          "credit": 7240000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Tanganyika Solutions Ltd",
+      "customerEmail": "contact@tanganyika.co.tz",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-18",
+          "reference": "INV-T-2025-044",
+          "description": "Merchandise partnership revenue",
+          "debit": 13818000,
+          "credit": 0.0,
+          "balance": 13818000
+        },
+        {
+          "date": "2025-09-06",
+          "reference": "PMT-T-2025-047",
+          "description": "Partial settlement payment received",
+          "debit": 0.0,
+          "credit": 6983000,
+          "balance": 6835000
+        }
+      ],
+      "closingBalance": 6835000,
+      "status": "Partially Paid"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 37553500,
+    "totalReceived": 27799500,
+    "totalOutstanding": 9754000,
+    "totalOverdue": 9754000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 6835000.0,
+      "days61to90": 0.0,
+      "over90days": 2919000.0
+    }
+  }
+}

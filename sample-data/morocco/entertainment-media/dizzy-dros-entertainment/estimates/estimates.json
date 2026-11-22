@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 15,
+    "customerName": "Tahiri Media Holdings",
+    "estimateDateDaysAgo": 44,
+    "expirationDateDaysFromNow": 21,
+    "status": "Sent",
+    "subTotal": 153846.27,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 153846.27,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 44,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 3,
+        "unitPrice": 51282.09,
+        "amount": 153846.27,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 43
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 1,
+    "customerName": "Tahiri Music Group Solutions",
+    "estimateDateDaysAgo": 13,
+    "expirationDateDaysFromNow": 24,
+    "status": "Draft",
+    "subTotal": 324901.34,
+    "taxRate": 15,
+    "taxAmount": 48735.2,
+    "total": 373636.54,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 13,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 5,
+        "unitPrice": 64980.27,
+        "amount": 324901.34,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 13,
+    "customerName": "Benali Music Group Co.",
+    "estimateDateDaysAgo": 48,
+    "expirationDateDaysFromNow": 20,
+    "status": "Open",
+    "subTotal": 173750.47,
+    "taxRate": 18,
+    "taxAmount": 31275.08,
+    "total": 205025.55,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 3,
+        "unitPrice": 57916.82,
+        "amount": 173750.47,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 47
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 10,
+    "customerName": "Chraibi Entertainment Inc.",
+    "estimateDateDaysAgo": 14,
+    "expirationDateDaysFromNow": 19,
+    "status": "Declined",
+    "subTotal": 229337.13,
+    "taxRate": 18,
+    "taxAmount": 41280.68,
+    "total": 270617.81,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 14,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 3,
+        "unitPrice": 76445.71,
+        "amount": 229337.13,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 13
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 7,
+    "customerName": "Benali Music Group Holdings",
+    "estimateDateDaysAgo": 48,
+    "expirationDateDaysFromNow": 37,
+    "status": "Open",
+    "subTotal": 295513.2,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 295513.2,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 3,
+        "unitPrice": 98504.4,
+        "amount": 295513.2,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 47
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 5,
+    "customerName": "El Fassi Productions Inc.",
+    "estimateDateDaysAgo": 24,
+    "expirationDateDaysFromNow": 31,
+    "status": "Sent",
+    "subTotal": 331321.1,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 331321.1,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 24,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 2,
+        "unitPrice": 165660.55,
+        "amount": 331321.1,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 23
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 14,
+    "customerName": "Bensouda Creative Agency Limited",
+    "estimateDateDaysAgo": 30,
+    "expirationDateDaysFromNow": 35,
+    "status": "Sent",
+    "subTotal": 102254.55,
+    "taxRate": 16,
+    "taxAmount": 16360.73,
+    "total": 118615.28,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 30,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 4,
+        "unitPrice": 25563.64,
+        "amount": 102254.55,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 29
+  }
+]

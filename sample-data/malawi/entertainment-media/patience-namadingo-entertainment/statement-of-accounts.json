@@ -1,0 +1,156 @@
+{
+  "companyName": "Patience Namadingo Entertainment",
+  "companyAddress": "Zomba, Malawi",
+  "companyTaxId": "MRA-1851550-PNE",
+  "generatedDate": "2025-09-30",
+  "currency": "MWK",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Malombe Group Ltd",
+      "customerEmail": "billing@malombe.mw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-02",
+          "reference": "INV-M-2025-012",
+          "description": "Royalty payment - streaming Q1 2025",
+          "debit": 2129500,
+          "credit": 0.0,
+          "balance": 2129500
+        },
+        {
+          "date": "2025-04-27",
+          "reference": "PMT-M-2025-015",
+          "description": "Partial settlement payment received",
+          "debit": 0.0,
+          "credit": 1099000,
+          "balance": 1030500
+        }
+      ],
+      "closingBalance": 1030500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Mulanje Solutions Ltd",
+      "customerEmail": "admin@mulanje.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-22",
+          "reference": "INV-M-2025-022",
+          "description": "Brand ambassador fee - Q2 campaign",
+          "debit": 1838500,
+          "credit": 0.0,
+          "balance": 1838500
+        },
+        {
+          "date": "2025-07-02",
+          "reference": "PMT-M-2025-025",
+          "description": "Partial settlement payment received",
+          "debit": 0.0,
+          "credit": 617000,
+          "balance": 1221500
+        }
+      ],
+      "closingBalance": 1221500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Nyika Industries Ltd",
+      "customerEmail": "info@nyika.mw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-12",
+          "reference": "INV-M-2025-032",
+          "description": "Endorsement deal - Jul-Sep",
+          "debit": 868000,
+          "credit": 0.0,
+          "balance": 868000
+        },
+        {
+          "date": "2025-08-05",
+          "reference": "PMT-M-2025-038",
+          "description": "Partial payment received - mobile money",
+          "debit": 0.0,
+          "credit": 411500,
+          "balance": 456500
+        }
+      ],
+      "closingBalance": 456500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Blantyre Group Ltd",
+      "customerEmail": "admin@blantyre.mw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-26",
+          "reference": "INV-M-2025-043",
+          "description": "Headline performance - Year-End Gala",
+          "debit": 1933500,
+          "credit": 0.0,
+          "balance": 1933500
+        },
+        {
+          "date": "2025-08-03",
+          "reference": "PMT-M-2025-041",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 1933500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Lilongwe Holdings Ltd",
+      "customerEmail": "contact@lilongwe.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-14",
+          "reference": "INV-M-2025-054",
+          "description": "Performance fee - Corporate Event",
+          "debit": 1153500,
+          "credit": 0.0,
+          "balance": 1153500
+        },
+        {
+          "date": "2025-07-20",
+          "reference": "PMT-M-2025-058",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 1153500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 7923000,
+    "totalReceived": 5214500,
+    "totalOutstanding": 2708500,
+    "totalOverdue": 2708500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 456500.0,
+      "days61to90": 0.0,
+      "over90days": 2252000.0
+    }
+  }
+}

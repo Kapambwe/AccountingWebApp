@@ -1,0 +1,38 @@
+[
+  {
+    "programId": "prog-mining-001",
+    "name": "Mining Industry Referrals",
+    "status": "Active",
+    "rewardType": "Percentage",
+    "percentageRate": 0.07,
+    "recurringMonths": 12,
+    "startDate": "2026-01-01T00:00:00Z",
+    "endDate": null,
+    "description": "7% recurring commission for 12 months on mining industry subscriptions",
+    "tenant": "default"
+  },
+  {
+    "programId": "prog-restaurant-001",
+    "name": "Restaurant Partners",
+    "status": "Active",
+    "rewardType": "Credit",
+    "creditPerMonth": 75.0,
+    "recurringMonths": 6,
+    "startDate": "2026-01-01T00:00:00Z",
+    "endDate": null,
+    "description": "$75/month credit for 6 months",
+    "tenant": "default"
+  },
+  {
+    "programId": "prog-agro-001",
+    "name": "Agro-Processing Referrals",
+    "status": "Active",
+    "rewardType": "Percentage",
+    "percentageRate": 0.05,
+    "recurringMonths": 12,
+    "startDate": "2026-01-01T00:00:00Z",
+    "endDate": null,
+    "description": "5% recurring commission for 12 months",
+    "tenant": "default"
+  }
+]

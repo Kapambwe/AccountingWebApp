@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorId": 1,
+    "vendorName": "Microsoft Ghana Ltd",
+    "description": "Microsoft Office 365 Enterprise License",
+    "billDate": "2025-01-10T00:00:00",
+    "dueDate": "2025-02-09T00:00:00",
+    "amount": 145000.00,
+    "paidAmount": 145000.00,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorId": 2,
+    "vendorName": "KPMG Ghana Ltd",
+    "description": "KPMG Technical Peer Review",
+    "billDate": "2025-03-15T00:00:00",
+    "dueDate": "2025-04-14T00:00:00",
+    "amount": 320000.00,
+    "paidAmount": 0.00,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorId": 3,
+    "vendorName": "University of Ghana Business School",
+    "description": "University of Ghana Executive Education",
+    "billDate": "2025-02-01T00:00:00",
+    "dueDate": "2025-03-03T00:00:00",
+    "amount": 185000.00,
+    "paidAmount": 185000.00,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorId": 4,
+    "vendorName": "InterContinental Hotel Accra",
+    "description": "Intercontinental Accra Boardroom Rental",
+    "billDate": "2025-03-01T00:00:00",
+    "dueDate": "2025-03-31T00:00:00",
+    "amount": 62000.00,
+    "paidAmount": 62000.00,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorId": 5,
+    "vendorName": "KLM Royal Dutch Airlines",
+    "description": "KLM Ghana-Amsterdam Business Travel",
+    "billDate": "2025-04-01T00:00:00",
+    "dueDate": "2025-05-01T00:00:00",
+    "amount": 95000.00,
+    "paidAmount": 0.00,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorId": 6,
+    "vendorName": "PricewaterhouseCoopers Ghana Ltd",
+    "description": "PwC Technical Expertise - Audit",
+    "billDate": "2025-02-15T00:00:00",
+    "dueDate": "2025-03-17T00:00:00",
+    "amount": 285000.00,
+    "paidAmount": 0.00,
+    "status": "Overdue"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorId": 7,
+    "vendorName": "Oracle Corporation Ghana",
+    "description": "Oracle NetSuite Annual License",
+    "billDate": "2025-01-05T00:00:00",
+    "dueDate": "2025-02-04T00:00:00",
+    "amount": 98000.00,
+    "paidAmount": 98000.00,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorId": 8,
+    "vendorName": "Ghana Institute of Management & Public Administration (GIMPA)",
+    "description": "GIMPA Leadership Training Program",
+    "billDate": "2025-04-15T00:00:00",
+    "dueDate": "2025-05-15T00:00:00",
+    "amount": 155000.00,
+    "paidAmount": 0.00,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorId": 9,
+    "vendorName": "Ghana Revenue Authority",
+    "description": "Ghana Revenue Authority Corporate Tax",
+    "billDate": "2025-03-31T00:00:00",
+    "dueDate": "2025-04-30T00:00:00",
+    "amount": 425000.00,
+    "paidAmount": 0.00,
+    "status": "Overdue"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorId": 10,
+    "vendorName": "Google LLC Ghana Office",
+    "description": "Google Workspace Annual Subscription",
+    "billDate": "2025-01-01T00:00:00",
+    "dueDate": "2025-01-31T00:00:00",
+    "amount": 35000.00,
+    "paidAmount": 35000.00,
+    "status": "Paid"
+  }
+]

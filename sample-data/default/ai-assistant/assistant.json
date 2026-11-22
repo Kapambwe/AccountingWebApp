@@ -1,0 +1,14 @@
+{
+  "prompts": [
+    "What is my cash balance?",
+    "Show me sales for this month",
+    "Create an invoice draft",
+    "Summarize open receivables"
+  ],
+  "responses": {
+    "cash": "Your current cash position looks stable based on the latest ledger and bank data. Review bank reconciliation for any outstanding items.",
+    "invoice": "I can help draft an invoice or review invoice aging. Try asking for open invoice totals or a draft invoice summary.",
+    "sales": "Monthly sales are trending in line with expectations. I can break this down by customer, product, or region if you want.",
+    "balance": "I can summarize balances by account, subsidiary, or consolidated group. Ask for a trial balance or cash balance view."
+  }
+}

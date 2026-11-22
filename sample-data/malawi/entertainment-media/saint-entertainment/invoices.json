@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Chilima Media Group",
+    "description": "Music Licensing",
+    "invoiceDate": "2024-10-22T00:00:00",
+    "dueDate": "2024-12-06T00:00:00",
+    "amount": 1684823.27,
+    "receivedAmount": 1684823.27,
+    "status": "Paid",
+    "customerId": 8
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Gondwe Entertainment Co.",
+    "description": "Brand Deal",
+    "invoiceDate": "2024-12-14T00:00:00",
+    "dueDate": "2025-01-13T00:00:00",
+    "amount": 9395950.89,
+    "receivedAmount": 9395950.89,
+    "status": "Paid",
+    "customerId": 4
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Chilima Media Group",
+    "description": "Collaboration Fee",
+    "invoiceDate": "2025-01-27T00:00:00",
+    "dueDate": "2025-02-26T00:00:00",
+    "amount": 1799765.1,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 8
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Chilima Media Group",
+    "description": "Endorsement Deal",
+    "invoiceDate": "2024-12-19T00:00:00",
+    "dueDate": "2025-02-02T00:00:00",
+    "amount": 3430275.3,
+    "receivedAmount": 3430275.3,
+    "status": "Paid",
+    "customerId": 8
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Muluzi Productions Co.",
+    "description": "Merchandise Revenue",
+    "invoiceDate": "2025-02-02T00:00:00",
+    "dueDate": "2025-03-04T00:00:00",
+    "amount": 7165721.52,
+    "receivedAmount": 5052654.94,
+    "status": "PartiallyPaid",
+    "customerId": 7
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Mwale Media Solutions",
+    "description": "Concert Headlining Fee",
+    "invoiceDate": "2025-02-15T00:00:00",
+    "dueDate": "2025-03-17T00:00:00",
+    "amount": 9652541.27,
+    "receivedAmount": 6667226.45,
+    "status": "PartiallyPaid",
+    "customerId": 6
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Muluzi Productions Co.",
+    "description": "Merchandise Revenue",
+    "invoiceDate": "2024-10-31T00:00:00",
+    "dueDate": "2024-11-15T00:00:00",
+    "amount": 9935458.41,
+    "receivedAmount": 7000726.61,
+    "status": "PartiallyPaid",
+    "customerId": 7
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Nkosi Creative Agency Enterprises",
+    "description": "Endorsement Deal",
+    "invoiceDate": "2025-01-21T00:00:00",
+    "dueDate": "2025-03-07T00:00:00",
+    "amount": 1748215.53,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 2
+  },
+  {
+    "id": 9,
+    "invoiceNumber": "INV-2025-009",
+    "clientName": "Mwale Media Solutions",
+    "description": "Streaming Royalty",
+    "invoiceDate": "2024-10-22T00:00:00",
+    "dueDate": "2024-11-06T00:00:00",
+    "amount": 2717639.58,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 6
+  }
+]

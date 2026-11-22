@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Attah Media Holdings",
+    "description": "Music Video Production",
+    "billDate": "2025-01-22T00:00:00",
+    "dueDate": "2025-02-21T00:00:00",
+    "amount": 175510.66,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Agyeman Creative Agency Ltd",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-09-18T00:00:00",
+    "dueDate": "2024-11-02T00:00:00",
+    "amount": 172570.81,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Attah Media Holdings",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-01-18T00:00:00",
+    "dueDate": "2025-02-17T00:00:00",
+    "amount": 259090.34,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Mahama Creative Agency Co.",
+    "description": "Management Fee",
+    "billDate": "2025-02-27T00:00:00",
+    "dueDate": "2025-03-29T00:00:00",
+    "amount": 190142.48,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Mahama Creative Agency Co.",
+    "description": "Management Fee",
+    "billDate": "2024-10-05T00:00:00",
+    "dueDate": "2024-10-20T00:00:00",
+    "amount": 117113.39,
+    "paidAmount": 82688.04,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Asiedu Creative Agency Group",
+    "description": "Tour Logistics",
+    "billDate": "2024-12-23T00:00:00",
+    "dueDate": "2025-02-06T00:00:00",
+    "amount": 132087.79,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Agyeman Creative Agency Ltd",
+    "description": "Studio Recording Session",
+    "billDate": "2024-12-15T00:00:00",
+    "dueDate": "2024-12-30T00:00:00",
+    "amount": 67565.93,
+    "paidAmount": 67565.93,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Boateng Media Enterprises",
+    "description": "Social Media Management",
+    "billDate": "2025-01-07T00:00:00",
+    "dueDate": "2025-02-21T00:00:00",
+    "amount": 151742.82,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Appiah Entertainment Limited",
+    "description": "PR Campaign",
+    "billDate": "2024-11-09T00:00:00",
+    "dueDate": "2024-12-09T00:00:00",
+    "amount": 112109.28,
+    "paidAmount": 112109.28,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Boateng Music Group Co.",
+    "description": "Travel & Accommodation",
+    "billDate": "2025-01-18T00:00:00",
+    "dueDate": "2025-02-02T00:00:00",
+    "amount": 38699.04,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Boateng Music Group Co.",
+    "description": "Tour Logistics",
+    "billDate": "2024-12-17T00:00:00",
+    "dueDate": "2025-01-31T00:00:00",
+    "amount": 272949.38,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Appiah Entertainment Limited",
+    "description": "Management Fee",
+    "billDate": "2024-12-13T00:00:00",
+    "dueDate": "2024-12-28T00:00:00",
+    "amount": 315587.19,
+    "paidAmount": 100325.79,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Ofori Media Inc.",
+    "description": "Management Fee",
+    "billDate": "2025-01-19T00:00:00",
+    "dueDate": "2025-03-05T00:00:00",
+    "amount": 217965.44,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 14,
+    "billNumber": "BILL-2025-014",
+    "vendorName": "Attah Media Holdings",
+    "description": "Management Fee",
+    "billDate": "2024-11-28T00:00:00",
+    "dueDate": "2024-12-13T00:00:00",
+    "amount": 319748.74,
+    "paidAmount": 124382.15,
+    "status": "PartiallyPaid"
+  }
+]

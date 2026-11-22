@@ -1,0 +1,109 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Yaw Rawlings",
+      "companyName": "Mahama Music Group Co.",
+      "contactPerson": "Yaw Rawlings",
+      "email": "yawrawlings@rawlings.com.gh",
+      "phone": "+233 160 060 253",
+      "city": "Sekondi-Takoradi",
+      "country": "Ghana",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-461967",
+      "totalAmountOwed": 23986.89
+    },
+    {
+      "id": 2,
+      "vendorName": "Akosua Asante",
+      "companyName": "Attah Productions Group",
+      "contactPerson": "Akosua Asante",
+      "email": "akosuaasante@asante.com.gh",
+      "phone": "+233 600 895 122",
+      "city": "Tema",
+      "country": "Ghana",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-695713",
+      "totalAmountOwed": 7171.25
+    },
+    {
+      "id": 3,
+      "vendorName": "Kwasi Nkrumah",
+      "companyName": "Ofori Productions Enterprises",
+      "contactPerson": "Kwasi Nkrumah",
+      "email": "kwasinkrumah@nkrumah.com.gh",
+      "phone": "+233 976 033 411",
+      "city": "Accra",
+      "country": "Ghana",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-106088",
+      "totalAmountOwed": 52868.05
+    },
+    {
+      "id": 4,
+      "vendorName": "Adjoa Appiah",
+      "companyName": "Attah Media Holdings",
+      "contactPerson": "Adjoa Appiah",
+      "email": "adjoaappiah@appiah.com.gh",
+      "phone": "+233 928 813 619",
+      "city": "Kumasi",
+      "country": "Ghana",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-759783",
+      "totalAmountOwed": 35494.05
+    },
+    {
+      "id": 5,
+      "vendorName": "Esi Asiedu",
+      "companyName": "Rawlings Productions Co.",
+      "contactPerson": "Esi Asiedu",
+      "email": "esiasiedu@asiedu.com.gh",
+      "phone": "+233 211 577 664",
+      "city": "Accra",
+      "country": "Ghana",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-156735",
+      "totalAmountOwed": 38166.19
+    },
+    {
+      "id": 6,
+      "vendorName": "Abena Nkrumah",
+      "companyName": "Ofori Entertainment Holdings",
+      "contactPerson": "Abena Nkrumah",
+      "email": "abenankrumah@nkrumah.com.gh",
+      "phone": "+233 110 725 908",
+      "city": "Cape Coast",
+      "country": "Ghana",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-543419",
+      "totalAmountOwed": 6125.77
+    },
+    {
+      "id": 7,
+      "vendorName": "Kofi Asiedu",
+      "companyName": "Bonsu Entertainment Enterprises",
+      "contactPerson": "Kofi Asiedu",
+      "email": "kofiasiedu@asiedu.com.gh",
+      "phone": "+233 676 776 467",
+      "city": "Tamale",
+      "country": "Ghana",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-640655",
+      "totalAmountOwed": 3105.74
+    },
+    {
+      "id": 8,
+      "vendorName": "Adjoa Ofori",
+      "companyName": "Nkrumah Creative Agency Group",
+      "contactPerson": "Adjoa Ofori",
+      "email": "adjoaofori@ofori.com.gh",
+      "phone": "+233 195 693 602",
+      "city": "Kumasi",
+      "country": "Ghana",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-917319",
+      "totalAmountOwed": 74369.84
+    }
+  ],
+  "vendorCredits": []
+}

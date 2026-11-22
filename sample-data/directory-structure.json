@@ -1,0 +1,194 @@
+{
+  "zambia": {
+    "media-communications": [
+      "5fm-zambia",
+      "daily-nation",
+      "daily-nation-zambia",
+      "diamond-tv",
+      "kalemba",
+      "kalemba-online",
+      "news-diggers",
+      "prime-tv",
+      "radio-phoenix",
+      "times-printpak",
+      "zambia-daily-mail"
+    ],
+    "telecommunications": "zamtel",
+    "hospitality": "mwizukanji-meat-topia",
+    "government-agencies": "road-development-agency",
+    "real-estate": "zambian-properties-ltd",
+    "mining-minerals": [
+      "konkola-copper-mines-plc",
+      "mopani-copper-mines-plc"
+    ],
+    "entertainment-media": [
+      "chef-187-entertainment",
+      "macky2-entertainment",
+      "mutale-mwanza-media",
+      "slapdee-entertainment",
+      "yo-maps-entertainment"
+    ],
+    "transport-logistics": [
+      "mpulungu-harbour-corporation",
+      "zambia-airways",
+      "zambia-cargo-logistics",
+      "zambia-railways-limited"
+    ],
+    "education": [
+      "great-north-road-academy",
+      "lusaka-primary-school"
+    ],
+    "agro-processing": [
+      "eastern-tropical-fruit-company",
+      "kalene-hills-fruit-company",
+      "kasama-agro-supplies",
+      "mununshi-fruit-company",
+      "zambezi-cashew-company",
+      "zampalm"
+    ],
+    "manufacturing": [
+      "chilanga-cement-plc",
+      "national-milling-corporation",
+      "nitrogen-chemicals-zambia",
+      "zambia-sugar-plc",
+      "zambian-breweries-plc"
+    ],
+    "retail-trading": [
+      "chipata-general-dealers",
+      "kabwe-auto-parts",
+      "kitwe-electronics-shop",
+      "livingstone-crafts-curios",
+      "matero-hardware-store",
+      "shoprite-checkers-zambia"
+    ],
+    "food-beverage": [
+      "lusaka-bakery-ltd",
+      "mongu-fish-trading",
+      "zambeef-products-plc"
+    ],
+    "services": [
+      "chingola-carpentry-workshop",
+      "ndola-tailoring-services"
+    ]
+  },
+  "botswana": {
+    "entertainment-media": [
+      "atlasaone-music-group",
+      "charmaine-entertainment",
+      "franco-lesego-entertainment",
+      "han-c-entertainment",
+      "vee-mampeezy-entertainment",
+      "zeus-entertainment"
+    ]
+  },
+  "tanzania": {
+    "entertainment-media": [
+      "ali-kiba-entertainment",
+      "diamond-platnumz-wcb",
+      "harmonize-konde-music",
+      "nandy-entertainment",
+      "rayvanny-entertainment",
+      "vanessa-mdee-entertainment"
+    ]
+  },
+  "uganda": {
+    "entertainment-media": [
+      "bebe-cool-entertainment",
+      "bobi-wine-firebase",
+      "eddy-kenzo-big-talent",
+      "jose-chameleone-leone-island",
+      "sheebah-karungi-entertainment",
+      "winnie-nwagi-entertainment"
+    ]
+  },
+  "nigeria": {
+    "entertainment-media": [
+      "burna-boy-spaceship",
+      "davido-dmw-entertainment",
+      "don-jazzy-mavin-records",
+      "genevieve-nnaji-productions",
+      "tiwa-savage-entertainment",
+      "wizkid-starboy-entertainment"
+    ]
+  },
+  "rwanda": {
+    "entertainment-media": [
+      "bruce-melodie-entertainment",
+      "chriss-eazy-entertainment",
+      "knowless-entertainment",
+      "meddy-entertainment",
+      "riderman-entertainment",
+      "the-ben-entertainment"
+    ]
+  },
+  "zimbabwe": {
+    "entertainment-media": [
+      "ammara-brown-entertainment",
+      "holy-ten-entertainment",
+      "jah-prayzah-entertainment",
+      "stunner-entertainment",
+      "takura-music-group",
+      "winky-d-vigilance-entertainment"
+    ]
+  },
+  "morocco": {
+    "entertainment-media": [
+      "dizzy-dros-entertainment",
+      "douzi-entertainment",
+      "hatim-ammor-entertainment",
+      "manal-benchlikha-entertainment",
+      "saad-lamjarred-entertainment",
+      "samira-said-entertainment"
+    ]
+  },
+  "kenya": {
+    "entertainment-media": [
+      "akothee-entertainment",
+      "bahati-emb-records",
+      "eric-omondi-productions",
+      "nyashinski-entertainment",
+      "octopizzo-namba-nane",
+      "sauti-sol-entertainment"
+    ]
+  },
+  "ghana": {
+    "entertainment-media": [
+      "jackie-appiah-productions",
+      "king-promise-entertainment",
+      "nana-ama-mcbrown-entertainment",
+      "sarkodie-sarkcess-music",
+      "shatta-wale-sm-militants",
+      "stonebwoy-bhim-nation"
+    ]
+  },
+  "ethiopia": {
+    "entertainment-media": [
+      "aster-aweke-entertainment",
+      "betty-g-entertainment",
+      "ejigayehu-shibabaw-entertainment",
+      "gossaye-tesfaye-entertainment",
+      "mahmoud-ahmed-entertainment",
+      "teddy-afro-entertainment"
+    ]
+  },
+  "south-africa": {
+    "entertainment-media": [
+      "black-coffee-entertainment",
+      "bonang-matheba-media",
+      "cassper-nyovest-entertainment",
+      "pearl-thusi-productions",
+      "sho-madjozi-entertainment",
+      "trevor-noah-entertainment"
+    ]
+  },
+  "malawi": {
+    "entertainment-media": [
+      "gwamba-entertainment",
+      "lucius-banda-entertainment",
+      "nesnes-entertainment",
+      "patience-namadingo-entertainment",
+      "saint-entertainment",
+      "tay-grin-entertainment"
+    ]
+  }
+}

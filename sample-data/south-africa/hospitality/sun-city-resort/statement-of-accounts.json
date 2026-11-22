@@ -1,0 +1,192 @@
+{
+  "companyName": "Sun City Resort",
+  "companyAddress": "Sun City, North West Province, South Africa",
+  "companyTaxId": "4890123456",
+  "generatedDate": "2025-09-30",
+  "currency": "ZAR",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "MTN South Africa Corporate Events",
+      "contactPerson": "Thabo Mokwena",
+      "email": "events@mtn.com",
+      "openingBalance": 0.00,
+      "closingBalance": 0.00,
+      "transactions": [
+        {
+          "date": "2025-01-15",
+          "type": "Invoice",
+          "reference": "INV-2025-001",
+          "description": "MTN Annual Strategy Conference",
+          "debit": 1250000.00,
+          "credit": 0.00,
+          "balance": 1250000.00
+        },
+        {
+          "date": "2025-01-20",
+          "type": "Payment",
+          "reference": "PAY-2025-001",
+          "description": "Payment received — Bank Transfer (ref: MTN-BT-20250120)",
+          "debit": 0.00,
+          "credit": 650000.00,
+          "balance": 600000.00
+        },
+        {
+          "date": "2025-02-05",
+          "type": "Payment",
+          "reference": "PAY-2025-002",
+          "description": "Payment received — EFT (ref: MTN-EFT-20250205)",
+          "debit": 0.00,
+          "credit": 600000.00,
+          "balance": 0.00
+        }
+      ]
+    },
+    {
+      "customerId": 2,
+      "customerName": "Standard Bank South Africa Ltd",
+      "contactPerson": "Nomvula Dlamini",
+      "email": "corporate.events@standardbank.co.za",
+      "openingBalance": 0.00,
+      "closingBalance": 0.00,
+      "transactions": [
+        {
+          "date": "2025-01-28",
+          "type": "Invoice",
+          "reference": "INV-2025-002",
+          "description": "Conference Package - 500 Delegates 3 Days",
+          "debit": 875000.00,
+          "credit": 0.00,
+          "balance": 875000.00
+        },
+        {
+          "date": "2025-02-01",
+          "type": "Payment",
+          "reference": "PAY-2025-003",
+          "description": "Payment received — RTGS (ref: STD-RTGS-20250201)",
+          "debit": 0.00,
+          "credit": 500000.00,
+          "balance": 375000.00
+        },
+        {
+          "date": "2025-02-20",
+          "type": "Payment",
+          "reference": "PAY-2025-004",
+          "description": "Payment received — Bank Transfer (ref: STD-BT-20250220)",
+          "debit": 0.00,
+          "credit": 375000.00,
+          "balance": 0.00
+        }
+      ]
+    },
+    {
+      "customerId": 3,
+      "customerName": "Discovery Health Pty Ltd",
+      "contactPerson": "Priya Naidoo",
+      "email": "events@discovery.co.za",
+      "openingBalance": 0.00,
+      "closingBalance": 425000.00,
+      "transactions": [
+        {
+          "date": "2025-09-05",
+          "type": "Invoice",
+          "reference": "INV-2025-003",
+          "description": "Executive Conference Package 3 Days",
+          "debit": 425000.00,
+          "credit": 0.00,
+          "balance": 425000.00
+        }
+      ]
+    },
+    {
+      "customerId": 9,
+      "customerName": "RCL Foods Ltd",
+      "contactPerson": "Henk Joubert",
+      "email": "events@rclfoods.com",
+      "openingBalance": 0.00,
+      "closingBalance": 125000.00,
+      "transactions": [
+        {
+          "date": "2025-05-12",
+          "type": "Invoice",
+          "reference": "INV-2025-009",
+          "description": "Valley of Waves Day Pass Corporate — OVERDUE (due 2025-06-11, 111 days past due)",
+          "debit": 125000.00,
+          "credit": 0.00,
+          "balance": 125000.00
+        }
+      ]
+    },
+    {
+      "customerId": 10,
+      "customerName": "Old Mutual Ltd",
+      "contactPerson": "Busisiwe Mkhize",
+      "email": "corporate.events@oldmutual.com",
+      "openingBalance": 0.00,
+      "closingBalance": 925000.00,
+      "transactions": [
+        {
+          "date": "2025-05-28",
+          "type": "Invoice",
+          "reference": "INV-2025-010",
+          "description": "Wedding Banquet Package - Grand Ballroom",
+          "debit": 1850000.00,
+          "credit": 0.00,
+          "balance": 1850000.00
+        },
+        {
+          "date": "2025-06-15",
+          "type": "Payment",
+          "reference": "PAY-2025-009",
+          "description": "Partial payment received — Bank Transfer (ref: OMT-BT-20250615)",
+          "debit": 0.00,
+          "credit": 500000.00,
+          "balance": 1350000.00
+        },
+        {
+          "date": "2025-07-20",
+          "type": "Payment",
+          "reference": "PAY-2025-010",
+          "description": "Partial payment received — EFT (ref: OMT-EFT-20250720)",
+          "debit": 0.00,
+          "credit": 425000.00,
+          "balance": 925000.00
+        }
+      ]
+    },
+    {
+      "customerId": 11,
+      "customerName": "Transnet SOC Ltd",
+      "contactPerson": "Mondli Gungubele",
+      "email": "events@transnet.net",
+      "openingBalance": 0.00,
+      "closingBalance": 765000.00,
+      "transactions": [
+        {
+          "date": "2025-08-15",
+          "type": "Invoice",
+          "reference": "INV-2025-011",
+          "description": "Sun City Hotel Tower - Group Booking",
+          "debit": 765000.00,
+          "credit": 0.00,
+          "balance": 765000.00
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCustomers": 6,
+    "totalInvoiced": 5290000.00,
+    "totalReceived": 3050000.00,
+    "totalOutstanding": 2240000.00,
+    "overdueAmount": 125000.00,
+    "overdueCustomers": 1,
+    "fullyPaidCustomers": 2,
+    "partiallyPaidCustomers": 1,
+    "openCustomers": 2
+  }
+}

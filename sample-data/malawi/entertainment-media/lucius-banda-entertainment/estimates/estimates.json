@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 4,
+    "customerName": "Mtambo Productions Limited",
+    "estimateDateDaysAgo": 57,
+    "expirationDateDaysFromNow": 26,
+    "status": "Sent",
+    "subTotal": 7687244.11,
+    "taxRate": 15,
+    "taxAmount": 1153086.62,
+    "total": 8840330.73,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 57,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 2,
+        "unitPrice": 3843622.06,
+        "amount": 7687244.11,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 56
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 7,
+    "customerName": "Chilima Productions Co.",
+    "estimateDateDaysAgo": 38,
+    "expirationDateDaysFromNow": 40,
+    "status": "Accepted",
+    "subTotal": 1458481.12,
+    "taxRate": 18,
+    "taxAmount": 262526.6,
+    "total": 1721007.72,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 38,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 1,
+        "unitPrice": 1458481.12,
+        "amount": 1458481.12,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 37
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 8,
+    "customerName": "Tembo Creative Agency Solutions",
+    "estimateDateDaysAgo": 21,
+    "expirationDateDaysFromNow": 44,
+    "status": "Declined",
+    "subTotal": 4661252.82,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 4661252.82,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 21,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 3,
+        "unitPrice": 1553750.94,
+        "amount": 4661252.82,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 20
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 4,
+    "customerName": "Mtambo Productions Limited",
+    "estimateDateDaysAgo": 17,
+    "expirationDateDaysFromNow": 30,
+    "status": "Expired",
+    "subTotal": 3501831.85,
+    "taxRate": 15,
+    "taxAmount": 525274.78,
+    "total": 4027106.63,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 17,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 1,
+        "unitPrice": 3501831.85,
+        "amount": 3501831.85,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 16
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 3,
+    "customerName": "Mtambo Creative Agency Holdings",
+    "estimateDateDaysAgo": 45,
+    "expirationDateDaysFromNow": 33,
+    "status": "Declined",
+    "subTotal": 5058956.23,
+    "taxRate": 16,
+    "taxAmount": 809433.0,
+    "total": 5868389.23,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 45,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 1,
+        "unitPrice": 5058956.23,
+        "amount": 5058956.23,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 44
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 3,
+    "customerName": "Mtambo Creative Agency Holdings",
+    "estimateDateDaysAgo": 15,
+    "expirationDateDaysFromNow": 19,
+    "status": "Accepted",
+    "subTotal": 3633526.02,
+    "taxRate": 18,
+    "taxAmount": 654034.68,
+    "total": 4287560.7,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 15,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 5,
+        "unitPrice": 726705.2,
+        "amount": 3633526.02,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 14
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 7,
+    "customerName": "Chilima Productions Co.",
+    "estimateDateDaysAgo": 24,
+    "expirationDateDaysFromNow": 25,
+    "status": "Open",
+    "subTotal": 3901089.85,
+    "taxRate": 16,
+    "taxAmount": 624174.38,
+    "total": 4525264.23,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 24,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 4,
+        "unitPrice": 975272.46,
+        "amount": 3901089.85,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 23
+  }
+]

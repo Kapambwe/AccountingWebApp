@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Salum Music Group Ltd",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-12-03T00:00:00",
+    "dueDate": "2025-01-17T00:00:00",
+    "amount": 2486580.3,
+    "paidAmount": 2486580.3,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Mwenda Entertainment Enterprises",
+    "description": "Studio Recording Session",
+    "billDate": "2025-02-24T00:00:00",
+    "dueDate": "2025-04-10T00:00:00",
+    "amount": 2199537.29,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Hassan Media Enterprises",
+    "description": "PR Campaign",
+    "billDate": "2024-11-13T00:00:00",
+    "dueDate": "2024-12-28T00:00:00",
+    "amount": 5418734.05,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Salum Music Group Solutions",
+    "description": "Tour Logistics",
+    "billDate": "2025-01-21T00:00:00",
+    "dueDate": "2025-02-05T00:00:00",
+    "amount": 6108361.06,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Salum Music Group Ltd",
+    "description": "Travel & Accommodation",
+    "billDate": "2025-02-02T00:00:00",
+    "dueDate": "2025-03-19T00:00:00",
+    "amount": 4464624.42,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Salum Music Group Ltd",
+    "description": "Travel & Accommodation",
+    "billDate": "2025-01-04T00:00:00",
+    "dueDate": "2025-02-18T00:00:00",
+    "amount": 3831053.86,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Kimaro Productions Holdings",
+    "description": "Studio Recording Session",
+    "billDate": "2025-01-03T00:00:00",
+    "dueDate": "2025-01-18T00:00:00",
+    "amount": 4967432.26,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Salum Music Group Ltd",
+    "description": "Tour Logistics",
+    "billDate": "2025-01-11T00:00:00",
+    "dueDate": "2025-01-26T00:00:00",
+    "amount": 1714584.67,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Kapinga Creative Agency Limited",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-10-19T00:00:00",
+    "dueDate": "2024-11-03T00:00:00",
+    "amount": 3715661.65,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Mwenda Music Group Enterprises",
+    "description": "Tour Logistics",
+    "billDate": "2024-11-26T00:00:00",
+    "dueDate": "2025-01-10T00:00:00",
+    "amount": 2543949.01,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Mwenda Entertainment Enterprises",
+    "description": "Management Fee",
+    "billDate": "2024-11-09T00:00:00",
+    "dueDate": "2024-12-24T00:00:00",
+    "amount": 6044103.31,
+    "paidAmount": 1873989.06,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Hassan Media Enterprises",
+    "description": "Studio Recording Session",
+    "billDate": "2024-11-29T00:00:00",
+    "dueDate": "2024-12-29T00:00:00",
+    "amount": 5986527.49,
+    "paidAmount": 1959839.54,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Mwenda Music Group Enterprises",
+    "description": "Social Media Management",
+    "billDate": "2025-01-27T00:00:00",
+    "dueDate": "2025-03-13T00:00:00",
+    "amount": 5248864.44,
+    "paidAmount": 5248864.44,
+    "status": "Paid"
+  },
+  {
+    "id": 14,
+    "billNumber": "BILL-2025-014",
+    "vendorName": "Juma Media Inc.",
+    "description": "Music Video Production",
+    "billDate": "2024-11-06T00:00:00",
+    "dueDate": "2024-12-21T00:00:00",
+    "amount": 5372590.43,
+    "paidAmount": 5372590.43,
+    "status": "Paid"
+  },
+  {
+    "id": 15,
+    "billNumber": "BILL-2025-015",
+    "vendorName": "Kimaro Productions Holdings",
+    "description": "Tour Logistics",
+    "billDate": "2024-10-18T00:00:00",
+    "dueDate": "2024-11-17T00:00:00",
+    "amount": 4015921.64,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  }
+]

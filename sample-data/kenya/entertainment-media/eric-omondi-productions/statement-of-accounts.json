@@ -1,0 +1,150 @@
+{
+  "companyName": "Eric Omondi Productions",
+  "companyAddress": "Kisumu, Kenya",
+  "companyTaxId": "KRA-2454526-EOP",
+  "generatedDate": "2025-09-30",
+  "currency": "KES",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Savanna Industries Ltd",
+      "customerEmail": "finance@savanna.co.ke",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-01",
+          "reference": "INV-K-2025-013",
+          "description": "Endorsement deal - Q2",
+          "debit": 1049000,
+          "credit": 0.0,
+          "balance": 1049000
+        },
+        {
+          "date": "2025-04-05",
+          "reference": "PMT-K-2025-012",
+          "description": "Partial partial payment received",
+          "debit": 0.0,
+          "credit": 400000,
+          "balance": 649000
+        }
+      ],
+      "closingBalance": 649000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Great Rift Solutions Ltd",
+      "customerEmail": "admin@great.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-14",
+          "reference": "INV-K-2025-026",
+          "description": "Digital content licensing fee",
+          "debit": 1014000,
+          "credit": 0.0,
+          "balance": 1014000
+        }
+      ],
+      "closingBalance": 1014000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Nairobi Enterprises Ltd",
+      "customerEmail": "finance@nairobi.co.ke",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-02",
+          "reference": "INV-K-2025-032",
+          "description": "Headline performance - Independence Day Concert",
+          "debit": 500000,
+          "credit": 0.0,
+          "balance": 500000
+        }
+      ],
+      "closingBalance": 500000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Rift Valley Trading Ltd",
+      "customerEmail": "accounts@rift.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-01",
+          "reference": "INV-K-2025-043",
+          "description": "Performance fee - VIP Launch Event",
+          "debit": 631000,
+          "credit": 0.0,
+          "balance": 631000
+        }
+      ],
+      "closingBalance": 631000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Rift Valley Group Ltd",
+      "customerEmail": "billing@rift.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-16",
+          "reference": "INV-K-2025-056",
+          "description": "Royalty payment - streaming Q3 2025",
+          "debit": 1978000,
+          "credit": 0.0,
+          "balance": 1978000
+        }
+      ],
+      "closingBalance": 1978000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Nairobi Solutions Ltd",
+      "customerEmail": "contact@nairobi.co.ke",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-16",
+          "reference": "INV-K-2025-066",
+          "description": "Performance fee - Corporate Event",
+          "debit": 434000,
+          "credit": 0.0,
+          "balance": 434000
+        },
+        {
+          "date": "2025-08-20",
+          "reference": "PMT-K-2025-061",
+          "description": "Settlement payment received",
+          "debit": 0.0,
+          "credit": 434000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 5606000,
+    "totalReceived": 834000,
+    "totalOutstanding": 4772000,
+    "totalOverdue": 4141000.0,
+    "agingSummary": {
+      "current": 631000.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 0.0,
+      "over90days": 4141000.0
+    }
+  }
+}

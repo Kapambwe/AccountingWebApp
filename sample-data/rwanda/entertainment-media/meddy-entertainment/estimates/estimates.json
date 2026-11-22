@@ -1,0 +1,161 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 4,
+    "customerName": "Murekezi Creative Agency Solutions",
+    "estimateDateDaysAgo": 60,
+    "expirationDateDaysFromNow": 32,
+    "status": "Open",
+    "subTotal": 3073889.83,
+    "taxRate": 18,
+    "taxAmount": 553300.17,
+    "total": 3627190.0,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 60,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 1,
+        "unitPrice": 3073889.83,
+        "amount": 3073889.83,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 59
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 10,
+    "customerName": "Murekezi Productions Solutions",
+    "estimateDateDaysAgo": 42,
+    "expirationDateDaysFromNow": 39,
+    "status": "Accepted",
+    "subTotal": 2708719.61,
+    "taxRate": 16,
+    "taxAmount": 433395.14,
+    "total": 3142114.75,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 42,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 3,
+        "unitPrice": 902906.54,
+        "amount": 2708719.61,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 41
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 3,
+    "customerName": "Rugamba Entertainment Co.",
+    "estimateDateDaysAgo": 8,
+    "expirationDateDaysFromNow": 19,
+    "status": "Open",
+    "subTotal": 6183447.29,
+    "taxRate": 18,
+    "taxAmount": 1113020.51,
+    "total": 7296467.8,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 2,
+        "unitPrice": 3091723.65,
+        "amount": 6183447.29,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 7
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 15,
+    "customerName": "Gashumba Creative Agency Enterprises",
+    "estimateDateDaysAgo": 29,
+    "expirationDateDaysFromNow": 18,
+    "status": "Draft",
+    "subTotal": 3578421.59,
+    "taxRate": 18,
+    "taxAmount": 644115.89,
+    "total": 4222537.48,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 29,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 2,
+        "unitPrice": 1789210.79,
+        "amount": 3578421.59,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 3,
+    "customerName": "Rugamba Entertainment Co.",
+    "estimateDateDaysAgo": 55,
+    "expirationDateDaysFromNow": 41,
+    "status": "Draft",
+    "subTotal": 6779458.5,
+    "taxRate": 15,
+    "taxAmount": 1016918.78,
+    "total": 7796377.28,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 55,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 1,
+        "unitPrice": 6779458.5,
+        "amount": 6779458.5,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 6,
+    "customerName": "Kagame Music Group Ltd",
+    "estimateDateDaysAgo": 8,
+    "expirationDateDaysFromNow": 40,
+    "status": "Draft",
+    "subTotal": 7279466.6,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 7279466.6,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 4,
+        "unitPrice": 1819866.65,
+        "amount": 7279466.6,
+        "itemType": "Service"
+      }
+    ]
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "clientName": "DHL Ethiopia PLC",
+    "customerId": 1,
+    "description": "Annual Air Freight Partnership Agreement 2025-2026",
+    "status": "Accepted",
+    "validityDays": 30,
+    "paymentTermsDays": 30,
+    "createdBy": "VP Cargo Sales",
+    "notes": "Annual agreement covering Addis-Frankfurt and Addis-Dubai routes; includes guaranteed capacity block.",
+    "currency": "ETB",
+    "taxRate": 15.0,
+    "subTotal": 2500000.00,
+    "taxAmount": 375000.00,
+    "total": 2875000.00,
+    "lines": [
+      {
+        "id": 1,
+        "description": "Air freight charges — international routes (block space agreement)",
+        "quantity": 1,
+        "unitPrice": 1800000.00,
+        "amount": 1800000.00
+      },
+      {
+        "id": 2,
+        "description": "Fuel surcharge — 20% of base freight",
+        "quantity": 1,
+        "unitPrice": 360000.00,
+        "amount": 360000.00
+      },
+      {
+        "id": 3,
+        "description": "Cargo handling & ramp fees",
+        "quantity": 1,
+        "unitPrice": 240000.00,
+        "amount": 240000.00
+      },
+      {
+        "id": 4,
+        "description": "Customs clearance documentation",
+        "quantity": 1,
+        "unitPrice": 100000.00,
+        "amount": 100000.00
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "clientName": "Cainiao Logistics Ethiopia",
+    "customerId": 4,
+    "description": "Charter Cargo Flight Services — Shanghai-Addis Route",
+    "status": "Sent",
+    "validityDays": 45,
+    "paymentTermsDays": 45,
+    "createdBy": "Commercial Director",
+    "notes": "Weekly charter frequency proposed; price valid for 45 days pending route authority approval.",
+    "currency": "ETB",
+    "taxRate": 15.0,
+    "subTotal": 3000000.00,
+    "taxAmount": 450000.00,
+    "total": 3450000.00,
+    "lines": [
+      {
+        "id": 1,
+        "description": "Charter flight operation fee — PVG-ADD (B777F, 90MT)",
+        "quantity": 1,
+        "unitPrice": 2200000.00,
+        "amount": 2200000.00
+      },
+      {
+        "id": 2,
+        "description": "Fuel surcharge — long-haul international",
+        "quantity": 1,
+        "unitPrice": 440000.00,
+        "amount": 440000.00
+      },
+      {
+        "id": 3,
+        "description": "Ground handling & ramp services both ends",
+        "quantity": 1,
+        "unitPrice": 220000.00,
+        "amount": 220000.00
+      },
+      {
+        "id": 4,
+        "description": "Documentation, regulatory & customs compliance",
+        "quantity": 1,
+        "unitPrice": 140000.00,
+        "amount": 140000.00
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "clientName": "WHO Ethiopia Country Office",
+    "customerId": 12,
+    "description": "Pharmaceutical Cold Chain Express Delivery Contract",
+    "status": "Draft",
+    "validityDays": 60,
+    "paymentTermsDays": 30,
+    "createdBy": "Key Account Manager",
+    "notes": "Temperature-sensitive medical supplies; 2-8°C cold chain maintained throughout. Awaiting WHO procurement approval.",
+    "currency": "ETB",
+    "taxRate": 15.0,
+    "subTotal": 850000.00,
+    "taxAmount": 127500.00,
+    "total": 977500.00,
+    "lines": [
+      {
+        "id": 1,
+        "description": "Air freight — pharmaceutical cargo (temp-controlled, 2-8°C)",
+        "quantity": 1,
+        "unitPrice": 500000.00,
+        "amount": 500000.00
+      },
+      {
+        "id": 2,
+        "description": "Cold chain handling surcharge",
+        "quantity": 1,
+        "unitPrice": 200000.00,
+        "amount": 200000.00
+      },
+      {
+        "id": 3,
+        "description": "Priority cargo handling & expedited clearance fees",
+        "quantity": 1,
+        "unitPrice": 100000.00,
+        "amount": 100000.00
+      },
+      {
+        "id": 4,
+        "description": "Customs clearance & regulatory documentation",
+        "quantity": 1,
+        "unitPrice": 50000.00,
+        "amount": 50000.00
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "clientName": "Ethiopian Horticulture Producers Association",
+    "customerId": 8,
+    "description": "Cut Flower Export Annual Contract AAD-AMS/CDG",
+    "status": "Expired",
+    "validityDays": 30,
+    "paymentTermsDays": 30,
+    "createdBy": "Key Account Manager",
+    "notes": "Seasonal flower export covering Valentine, Easter and Mother's Day peaks. Estimate expired — renewal in progress.",
+    "currency": "ETB",
+    "taxRate": 15.0,
+    "subTotal": 600000.00,
+    "taxAmount": 90000.00,
+    "total": 690000.00,
+    "lines": [
+      {
+        "id": 1,
+        "description": "Air freight — fresh cut flowers export (temp-controlled, +2°C to +8°C)",
+        "quantity": 1,
+        "unitPrice": 380000.00,
+        "amount": 380000.00
+      },
+      {
+        "id": 2,
+        "description": "Cold chain & pre-cooling temperature control surcharge",
+        "quantity": 1,
+        "unitPrice": 120000.00,
+        "amount": 120000.00
+      },
+      {
+        "id": 3,
+        "description": "Pre-cooling facility & packaging handling",
+        "quantity": 1,
+        "unitPrice": 75000.00,
+        "amount": 75000.00
+      },
+      {
+        "id": 4,
+        "description": "Phytosanitary inspection & export documentation",
+        "quantity": 1,
+        "unitPrice": 25000.00,
+        "amount": 25000.00
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "clientName": "Amazon Logistics Ethiopia",
+    "customerId": 5,
+    "description": "Amazon Prime Air Ethiopia Fulfillment Cargo Contract",
+    "status": "Open",
+    "validityDays": 45,
+    "paymentTermsDays": 45,
+    "createdBy": "Commercial Director",
+    "notes": "High-volume e-commerce fulfillment cargo for Pan-African distribution. Negotiation ongoing with Amazon Global Logistics.",
+    "currency": "ETB",
+    "taxRate": 15.0,
+    "subTotal": 3400000.00,
+    "taxAmount": 510000.00,
+    "total": 3910000.00,
+    "lines": [
+      {
+        "id": 1,
+        "description": "Air freight — e-commerce fulfillment cargo AAD-CDG/LHR/FRA",
+        "quantity": 1,
+        "unitPrice": 2500000.00,
+        "amount": 2500000.00
+      },
+      {
+        "id": 2,
+        "description": "Express fuel surcharge — priority routing",
+        "quantity": 1,
+        "unitPrice": 500000.00,
+        "amount": 500000.00
+      },
+      {
+        "id": 3,
+        "description": "Priority express handling & sort facility fees",
+        "quantity": 1,
+        "unitPrice": 280000.00,
+        "amount": 280000.00
+      },
+      {
+        "id": 4,
+        "description": "Customs clearance & import documentation",
+        "quantity": 1,
+        "unitPrice": 120000.00,
+        "amount": 120000.00
+      }
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "companyName": "Diamond Platnumz Wcb",
+  "companyAddress": "Arusha, Tanzania",
+  "companyTaxId": "TIN-6452634-DPW",
+  "generatedDate": "2025-09-30",
+  "currency": "TZS",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Dodoma Group Ltd",
+      "customerEmail": "info@dodoma.co.tz",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-22",
+          "reference": "INV-T-2025-017",
+          "description": "Headline performance - VIP Launch Event",
+          "debit": 9739000,
+          "credit": 0.0,
+          "balance": 9739000
+        }
+      ],
+      "closingBalance": 9739000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Arusha Holdings Ltd",
+      "customerEmail": "admin@arusha.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-01",
+          "reference": "INV-T-2025-028",
+          "description": "Royalty payment - streaming Q2 2025",
+          "debit": 11081500,
+          "credit": 0.0,
+          "balance": 11081500
+        }
+      ],
+      "closingBalance": 11081500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Zanzibar Holdings Ltd",
+      "customerEmail": "accounts@zanzibar.co.tz",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-28",
+          "reference": "INV-T-2025-038",
+          "description": "Digital content licensing fee",
+          "debit": 19999000,
+          "credit": 0.0,
+          "balance": 19999000
+        },
+        {
+          "date": "2025-04-27",
+          "reference": "PMT-T-2025-032",
+          "description": "Partial settlement payment received",
+          "debit": 0.0,
+          "credit": 11142500,
+          "balance": 8856500
+        }
+      ],
+      "closingBalance": 8856500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Kilimanjaro Industries Ltd",
+      "customerEmail": "contact@kilimanjaro.co.tz",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-15",
+          "reference": "INV-T-2025-048",
+          "description": "Merchandise partnership revenue",
+          "debit": 8579500,
+          "credit": 0.0,
+          "balance": 8579500
+        },
+        {
+          "date": "2025-07-25",
+          "reference": "PMT-T-2025-048",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 8579500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 49399000,
+    "totalReceived": 19722000,
+    "totalOutstanding": 29677000,
+    "totalOverdue": 29677000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 20820500.0,
+      "over90days": 8856500.0
+    }
+  }
+}

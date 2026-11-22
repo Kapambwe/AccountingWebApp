@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 7,
+    "customerName": "Mosarwa Music Group Inc.",
+    "estimateDateDaysAgo": 5,
+    "expirationDateDaysFromNow": 22,
+    "status": "Sent",
+    "subTotal": 32479.87,
+    "taxRate": 15,
+    "taxAmount": 4871.98,
+    "total": 37351.85,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 5,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 1,
+        "unitPrice": 32479.87,
+        "amount": 32479.87,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 4
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 3,
+    "customerName": "Letshego Entertainment Ltd",
+    "estimateDateDaysAgo": 45,
+    "expirationDateDaysFromNow": 17,
+    "status": "Sent",
+    "subTotal": 25686.11,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 25686.11,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 45,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 2,
+        "unitPrice": 12843.06,
+        "amount": 25686.11,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 44
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 3,
+    "customerName": "Letshego Entertainment Ltd",
+    "estimateDateDaysAgo": 55,
+    "expirationDateDaysFromNow": 41,
+    "status": "Sent",
+    "subTotal": 56688.5,
+    "taxRate": 16,
+    "taxAmount": 9070.16,
+    "total": 65758.66,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 55,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 4,
+        "unitPrice": 14172.12,
+        "amount": 56688.5,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 54
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 10,
+    "customerName": "Gaolathe Media Inc.",
+    "estimateDateDaysAgo": 7,
+    "expirationDateDaysFromNow": 17,
+    "status": "Sent",
+    "subTotal": 132135.29,
+    "taxRate": 18,
+    "taxAmount": 23784.35,
+    "total": 155919.64,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 7,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 2,
+        "unitPrice": 66067.65,
+        "amount": 132135.29,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 6
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 3,
+    "customerName": "Letshego Entertainment Ltd",
+    "estimateDateDaysAgo": 33,
+    "expirationDateDaysFromNow": 25,
+    "status": "Expired",
+    "subTotal": 80941.27,
+    "taxRate": 18,
+    "taxAmount": 14569.43,
+    "total": 95510.7,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 33,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 5,
+        "unitPrice": 16188.25,
+        "amount": 80941.27,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 32
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Mtambo Productions Ltd",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-11-11T00:00:00",
+    "dueDate": "2024-12-11T00:00:00",
+    "amount": 4195421.54,
+    "paidAmount": 2446840.33,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Muluzi Media Solutions",
+    "description": "Management Fee",
+    "billDate": "2024-10-26T00:00:00",
+    "dueDate": "2024-12-10T00:00:00",
+    "amount": 3734941.49,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Chakwera Music Group Ltd",
+    "description": "Studio Recording Session",
+    "billDate": "2025-03-12T00:00:00",
+    "dueDate": "2025-04-11T00:00:00",
+    "amount": 4736695.46,
+    "paidAmount": 2511746.7,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Nkosi Creative Agency Co.",
+    "description": "Travel & Accommodation",
+    "billDate": "2025-03-13T00:00:00",
+    "dueDate": "2025-04-27T00:00:00",
+    "amount": 6402430.32,
+    "paidAmount": 6402430.32,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Phiri Media Holdings",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-09-23T00:00:00",
+    "dueDate": "2024-10-08T00:00:00",
+    "amount": 5881612.74,
+    "paidAmount": 5881612.74,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Muluzi Media Solutions",
+    "description": "Management Fee",
+    "billDate": "2025-01-03T00:00:00",
+    "dueDate": "2025-02-17T00:00:00",
+    "amount": 2991838.95,
+    "paidAmount": 2991838.95,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Chakwera Music Group Ltd",
+    "description": "Music Video Production",
+    "billDate": "2025-01-04T00:00:00",
+    "dueDate": "2025-01-19T00:00:00",
+    "amount": 1882129.95,
+    "paidAmount": 1351362.74,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Nkosi Creative Agency Co.",
+    "description": "Tour Logistics",
+    "billDate": "2025-01-11T00:00:00",
+    "dueDate": "2025-02-10T00:00:00",
+    "amount": 2366554.63,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Muluzi Media Solutions",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-11-16T00:00:00",
+    "dueDate": "2024-12-31T00:00:00",
+    "amount": 566645.59,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  }
+]

@@ -1,0 +1,158 @@
+{
+  "companyName": "Atlasaone Music Group",
+  "companyAddress": "Serowe, Botswana",
+  "companyTaxId": "BURS-3109632-AMG",
+  "generatedDate": "2025-09-30",
+  "currency": "BWP",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Chobe Trading (Pty) Ltd",
+      "customerEmail": "contact@chobe.co.bw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-17",
+          "reference": "INV-B-2025-014",
+          "description": "Digital content licensing fee",
+          "debit": 138000,
+          "credit": 0.0,
+          "balance": 138000
+        }
+      ],
+      "closingBalance": 138000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Okavango Solutions Ltd",
+      "customerEmail": "billing@okavango.co.bw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-22",
+          "reference": "INV-B-2025-027",
+          "description": "Royalty payment - streaming Q3 2025",
+          "debit": 33500,
+          "credit": 0.0,
+          "balance": 33500
+        },
+        {
+          "date": "2025-04-22",
+          "reference": "PMT-B-2025-023",
+          "description": "Payment received - mobile money",
+          "debit": 0.0,
+          "credit": 33500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Tuli Holdings Ltd",
+      "customerEmail": "admin@tuli.co.bw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-22",
+          "reference": "INV-B-2025-037",
+          "description": "Royalty payment - streaming Q2 2025",
+          "debit": 126000,
+          "credit": 0.0,
+          "balance": 126000
+        }
+      ],
+      "closingBalance": 126000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Gaborone Enterprises (Pty) Ltd",
+      "customerEmail": "admin@gaborone.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-07",
+          "reference": "INV-B-2025-047",
+          "description": "Performance fee - Independence Day Concert",
+          "debit": 123000,
+          "credit": 0.0,
+          "balance": 123000
+        }
+      ],
+      "closingBalance": 123000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Mokolodi Enterprises (Pty) Ltd",
+      "customerEmail": "contact@mokolodi.co.bw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-14",
+          "reference": "INV-B-2025-057",
+          "description": "Brand ambassador fee - Jul-Sep campaign",
+          "debit": 17500,
+          "credit": 0.0,
+          "balance": 17500
+        },
+        {
+          "date": "2025-03-18",
+          "reference": "PMT-B-2025-055",
+          "description": "Partial payment received - mobile money",
+          "debit": 0.0,
+          "credit": 8500,
+          "balance": 9000
+        }
+      ],
+      "closingBalance": 9000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Chobe Trading (Pty) Ltd",
+      "customerEmail": "accounts@chobe.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-07",
+          "reference": "INV-B-2025-065",
+          "description": "Brand ambassador fee - Jul-Sep campaign",
+          "debit": 179000,
+          "credit": 0.0,
+          "balance": 179000
+        },
+        {
+          "date": "2025-02-11",
+          "reference": "PMT-B-2025-061",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 179000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 617000,
+    "totalReceived": 221000,
+    "totalOutstanding": 396000,
+    "totalOverdue": 270000.0,
+    "agingSummary": {
+      "current": 126000.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 0.0,
+      "over90days": 270000.0
+    }
+  }
+}

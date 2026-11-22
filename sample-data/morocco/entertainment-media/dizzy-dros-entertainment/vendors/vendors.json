@@ -1,0 +1,122 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Hassan Alaoui",
+      "companyName": "Benali Music Group Enterprises",
+      "contactPerson": "Hassan Alaoui",
+      "email": "hassanalaoui@alaoui.ma",
+      "phone": "+212 428 350 181",
+      "city": "Agadir",
+      "country": "Morocco",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-212669",
+      "totalAmountOwed": 66960.88
+    },
+    {
+      "id": 2,
+      "vendorName": "Youssef Tahiri",
+      "companyName": "Kettani Media Limited",
+      "contactPerson": "Youssef Tahiri",
+      "email": "yousseftahir@tahiri.ma",
+      "phone": "+212 446 373 847",
+      "city": "Tangier",
+      "country": "Morocco",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-884520",
+      "totalAmountOwed": 6132.54
+    },
+    {
+      "id": 3,
+      "vendorName": "Omar Benhaddou",
+      "companyName": "El Idrissi Music Group Ltd",
+      "contactPerson": "Omar Benhaddou",
+      "email": "omarbenhaddo@benhaddou.ma",
+      "phone": "+212 739 784 280",
+      "city": "Oujda",
+      "country": "Morocco",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-866409",
+      "totalAmountOwed": 40490.28
+    },
+    {
+      "id": 4,
+      "vendorName": "Salma Kettani",
+      "companyName": "Tahiri Entertainment Enterprises",
+      "contactPerson": "Salma Kettani",
+      "email": "salmakettani@kettani.ma",
+      "phone": "+212 065 782 386",
+      "city": "Meknes",
+      "country": "Morocco",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-496787",
+      "totalAmountOwed": 13687.38
+    },
+    {
+      "id": 5,
+      "vendorName": "Fatima Benhaddou",
+      "companyName": "Tahiri Media Inc.",
+      "contactPerson": "Fatima Benhaddou",
+      "email": "fatimabenhad@benhaddou.ma",
+      "phone": "+212 351 730 765",
+      "city": "Marrakech",
+      "country": "Morocco",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-314060",
+      "totalAmountOwed": 1871.3
+    },
+    {
+      "id": 6,
+      "vendorName": "Laila Benkirane",
+      "companyName": "El Fassi Entertainment Holdings",
+      "contactPerson": "Laila Benkirane",
+      "email": "lailabenkira@benkirane.ma",
+      "phone": "+212 769 410 251",
+      "city": "Agadir",
+      "country": "Morocco",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-819419",
+      "totalAmountOwed": 5977.28
+    },
+    {
+      "id": 7,
+      "vendorName": "Karim Benhaddou",
+      "companyName": "Benhaddou Music Group Inc.",
+      "contactPerson": "Karim Benhaddou",
+      "email": "karimbenhadd@benhaddou.ma",
+      "phone": "+212 452 511 039",
+      "city": "Marrakech",
+      "country": "Morocco",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-460592",
+      "totalAmountOwed": 13110.24
+    },
+    {
+      "id": 8,
+      "vendorName": "Rachid Benhaddou",
+      "companyName": "Tahiri Creative Agency Solutions",
+      "contactPerson": "Rachid Benhaddou",
+      "email": "rachidbenhad@benhaddou.ma",
+      "phone": "+212 118 512 058",
+      "city": "Rabat",
+      "country": "Morocco",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-680732",
+      "totalAmountOwed": 509.39
+    },
+    {
+      "id": 9,
+      "vendorName": "Amine Alaoui",
+      "companyName": "Benhaddou Creative Agency Limited",
+      "contactPerson": "Amine Alaoui",
+      "email": "aminealaoui@alaoui.ma",
+      "phone": "+212 875 518 517",
+      "city": "Marrakech",
+      "country": "Morocco",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-494649",
+      "totalAmountOwed": 9841.15
+    }
+  ],
+  "vendorCredits": []
+}

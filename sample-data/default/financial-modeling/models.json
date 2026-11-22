@@ -1,0 +1,77 @@
+[
+  {
+    "name": "General Business Forecast",
+    "description": "Flexible forecast for small businesses that need revenue, cost, and cash planning.",
+    "modelType": "Forecast",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2026-12-31T00:00:00",
+    "periodType": "Monthly",
+    "currency": "ZMW",
+    "status": "Active",
+    "createdBy": "System",
+    "modifiedBy": "System",
+    "createdDate": "2026-05-01T00:00:00",
+    "modifiedDate": "2026-05-01T00:00:00",
+    "assumptions": [
+      {
+        "category": "Revenue",
+        "name": "Revenue",
+        "description": "Top-line revenue growth",
+        "type": "PercentGrowth",
+        "unit": "ZMW/month",
+        "baseValue": 150000.0,
+        "growthRate": 0.05,
+        "displayOrder": 1,
+        "isEditable": true,
+        "isKeyDriver": true
+      },
+      {
+        "category": "Cost",
+        "name": "COGS Percentage",
+        "description": "Direct costs as a share of revenue",
+        "type": "Constant",
+        "unit": "%",
+        "constantValue": 0.6,
+        "displayOrder": 2,
+        "isEditable": true,
+        "isKeyDriver": true
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Base Case",
+        "description": "Most likely outcome",
+        "type": "Base",
+        "isBaseline": true,
+        "probability": 0.6,
+        "assumptionOverrides": []
+      },
+      {
+        "name": "Optimistic",
+        "description": "Stronger demand and better margins",
+        "type": "Optimistic",
+        "isBaseline": false,
+        "probability": 0.2,
+        "assumptionOverrides": [
+          {
+            "assumptionName": "Revenue",
+            "overrideGrowthRate": 0.08
+          }
+        ]
+      },
+      {
+        "name": "Pessimistic",
+        "description": "Slower sales and rising costs",
+        "type": "Pessimistic",
+        "isBaseline": false,
+        "probability": 0.2,
+        "assumptionOverrides": [
+          {
+            "assumptionName": "Revenue",
+            "overrideGrowthRate": 0.02
+          }
+        ]
+      }
+    ]
+  }
+]

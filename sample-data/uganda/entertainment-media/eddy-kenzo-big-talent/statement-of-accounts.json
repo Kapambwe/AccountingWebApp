@@ -1,0 +1,124 @@
+{
+  "companyName": "Eddy Kenzo Big Talent",
+  "companyAddress": "Mbarara, Uganda",
+  "companyTaxId": "URA-5192683-EKBT",
+  "generatedDate": "2025-09-30",
+  "currency": "UGX",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Bunyoro Group Ltd",
+      "customerEmail": "admin@bunyoro.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-11",
+          "reference": "INV-U-2025-013",
+          "description": "Endorsement deal - Q2",
+          "debit": 7036500,
+          "credit": 0.0,
+          "balance": 7036500
+        },
+        {
+          "date": "2025-05-07",
+          "reference": "PMT-U-2025-011",
+          "description": "Payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 7036500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Busoga Enterprises Ltd",
+      "customerEmail": "finance@busoga.co.ug",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-19",
+          "reference": "INV-U-2025-026",
+          "description": "Endorsement deal - Q2",
+          "debit": 15225500,
+          "credit": 0.0,
+          "balance": 15225500
+        }
+      ],
+      "closingBalance": 15225500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Pearl Holdings Ltd",
+      "customerEmail": "billing@pearl.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-16",
+          "reference": "INV-U-2025-037",
+          "description": "Performance fee - Year-End Gala",
+          "debit": 19568500,
+          "credit": 0.0,
+          "balance": 19568500
+        }
+      ],
+      "closingBalance": 19568500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Busoga Trading Ltd",
+      "customerEmail": "contact@busoga.co.ug",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-12",
+          "reference": "INV-U-2025-041",
+          "description": "Merchandise partnership revenue",
+          "debit": 3638000,
+          "credit": 0.0,
+          "balance": 3638000
+        }
+      ],
+      "closingBalance": 3638000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Victoria Holdings Ltd",
+      "customerEmail": "accounts@victoria.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-27",
+          "reference": "INV-U-2025-053",
+          "description": "Royalty payment - streaming Q3 2025",
+          "debit": 14391500,
+          "credit": 0.0,
+          "balance": 14391500
+        }
+      ],
+      "closingBalance": 14391500,
+      "status": "Outstanding"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 59860000,
+    "totalReceived": 7036500,
+    "totalOutstanding": 52823500,
+    "totalOverdue": 23206500.0,
+    "agingSummary": {
+      "current": 29617000.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 23206500.0,
+      "over90days": 0.0
+    }
+  }
+}

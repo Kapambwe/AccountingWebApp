@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 13,
+    "customerName": "Adeyemi Entertainment Limited",
+    "estimateDateDaysAgo": 8,
+    "expirationDateDaysFromNow": 25,
+    "status": "Expired",
+    "subTotal": 4073980.1,
+    "taxRate": 15,
+    "taxAmount": 611097.02,
+    "total": 4685077.12,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 5,
+        "unitPrice": 814796.02,
+        "amount": 4073980.1,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 7
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 3,
+    "customerName": "Adeleke Productions Inc.",
+    "estimateDateDaysAgo": 47,
+    "expirationDateDaysFromNow": 45,
+    "status": "Declined",
+    "subTotal": 4380904.11,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 4380904.11,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 47,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 5,
+        "unitPrice": 876180.82,
+        "amount": 4380904.11,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 46
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 2,
+    "customerName": "Okeke Music Group Enterprises",
+    "estimateDateDaysAgo": 38,
+    "expirationDateDaysFromNow": 38,
+    "status": "Draft",
+    "subTotal": 15070802.28,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 15070802.28,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 38,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 5,
+        "unitPrice": 3014160.46,
+        "amount": 15070802.28,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 4,
+    "customerName": "Oduya Productions Ltd",
+    "estimateDateDaysAgo": 14,
+    "expirationDateDaysFromNow": 25,
+    "status": "Expired",
+    "subTotal": 2949493.65,
+    "taxRate": 16,
+    "taxAmount": 471918.98,
+    "total": 3421412.63,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 14,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 2,
+        "unitPrice": 1474746.82,
+        "amount": 2949493.65,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 13
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 10,
+    "customerName": "Oduya Music Group Solutions",
+    "estimateDateDaysAgo": 59,
+    "expirationDateDaysFromNow": 39,
+    "status": "Expired",
+    "subTotal": 5339006.18,
+    "taxRate": 18,
+    "taxAmount": 961021.11,
+    "total": 6300027.29,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 59,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 4,
+        "unitPrice": 1334751.54,
+        "amount": 5339006.18,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 58
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 10,
+    "customerName": "Oduya Music Group Solutions",
+    "estimateDateDaysAgo": 8,
+    "expirationDateDaysFromNow": 20,
+    "status": "Accepted",
+    "subTotal": 10790194.52,
+    "taxRate": 18,
+    "taxAmount": 1942235.01,
+    "total": 12732429.53,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 1,
+        "unitPrice": 10790194.52,
+        "amount": 10790194.52,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 7
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 13,
+    "customerName": "Adeyemi Entertainment Limited",
+    "estimateDateDaysAgo": 30,
+    "expirationDateDaysFromNow": 36,
+    "status": "Draft",
+    "subTotal": 13030812.67,
+    "taxRate": 18,
+    "taxAmount": 2345546.28,
+    "total": 15376358.95,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 30,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 4,
+        "unitPrice": 3257703.17,
+        "amount": 13030812.67,
+        "itemType": "Service"
+      }
+    ]
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 6,
+    "customerName": "Kyeyune Productions Co.",
+    "estimateDateDaysAgo": 59,
+    "expirationDateDaysFromNow": 28,
+    "status": "Expired",
+    "subTotal": 24412054.0,
+    "taxRate": 18,
+    "taxAmount": 4394169.72,
+    "total": 28806223.72,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 59,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 1,
+        "unitPrice": 24412054.0,
+        "amount": 24412054.0,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 58
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 3,
+    "customerName": "Kyeyune Productions Solutions",
+    "estimateDateDaysAgo": 12,
+    "expirationDateDaysFromNow": 37,
+    "status": "Sent",
+    "subTotal": 14047853.28,
+    "taxRate": 16,
+    "taxAmount": 2247656.52,
+    "total": 16295509.8,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 12,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 5,
+        "unitPrice": 2809570.66,
+        "amount": 14047853.28,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 11
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 4,
+    "customerName": "Kiggundu Media Co.",
+    "estimateDateDaysAgo": 24,
+    "expirationDateDaysFromNow": 23,
+    "status": "Expired",
+    "subTotal": 3824073.18,
+    "taxRate": 16,
+    "taxAmount": 611851.71,
+    "total": 4435924.89,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 24,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 2,
+        "unitPrice": 1912036.59,
+        "amount": 3824073.18,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 23
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 4,
+    "customerName": "Kiggundu Media Co.",
+    "estimateDateDaysAgo": 10,
+    "expirationDateDaysFromNow": 45,
+    "status": "Open",
+    "subTotal": 14497142.21,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 14497142.21,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 10,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 4,
+        "unitPrice": 3624285.55,
+        "amount": 14497142.21,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 9
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 1,
+    "customerName": "Kiggundu Creative Agency Solutions",
+    "estimateDateDaysAgo": 51,
+    "expirationDateDaysFromNow": 28,
+    "status": "Declined",
+    "subTotal": 13812327.13,
+    "taxRate": 18,
+    "taxAmount": 2486218.88,
+    "total": 16298546.01,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 51,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 3,
+        "unitPrice": 4604109.04,
+        "amount": 13812327.13,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 50
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 2,
+    "customerName": "Baingana Creative Agency Group",
+    "estimateDateDaysAgo": 59,
+    "expirationDateDaysFromNow": 44,
+    "status": "Declined",
+    "subTotal": 551556.76,
+    "taxRate": 15,
+    "taxAmount": 82733.51,
+    "total": 634290.27,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 59,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 3,
+        "unitPrice": 183852.25,
+        "amount": 551556.76,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 58
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 2,
+    "customerName": "Baingana Creative Agency Group",
+    "estimateDateDaysAgo": 20,
+    "expirationDateDaysFromNow": 34,
+    "status": "Accepted",
+    "subTotal": 38829963.06,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 38829963.06,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 20,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 4,
+        "unitPrice": 9707490.77,
+        "amount": 38829963.06,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 19
+  }
+]

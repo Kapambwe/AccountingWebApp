@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 6,
+    "customerName": "Ramaphosa Entertainment Solutions",
+    "estimateDateDaysAgo": 16,
+    "expirationDateDaysFromNow": 22,
+    "status": "Draft",
+    "subTotal": 38411.67,
+    "taxRate": 15,
+    "taxAmount": 5761.75,
+    "total": 44173.42,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 16,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 2,
+        "unitPrice": 19205.83,
+        "amount": 38411.67,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 1,
+    "customerName": "Radebe Productions Inc.",
+    "estimateDateDaysAgo": 36,
+    "expirationDateDaysFromNow": 42,
+    "status": "Open",
+    "subTotal": 17308.71,
+    "taxRate": 15,
+    "taxAmount": 2596.31,
+    "total": 19905.02,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 36,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 5,
+        "unitPrice": 3461.74,
+        "amount": 17308.71,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 35
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 6,
+    "customerName": "Ramaphosa Entertainment Solutions",
+    "estimateDateDaysAgo": 35,
+    "expirationDateDaysFromNow": 28,
+    "status": "Sent",
+    "subTotal": 347547.81,
+    "taxRate": 18,
+    "taxAmount": 62558.61,
+    "total": 410106.42,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 35,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 3,
+        "unitPrice": 115849.27,
+        "amount": 347547.81,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 34
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 5,
+    "customerName": "Dlamin Media Co.",
+    "estimateDateDaysAgo": 50,
+    "expirationDateDaysFromNow": 29,
+    "status": "Open",
+    "subTotal": 217929.21,
+    "taxRate": 16,
+    "taxAmount": 34868.67,
+    "total": 252797.88,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 50,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 4,
+        "unitPrice": 54482.3,
+        "amount": 217929.21,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 49
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 2,
+    "customerName": "Mandela Media Inc.",
+    "estimateDateDaysAgo": 52,
+    "expirationDateDaysFromNow": 20,
+    "status": "Draft",
+    "subTotal": 218396.66,
+    "taxRate": 18,
+    "taxAmount": 39311.4,
+    "total": 257708.06,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 52,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 1,
+        "unitPrice": 218396.66,
+        "amount": 218396.66,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 10,
+    "customerName": "Shabalala Entertainment Solutions",
+    "estimateDateDaysAgo": 57,
+    "expirationDateDaysFromNow": 30,
+    "status": "Accepted",
+    "subTotal": 239778.84,
+    "taxRate": 15,
+    "taxAmount": 35966.83,
+    "total": 275745.67,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 57,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 5,
+        "unitPrice": 47955.77,
+        "amount": 239778.84,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 56
+  }
+]

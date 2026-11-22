@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Motsepe Entertainment Solutions",
+    "description": "Social Media Management",
+    "billDate": "2024-12-07T00:00:00",
+    "dueDate": "2025-01-06T00:00:00",
+    "amount": 232634.93,
+    "paidAmount": 232634.93,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Molefe Productions Holdings",
+    "description": "Tour Logistics",
+    "billDate": "2024-12-23T00:00:00",
+    "dueDate": "2025-01-07T00:00:00",
+    "amount": 142583.23,
+    "paidAmount": 142583.23,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Molefe Productions Holdings",
+    "description": "PR Campaign",
+    "billDate": "2024-11-11T00:00:00",
+    "dueDate": "2024-11-26T00:00:00",
+    "amount": 343096.53,
+    "paidAmount": 343096.53,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Motsepe Entertainment Solutions",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-12-21T00:00:00",
+    "dueDate": "2025-01-05T00:00:00",
+    "amount": 221183.02,
+    "paidAmount": 221183.02,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Radebe Music Group Group",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-10-12T00:00:00",
+    "dueDate": "2024-10-27T00:00:00",
+    "amount": 340928.8,
+    "paidAmount": 340928.8,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Nxumalo Creative Agency Co.",
+    "description": "PR Campaign",
+    "billDate": "2024-12-17T00:00:00",
+    "dueDate": "2025-01-16T00:00:00",
+    "amount": 61078.24,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Zuma Creative Agency Ltd",
+    "description": "Tour Logistics",
+    "billDate": "2025-01-08T00:00:00",
+    "dueDate": "2025-02-22T00:00:00",
+    "amount": 225725.72,
+    "paidAmount": 225725.72,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Radebe Music Group Group",
+    "description": "Tour Logistics",
+    "billDate": "2024-12-25T00:00:00",
+    "dueDate": "2025-01-24T00:00:00",
+    "amount": 30470.77,
+    "paidAmount": 30470.77,
+    "status": "Paid"
+  }
+]

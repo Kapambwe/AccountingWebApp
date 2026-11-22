@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Nwosu Productions Holdings",
+    "description": "Streaming Royalty",
+    "invoiceDate": "2024-12-11T00:00:00",
+    "dueDate": "2024-12-26T00:00:00",
+    "amount": 3064077.25,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 9
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Adeyemi Entertainment Enterprises",
+    "description": "Music Licensing",
+    "invoiceDate": "2025-02-04T00:00:00",
+    "dueDate": "2025-03-21T00:00:00",
+    "amount": 6694937.93,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 7
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Anyanwu Creative Agency Group",
+    "description": "Performance Fee",
+    "invoiceDate": "2024-12-23T00:00:00",
+    "dueDate": "2025-02-06T00:00:00",
+    "amount": 14718040.3,
+    "receivedAmount": 14718040.3,
+    "status": "Paid",
+    "customerId": 14
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Adeyemi Entertainment Enterprises",
+    "description": "Music Licensing",
+    "invoiceDate": "2024-11-16T00:00:00",
+    "dueDate": "2025-01-15T00:00:00",
+    "amount": 3981740.78,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 7
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Anyanwu Creative Agency Group",
+    "description": "Music Licensing",
+    "invoiceDate": "2024-09-20T00:00:00",
+    "dueDate": "2024-10-20T00:00:00",
+    "amount": 17872373.4,
+    "receivedAmount": 13422202.21,
+    "status": "PartiallyPaid",
+    "customerId": 14
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Adeyemi Entertainment Enterprises",
+    "description": "Music Licensing",
+    "invoiceDate": "2025-02-23T00:00:00",
+    "dueDate": "2025-03-25T00:00:00",
+    "amount": 10251801.28,
+    "receivedAmount": 10251801.28,
+    "status": "Paid",
+    "customerId": 7
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Oduya Music Group Solutions",
+    "description": "Streaming Royalty",
+    "invoiceDate": "2024-11-28T00:00:00",
+    "dueDate": "2025-01-27T00:00:00",
+    "amount": 12253524.04,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 12
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Oduya Music Group Solutions",
+    "description": "Performance Fee",
+    "invoiceDate": "2025-03-09T00:00:00",
+    "dueDate": "2025-04-23T00:00:00",
+    "amount": 9621771.95,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 12
+  },
+  {
+    "id": 9,
+    "invoiceNumber": "INV-2025-009",
+    "clientName": "Ibrahim Creative Agency Enterprises",
+    "description": "Endorsement Deal",
+    "invoiceDate": "2024-09-18T00:00:00",
+    "dueDate": "2024-10-18T00:00:00",
+    "amount": 17453030.09,
+    "receivedAmount": 13040070.3,
+    "status": "PartiallyPaid",
+    "customerId": 11
+  },
+  {
+    "id": 10,
+    "invoiceNumber": "INV-2025-010",
+    "clientName": "Ibrahim Media Ltd",
+    "description": "Brand Deal",
+    "invoiceDate": "2024-12-17T00:00:00",
+    "dueDate": "2025-02-15T00:00:00",
+    "amount": 5755434.54,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 5
+  }
+]

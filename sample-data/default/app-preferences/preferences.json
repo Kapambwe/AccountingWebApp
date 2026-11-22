@@ -1,0 +1,5 @@
+{
+  "languages": [ "English", "French", "Spanish", "German" ],
+  "timezones": [ "UTC", "Africa/Johannesburg", "Europe/London", "America/New_York" ],
+  "dateFormats": [ "MM/DD/YYYY", "DD/MM/YYYY", "YYYY-MM-DD" ]
+}

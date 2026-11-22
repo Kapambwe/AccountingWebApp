@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "accountNumber": "1000",
+    "accountName": "Cash - Zambia National Commercial Bank",
+    "type": "Asset",
+    "accountType": "Asset",
+    "balance": 450000.00,
+    "currencyCode": "ZMW",
+    "description": "Main operating account at Zanaco"
+  },
+  {
+    "id": 2,
+    "accountNumber": "1010",
+    "accountName": "Cash - First National Bank",
+    "type": "Asset",
+    "accountType": "Asset",
+    "balance": 280000.00,
+    "currencyCode": "ZMW",
+    "description": "Secondary operating account at FNB"
+  },
+  {
+    "id": 3,
+    "accountNumber": "1100",
+    "accountName": "Accounts Receivable - Trade",
+    "type": "Asset",
+    "accountType": "Asset",
+    "balance": 385000.00,
+    "currencyCode": "ZMW",
+    "description": "Outstanding customer invoices"
+  },
+  {
+    "id": 4,
+    "accountNumber": "1200",
+    "accountName": "Inventory - Raw Materials",
+    "type": "Asset",
+    "accountType": "Asset",
+    "balance": 520000.00,
+    "currencyCode": "ZMW",
+    "description": "Copper ore and raw materials"
+  },
+  {
+    "id": 5,
+    "accountNumber": "1210",
+    "accountName": "Inventory - Finished Goods",
+    "type": "Asset",
+    "accountType": "Asset",
+    "balance": 680000.00,
+    "currencyCode": "ZMW",
+    "description": "Processed copper and finished products"
+  },
+  {
+    "id": 6,
+    "accountNumber": "1500",
+    "accountName": "Property, Plant & Equipment",
+    "type": "Asset",
+    "accountType": "Asset",
+    "balance": 8500000.00,
+    "currencyCode": "ZMW",
+    "description": "Mining equipment, vehicles, and buildings"
+  },
+  {
+    "id": 7,
+    "accountNumber": "1510",
+    "accountName": "Accumulated Depreciation",
+    "type": "Asset",
+    "accountType": "Asset",
+    "balance": -1250000.00,
+    "currencyCode": "ZMW",
+    "description": "Cumulative depreciation on fixed assets"
+  },
+  {
+    "id": 8,
+    "accountNumber": "2000",
+    "accountName": "Accounts Payable - Trade",
+    "type": "Liability",
+    "accountType": "Liability",
+    "balance": 285000.00,
+    "currencyCode": "ZMW",
+    "description": "Outstanding supplier invoices"
+  },
+  {
+    "id": 9,
+    "accountNumber": "2100",
+    "accountName": "VAT Payable",
+    "type": "Liability",
+    "accountType": "Liability",
+    "balance": 95000.00,
+    "currencyCode": "ZMW",
+    "description": "Value Added Tax payable to ZRA"
+  },
+  {
+    "id": 10,
+    "accountNumber": "2200",
+    "accountName": "PAYE Payable",
+    "type": "Liability",
+    "accountType": "Liability",
+    "balance": 125000.00,
+    "currencyCode": "ZMW",
+    "description": "Pay As You Earn tax payable"
+  },
+  {
+    "id": 11,
+    "accountNumber": "2300",
+    "accountName": "NAPSA Contributions Payable",
+    "type": "Liability",
+    "accountType": "Liability",
+    "balance": 48000.00,
+    "currencyCode": "ZMW",
+    "description": "National Pension Scheme Authority contributions"
+  },
+  {
+    "id": 12,
+    "accountNumber": "2400",
+    "accountName": "Bank Loan - Zambia National Commercial Bank",
+    "type": "Liability",
+    "accountType": "Liability",
+    "balance": 2500000.00,
+    "currencyCode": "ZMW",
+    "description": "Long-term loan for equipment purchase"
+  },
+  {
+    "id": 13,
+    "accountNumber": "3000",
+    "accountName": "Share Capital",
+    "type": "Equity",
+    "accountType": "Equity",
+    "balance": 5000000.00,
+    "currencyCode": "ZMW",
+    "description": "Issued and fully paid share capital"
+  },
+  {
+    "id": 14,
+    "accountNumber": "3100",
+    "accountName": "Retained Earnings",
+    "type": "Equity",
+    "accountType": "Equity",
+    "balance": 3250000.00,
+    "currencyCode": "ZMW",
+    "description": "Accumulated profits from prior years"
+  },
+  {
+    "id": 15,
+    "accountNumber": "4000",
+    "accountName": "Sales Revenue - Copper Products",
+    "type": "Revenue",
+    "accountType": "Revenue",
+    "balance": 6500000.00,
+    "currencyCode": "ZMW",
+    "description": "Revenue from copper sales"
+  },
+  {
+    "id": 16,
+    "accountNumber": "4100",
+    "accountName": "Sales Revenue - Agricultural Products",
+    "type": "Revenue",
+    "accountType": "Revenue",
+    "balance": 2850000.00,
+    "currencyCode": "ZMW",
+    "description": "Revenue from maize, tobacco, and cotton"
+  },
+  {
+    "id": 17,
+    "accountNumber": "4200",
+    "accountName": "Service Revenue - Consulting",
+    "type": "Revenue",
+    "accountType": "Revenue",
+    "balance": 1200000.00,
+    "currencyCode": "ZMW",
+    "description": "Mining consulting and technical services"
+  },
+  {
+    "id": 18,
+    "accountNumber": "4900",
+    "accountName": "Other Income",
+    "type": "Revenue",
+    "accountType": "Revenue",
+    "balance": 450000.00,
+    "currencyCode": "ZMW",
+    "description": "Miscellaneous income and rebates"
+  },
+  {
+    "id": 19,
+    "accountNumber": "5000",
+    "accountName": "Cost of Goods Sold - Copper",
+    "type": "CostOfGoodsSold",
+    "accountType": "CostOfGoodsSold",
+    "balance": 3250000.00,
+    "currencyCode": "ZMW",
+    "description": "Direct costs for copper processing"
+  },
+  {
+    "id": 20,
+    "accountNumber": "5100",
+    "accountName": "Cost of Goods Sold - Agriculture",
+    "type": "CostOfGoodsSold",
+    "accountType": "CostOfGoodsSold",
+    "balance": 1425000.00,
+    "currencyCode": "ZMW",
+    "description": "Direct costs for agricultural production"
+  },
+  {
+    "id": 21,
+    "accountNumber": "6000",
+    "accountName": "Salaries and Wages",
+    "type": "Expense",
+    "accountType": "Expense",
+    "balance": 1850000.00,
+    "currencyCode": "ZMW",
+    "description": "Employee salaries and benefits"
+  },
+  {
+    "id": 22,
+    "accountNumber": "6100",
+    "accountName": "Electricity - ZESCO",
+    "type": "Expense",
+    "accountType": "Expense",
+    "balance": 420000.00,
+    "currencyCode": "ZMW",
+    "description": "Electricity costs from ZESCO"
+  },
+  {
+    "id": 23,
+    "accountNumber": "6200",
+    "accountName": "Fuel and Vehicle Maintenance",
+    "type": "Expense",
+    "accountType": "Expense",
+    "balance": 285000.00,
+    "currencyCode": "ZMW",
+    "description": "Fuel and maintenance for company vehicles"
+  },
+  {
+    "id": 24,
+    "accountNumber": "6300",
+    "accountName": "Office Rent - Lusaka CBD",
+    "type": "Expense",
+    "accountType": "Expense",
+    "balance": 180000.00,
+    "currencyCode": "ZMW",
+    "description": "Office space rental in Lusaka Central Business District"
+  },
+  {
+    "id": 25,
+    "accountNumber": "6400",
+    "accountName": "Professional Fees",
+    "type": "Expense",
+    "accountType": "Expense",
+    "balance": 145000.00,
+    "currencyCode": "ZMW",
+    "description": "Legal, accounting, and consulting fees"
+  },
+  {
+    "id": 26,
+    "accountNumber": "6500",
+    "accountName": "Bank Charges and Interest",
+    "type": "Expense",
+    "accountType": "Expense",
+    "balance": 95000.00,
+    "currencyCode": "ZMW",
+    "description": "Banking fees and loan interest"
+  },
+  {
+    "id": 27,
+    "accountNumber": "6600",
+    "accountName": "Marketing and Advertising",
+    "type": "Expense",
+    "accountType": "Expense",
+    "balance": 125000.00,
+    "currencyCode": "ZMW",
+    "description": "Marketing campaigns and promotional activities"
+  },
+  {
+    "id": 28,
+    "accountNumber": "6700",
+    "accountName": "Insurance",
+    "type": "Expense",
+    "accountType": "Expense",
+    "balance": 180000.00,
+    "currencyCode": "ZMW",
+    "description": "Business insurance premiums"
+  }
+]

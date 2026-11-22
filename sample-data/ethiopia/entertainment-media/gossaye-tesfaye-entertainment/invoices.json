@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Kassa Media Limited",
+    "description": "Endorsement Deal",
+    "invoiceDate": "2025-01-27T00:00:00",
+    "dueDate": "2025-03-28T00:00:00",
+    "amount": 635292.68,
+    "receivedAmount": 486221.73,
+    "status": "PartiallyPaid",
+    "customerId": 8
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Wolde Entertainment Holdings",
+    "description": "Concert Headlining Fee",
+    "invoiceDate": "2024-11-06T00:00:00",
+    "dueDate": "2024-12-06T00:00:00",
+    "amount": 1507129.15,
+    "receivedAmount": 765646.08,
+    "status": "PartiallyPaid",
+    "customerId": 6
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Kassa Media Limited",
+    "description": "Performance Fee",
+    "invoiceDate": "2024-12-21T00:00:00",
+    "dueDate": "2025-01-05T00:00:00",
+    "amount": 1027514.46,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 8
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Wolde Media Co.",
+    "description": "Music Licensing",
+    "invoiceDate": "2024-09-30T00:00:00",
+    "dueDate": "2024-10-30T00:00:00",
+    "amount": 808037.54,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 7
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Mengistu Productions Ltd",
+    "description": "Collaboration Fee",
+    "invoiceDate": "2025-02-24T00:00:00",
+    "dueDate": "2025-04-10T00:00:00",
+    "amount": 1032249.47,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 2
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Bekele Entertainment Solutions",
+    "description": "Music Licensing",
+    "invoiceDate": "2025-01-16T00:00:00",
+    "dueDate": "2025-01-31T00:00:00",
+    "amount": 63195.7,
+    "receivedAmount": 0.0,
+    "status": "Overdue",
+    "customerId": 10
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Kassa Media Limited",
+    "description": "Performance Fee",
+    "invoiceDate": "2024-12-29T00:00:00",
+    "dueDate": "2025-02-12T00:00:00",
+    "amount": 1264169.69,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 8
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Kassa Media Limited",
+    "description": "Merchandise Revenue",
+    "invoiceDate": "2025-02-28T00:00:00",
+    "dueDate": "2025-04-14T00:00:00",
+    "amount": 1033060.68,
+    "receivedAmount": 0.0,
+    "status": "Overdue",
+    "customerId": 8
+  }
+]

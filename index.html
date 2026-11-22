@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Accounting Web App</title>
+    
+    <!-- Base path: '/' for local dev; deploy.ps1 patches to '/AccountingWebApp/' for GitHub Pages -->
+    <base href="/AccountingWebApp/" id="dynamic-base" />
+    <link href="_framework/dotnet.6k3heitvbl.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-RhLQMdGb1jd+qtz3Vs5zCoFyT/WlZMo5UL1J6V4ja34=" />
+    <script>
+        // Set base path dynamically so the same build works both locally (/)
+        // and on GitHub Pages (/AccountingWebApp/). Must run before any <link> or
+        // <script> tags so relative URLs resolve against the correct base.
+        (function () {
+            var base = document.getElementById('dynamic-base');
+            var path = window.location.pathname.includes('/AccountingWebApp')
+                ? '/AccountingWebApp/'
+                : '/';
+            if (base) {
+                base.setAttribute('href', path);
+            }
+        })();
+
+        // Restore the original route when redirected here via 404.html (static-host SPA fallback).
+        (function () {
+            const params = new URLSearchParams(window.location.search);
+            let path = params.get('path');
+            if (path) {
+                path = decodeURIComponent(path).replace(/\/+/g, '/');
+                if (!path.startsWith('/')) {
+                    path = '/' + path;
+                }
+                const prefix = window.location.pathname.includes('/AccountingWebApp') ? '/AccountingWebApp' : '';
+                window.history.replaceState(null, '', prefix + path);
+            }
+        })();
+    </script>
+    
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="_content/Radzen.Blazor/css/material-base.css" />
+
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="AccountingWebApp.styles.css" rel="stylesheet" />
+    <script type="importmap">{
+  "imports": {
+    "./_framework/dotnet.js": "./_framework/dotnet.6k3heitvbl.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.hw1e9ewjsb.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.uyfhwbfd13.js"
+  },
+  "scopes": {},
+  "integrity": {
+    "./_framework/dotnet.6k3heitvbl.js": "sha256-RhLQMdGb1jd+qtz3Vs5zCoFyT/WlZMo5UL1J6V4ja34=",
+    "./_framework/dotnet.js": "sha256-RhLQMdGb1jd+qtz3Vs5zCoFyT/WlZMo5UL1J6V4ja34=",
+    "./_framework/dotnet.native.hw1e9ewjsb.js": "sha256-IWI+200VQ0ZR9JL7n9LANHT5ZaQZ+37YE0UWZSORP4M=",
+    "./_framework/dotnet.native.js": "sha256-IWI+200VQ0ZR9JL7n9LANHT5ZaQZ+37YE0UWZSORP4M=",
+    "./_framework/dotnet.runtime.js": "sha256-FsddKLA9kAdfVKI0lZFago0rrc/gNe0yrVtP7+D/qN0=",
+    "./_framework/dotnet.runtime.uyfhwbfd13.js": "sha256-FsddKLA9kAdfVKI0lZFago0rrc/gNe0yrVtP7+D/qN0="
+  }
+}</script>
+</head>
+<body>
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text"></div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="." class="reload">Reload</a>
+        <span class="dismiss">🗙</span>
+    </div>
+
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+    <script src="_content/Component.Internet.Available/internetAvailability.js"></script>
+    <script src="_content/Component.SupportWidget/supportWidgetInterop.js"></script>
+    <script src="js/index.js"></script>
+</body>
+
+</html>

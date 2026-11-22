@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 2,
+    "customerName": "Nxumalo Music Group Limited",
+    "estimateDateDaysAgo": 34,
+    "expirationDateDaysFromNow": 36,
+    "status": "Draft",
+    "subTotal": 207221.25,
+    "taxRate": 15,
+    "taxAmount": 31083.19,
+    "total": 238304.44,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 34,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 3,
+        "unitPrice": 69073.75,
+        "amount": 207221.25,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 4,
+    "customerName": "Motsepe Productions Co.",
+    "estimateDateDaysAgo": 14,
+    "expirationDateDaysFromNow": 24,
+    "status": "Draft",
+    "subTotal": 331109.39,
+    "taxRate": 18,
+    "taxAmount": 59599.69,
+    "total": 390709.08,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 14,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 1,
+        "unitPrice": 331109.39,
+        "amount": 331109.39,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 9,
+    "customerName": "Dlamin Music Group Co.",
+    "estimateDateDaysAgo": 36,
+    "expirationDateDaysFromNow": 44,
+    "status": "Draft",
+    "subTotal": 150948.05,
+    "taxRate": 15,
+    "taxAmount": 22642.21,
+    "total": 173590.26,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 36,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 4,
+        "unitPrice": 37737.01,
+        "amount": 150948.05,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 12,
+    "customerName": "Mandela Music Group Solutions",
+    "estimateDateDaysAgo": 15,
+    "expirationDateDaysFromNow": 45,
+    "status": "Draft",
+    "subTotal": 342660.32,
+    "taxRate": 16,
+    "taxAmount": 54825.65,
+    "total": 397485.97,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 15,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 4,
+        "unitPrice": 85665.08,
+        "amount": 342660.32,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 10,
+    "customerName": "Molefe Creative Agency Solutions",
+    "estimateDateDaysAgo": 55,
+    "expirationDateDaysFromNow": 36,
+    "status": "Open",
+    "subTotal": 97689.14,
+    "taxRate": 18,
+    "taxAmount": 17584.05,
+    "total": 115273.19,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 55,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 1,
+        "unitPrice": 97689.14,
+        "amount": 97689.14,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 54
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 10,
+    "customerName": "Molefe Creative Agency Solutions",
+    "estimateDateDaysAgo": 13,
+    "expirationDateDaysFromNow": 22,
+    "status": "Draft",
+    "subTotal": 396975.08,
+    "taxRate": 18,
+    "taxAmount": 71455.51,
+    "total": 468430.59,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 13,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 5,
+        "unitPrice": 79395.02,
+        "amount": 396975.08,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 3,
+    "customerName": "Sithole Creative Agency Inc.",
+    "estimateDateDaysAgo": 21,
+    "expirationDateDaysFromNow": 19,
+    "status": "Draft",
+    "subTotal": 205979.69,
+    "taxRate": 15,
+    "taxAmount": 30896.95,
+    "total": 236876.64,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 21,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 5,
+        "unitPrice": 41195.94,
+        "amount": 205979.69,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 7,
+    "customerName": "Shabalala Productions Inc.",
+    "estimateDateDaysAgo": 37,
+    "expirationDateDaysFromNow": 19,
+    "status": "Draft",
+    "subTotal": 249263.11,
+    "taxRate": 18,
+    "taxAmount": 44867.36,
+    "total": 294130.47,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 37,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 4,
+        "unitPrice": 62315.78,
+        "amount": 249263.11,
+        "itemType": "Service"
+      }
+    ]
+  }
+]

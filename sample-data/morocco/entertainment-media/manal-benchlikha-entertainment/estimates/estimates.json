@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 8,
+    "customerName": "Benali Creative Agency Holdings",
+    "estimateDateDaysAgo": 34,
+    "expirationDateDaysFromNow": 17,
+    "status": "Declined",
+    "subTotal": 190268.61,
+    "taxRate": 18,
+    "taxAmount": 34248.35,
+    "total": 224516.96,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 34,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 2,
+        "unitPrice": 95134.3,
+        "amount": 190268.61,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 33
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 10,
+    "customerName": "El Fassi Media Enterprises",
+    "estimateDateDaysAgo": 34,
+    "expirationDateDaysFromNow": 43,
+    "status": "Draft",
+    "subTotal": 244850.64,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 244850.64,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 34,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 3,
+        "unitPrice": 81616.88,
+        "amount": 244850.64,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 7,
+    "customerName": "Benkirane Media Inc.",
+    "estimateDateDaysAgo": 57,
+    "expirationDateDaysFromNow": 30,
+    "status": "Accepted",
+    "subTotal": 242150.02,
+    "taxRate": 16,
+    "taxAmount": 38744.0,
+    "total": 280894.02,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 57,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 1,
+        "unitPrice": 242150.02,
+        "amount": 242150.02,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 56
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 4,
+    "customerName": "Benhaddou Media Solutions",
+    "estimateDateDaysAgo": 7,
+    "expirationDateDaysFromNow": 16,
+    "status": "Sent",
+    "subTotal": 344414.87,
+    "taxRate": 15,
+    "taxAmount": 51662.23,
+    "total": 396077.1,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 7,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 4,
+        "unitPrice": 86103.72,
+        "amount": 344414.87,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 6
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 8,
+    "customerName": "Benali Creative Agency Holdings",
+    "estimateDateDaysAgo": 42,
+    "expirationDateDaysFromNow": 26,
+    "status": "Expired",
+    "subTotal": 284681.5,
+    "taxRate": 16,
+    "taxAmount": 45549.04,
+    "total": 330230.54,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 42,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 4,
+        "unitPrice": 71170.38,
+        "amount": 284681.5,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 41
+  }
+]

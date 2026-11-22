@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Karugarama Music Group Enterprises",
+    "description": "Studio Recording Session",
+    "billDate": "2024-12-20T00:00:00",
+    "dueDate": "2025-02-03T00:00:00",
+    "amount": 2974650.77,
+    "paidAmount": 1836916.39,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Kagame Productions Inc.",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-12-25T00:00:00",
+    "dueDate": "2025-01-09T00:00:00",
+    "amount": 3217612.09,
+    "paidAmount": 1555594.73,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Rugamba Creative Agency Ltd",
+    "description": "Social Media Management",
+    "billDate": "2025-01-09T00:00:00",
+    "dueDate": "2025-01-24T00:00:00",
+    "amount": 6163184.97,
+    "paidAmount": 4695604.83,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Karugarama Music Group Ltd",
+    "description": "Management Fee",
+    "billDate": "2024-11-03T00:00:00",
+    "dueDate": "2024-11-18T00:00:00",
+    "amount": 3543041.47,
+    "paidAmount": 3543041.47,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Kagame Productions Inc.",
+    "description": "Music Video Production",
+    "billDate": "2024-10-30T00:00:00",
+    "dueDate": "2024-11-14T00:00:00",
+    "amount": 3641588.47,
+    "paidAmount": 3641588.47,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Nkurunziza Productions Ltd",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-01-17T00:00:00",
+    "dueDate": "2025-02-16T00:00:00",
+    "amount": 5420669.51,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Nkurunziza Productions Ltd",
+    "description": "Music Video Production",
+    "billDate": "2024-09-17T00:00:00",
+    "dueDate": "2024-10-17T00:00:00",
+    "amount": 1500179.66,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Kagame Productions Inc.",
+    "description": "Management Fee",
+    "billDate": "2024-10-06T00:00:00",
+    "dueDate": "2024-11-20T00:00:00",
+    "amount": 5806561.62,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Karugarama Music Group Ltd",
+    "description": "PR Campaign",
+    "billDate": "2024-10-22T00:00:00",
+    "dueDate": "2024-12-06T00:00:00",
+    "amount": 2944382.47,
+    "paidAmount": 2944382.47,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Karugarama Music Group Enterprises",
+    "description": "Social Media Management",
+    "billDate": "2025-03-12T00:00:00",
+    "dueDate": "2025-04-26T00:00:00",
+    "amount": 1162257.03,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

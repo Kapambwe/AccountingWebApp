@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 1,
+    "customerName": "Safaricom PLC",
+    "estimateDateDaysAgo": 90,
+    "expirationDateDaysFromNow": 90,
+    "status": "Accepted",
+    "sentDateDaysAgo": 85,
+    "acceptedDateDaysAgo": 80,
+    "subTotal": 5000000.00,
+    "taxRate": 16.0,
+    "taxAmount": 800000.00,
+    "total": 5800000.00,
+    "terms": "Net 30",
+    "createdBy": "Managing Partner",
+    "createdDateDaysAgo": 90,
+    "lines": [
+      {
+        "id": 1,
+        "description": "Digital Innovation Strategy Workshops (5 Days)",
+        "quantity": 5,
+        "unitPrice": 200000.00,
+        "amount": 1000000.00
+      },
+      {
+        "id": 2,
+        "description": "Digital Transformation Roadmap Development",
+        "quantity": 1,
+        "unitPrice": 2000000.00,
+        "amount": 2000000.00
+      },
+      {
+        "id": 3,
+        "description": "Executive Stakeholder Engagement Sessions",
+        "quantity": 4,
+        "unitPrice": 250000.00,
+        "amount": 1000000.00
+      },
+      {
+        "id": 4,
+        "description": "Implementation Planning & Governance Framework",
+        "quantity": 2,
+        "unitPrice": 500000.00,
+        "amount": 1000000.00
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 2,
+    "customerName": "Kenya Commercial Bank Ltd",
+    "estimateDateDaysAgo": 30,
+    "expirationDateDaysFromNow": 60,
+    "status": "Open",
+    "subTotal": 3500000.00,
+    "taxRate": 16.0,
+    "taxAmount": 560000.00,
+    "total": 4060000.00,
+    "terms": "Net 30",
+    "createdBy": "Senior Partner",
+    "createdDateDaysAgo": 30,
+    "lines": [
+      {
+        "id": 1,
+        "description": "Operational Efficiency Assessment",
+        "quantity": 1,
+        "unitPrice": 1500000.00,
+        "amount": 1500000.00
+      },
+      {
+        "id": 2,
+        "description": "Process Redesign Workshops (3 Days)",
+        "quantity": 3,
+        "unitPrice": 300000.00,
+        "amount": 900000.00
+      },
+      {
+        "id": 3,
+        "description": "Performance Management Framework Design",
+        "quantity": 1,
+        "unitPrice": 1100000.00,
+        "amount": 1100000.00
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 3,
+    "customerName": "Equity Bank Kenya Ltd",
+    "estimateDateDaysAgo": 45,
+    "expirationDateDaysFromNow": 45,
+    "status": "Sent",
+    "sentDateDaysAgo": 40,
+    "subTotal": 4200000.00,
+    "taxRate": 16.0,
+    "taxAmount": 672000.00,
+    "total": 4872000.00,
+    "terms": "Net 30",
+    "createdBy": "Business Development Director",
+    "createdDateDaysAgo": 45,
+    "lines": [
+      {
+        "id": 1,
+        "description": "Digital Banking Strategy Development",
+        "quantity": 1,
+        "unitPrice": 2500000.00,
+        "amount": 2500000.00
+      },
+      {
+        "id": 2,
+        "description": "Technology Architecture Review",
+        "quantity": 1,
+        "unitPrice": 900000.00,
+        "amount": 900000.00
+      },
+      {
+        "id": 3,
+        "description": "Customer Journey Mapping Workshops",
+        "quantity": 2,
+        "unitPrice": 400000.00,
+        "amount": 800000.00
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 4,
+    "customerName": "East African Breweries Ltd",
+    "estimateDateDaysAgo": 120,
+    "expirationDateDaysFromNow": -30,
+    "status": "Expired",
+    "subTotal": 2800000.00,
+    "taxRate": 16.0,
+    "taxAmount": 448000.00,
+    "total": 3248000.00,
+    "terms": "Net 30",
+    "createdBy": "Senior Partner",
+    "createdDateDaysAgo": 120,
+    "lines": [
+      {
+        "id": 1,
+        "description": "Corporate Governance Framework Development",
+        "quantity": 1,
+        "unitPrice": 1500000.00,
+        "amount": 1500000.00
+      },
+      {
+        "id": 2,
+        "description": "Board Effectiveness Assessment",
+        "quantity": 1,
+        "unitPrice": 800000.00,
+        "amount": 800000.00
+      },
+      {
+        "id": 3,
+        "description": "Governance Training & Capacity Building",
+        "quantity": 2,
+        "unitPrice": 250000.00,
+        "amount": 500000.00
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 5,
+    "customerName": "Kenya Airways PLC",
+    "estimateDateDaysAgo": 15,
+    "expirationDateDaysFromNow": 75,
+    "status": "Draft",
+    "subTotal": 1800000.00,
+    "taxRate": 16.0,
+    "taxAmount": 288000.00,
+    "total": 2088000.00,
+    "terms": "Net 30",
+    "createdBy": "Business Development Director",
+    "createdDateDaysAgo": 15,
+    "lines": [
+      {
+        "id": 1,
+        "description": "Enterprise Risk Assessment",
+        "quantity": 1,
+        "unitPrice": 900000.00,
+        "amount": 900000.00
+      },
+      {
+        "id": 2,
+        "description": "Risk Register Development & Documentation",
+        "quantity": 1,
+        "unitPrice": 600000.00,
+        "amount": 600000.00
+      },
+      {
+        "id": 3,
+        "description": "Management Briefing Sessions",
+        "quantity": 3,
+        "unitPrice": 100000.00,
+        "amount": 300000.00
+      }
+    ]
+  }
+]

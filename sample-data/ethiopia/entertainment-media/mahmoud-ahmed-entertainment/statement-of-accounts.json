@@ -1,0 +1,166 @@
+{
+  "companyName": "Mahmoud Ahmed Entertainment",
+  "companyAddress": "Mekelle, Ethiopia",
+  "companyTaxId": "ERCA-3926087-MAE",
+  "generatedDate": "2025-09-30",
+  "currency": "ETB",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Axum Industries PLC",
+      "customerEmail": "admin@axum.com.et",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-01",
+          "reference": "INV-E-2025-012",
+          "description": "Endorsement deal - Apr-Jun",
+          "debit": 654500,
+          "credit": 0.0,
+          "balance": 654500
+        },
+        {
+          "date": "2025-07-12",
+          "reference": "PMT-E-2025-019",
+          "description": "Settlement payment received",
+          "debit": 0.0,
+          "credit": 654500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Addis Trading PLC",
+      "customerEmail": "billing@addis.com.et",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-02",
+          "reference": "INV-E-2025-022",
+          "description": "Merchandise partnership revenue",
+          "debit": 963000,
+          "credit": 0.0,
+          "balance": 963000
+        },
+        {
+          "date": "2025-08-15",
+          "reference": "PMT-E-2025-028",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 963000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Addis Trading PLC",
+      "customerEmail": "finance@addis.com.et",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-08-12",
+          "reference": "INV-E-2025-039",
+          "description": "Merchandise partnership revenue",
+          "debit": 1308000,
+          "credit": 0.0,
+          "balance": 1308000
+        }
+      ],
+      "closingBalance": 1308000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Addis Group PLC",
+      "customerEmail": "contact@addis.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-03",
+          "reference": "INV-E-2025-043",
+          "description": "Performance fee - Grand Opening Ceremony",
+          "debit": 755000,
+          "credit": 0.0,
+          "balance": 755000
+        },
+        {
+          "date": "2025-07-12",
+          "reference": "PMT-E-2025-047",
+          "description": "Payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 755000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Axum Solutions PLC",
+      "customerEmail": "finance@axum.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-21",
+          "reference": "INV-E-2025-059",
+          "description": "Endorsement deal - Jul-Sep",
+          "debit": 742500,
+          "credit": 0.0,
+          "balance": 742500
+        },
+        {
+          "date": "2025-04-21",
+          "reference": "PMT-E-2025-056",
+          "description": "Payment received - mobile money",
+          "debit": 0.0,
+          "credit": 742500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Simien Enterprises PLC",
+      "customerEmail": "billing@simien.com.et",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-19",
+          "reference": "INV-E-2025-067",
+          "description": "Live concert performance fee",
+          "debit": 1393500,
+          "credit": 0.0,
+          "balance": 1393500
+        }
+      ],
+      "closingBalance": 1393500,
+      "status": "Overdue"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 5816500,
+    "totalReceived": 3115000,
+    "totalOutstanding": 2701500,
+    "totalOverdue": 2701500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 1308000.0,
+      "days31to60": 0.0,
+      "days61to90": 0.0,
+      "over90days": 1393500.0
+    }
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "payrollRunId": 1,
+    "payDate": "2024-12-01",
+    "grossPay": 12000,
+    "deductions": 3000,
+    "netPay": 9000
+  },
+  {
+    "payrollRunId": 2,
+    "payDate": "2025-01-02",
+    "grossPay": 12000,
+    "deductions": 3000,
+    "netPay": 9000
+  }
+]

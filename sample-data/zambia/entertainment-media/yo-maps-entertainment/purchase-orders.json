@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-YM-2025-001",
+    "vendorName": "Event Supplies Zambia",
+    "description": "Concert production supplies",
+    "orderDate": "2025-01-10T00:00:00",
+    "expectedDate": "2025-01-20T00:00:00",
+    "amount": 25000.00,
+    "receivedAmount": 25000.00,
+    "status": "Received",
+    "approvalStatus": "Approved",
+    "approvedBy": "Chief Accountant",
+    "notes": "Sample tenant purchase order"
+  },
+  { "id": 2, "poNumber": "PO-YM-2025-002", "vendorName": "Sound Equipment Zambia", "description": "Audio equipment hire", "orderDate": "2025-02-01T00:00:00", "expectedDate": "2025-02-10T00:00:00", "amount": 18000.00, "receivedAmount": 0.00, "status": "Open", "approvalStatus": "Approved", "approvedBy": "Chief Accountant", "notes": "Live event equipment" },
+  { "id": 3, "poNumber": "PO-YM-2025-003", "vendorName": "Creative Media House", "description": "Video production services", "orderDate": "2025-03-05T00:00:00", "expectedDate": "2025-03-20T00:00:00", "amount": 35000.00, "receivedAmount": 17500.00, "status": "PartiallyReceived", "approvalStatus": "Approved", "approvedBy": "Chief Accountant", "notes": "First production milestone received" },
+  { "id": 4, "poNumber": "PO-YM-2025-004", "vendorName": "Lusaka Transport Services", "description": "Artist and crew transport", "orderDate": "2025-04-01T00:00:00", "expectedDate": "2025-04-07T00:00:00", "amount": 9500.00, "receivedAmount": 9500.00, "status": "Received", "approvalStatus": "Approved", "approvedBy": "Chief Accountant", "notes": "April concert transport" },
+  { "id": 5, "poNumber": "PO-YM-2025-005", "vendorName": "Event Branding Zambia", "description": "Concert banners and promotional material", "orderDate": "2025-05-01T00:00:00", "expectedDate": "2025-05-10T00:00:00", "amount": 12500.00, "receivedAmount": 0.00, "status": "Open", "approvalStatus": "Pending", "approvedBy": null, "notes": "Awaiting approval" 
+  }
+]

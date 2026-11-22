@@ -1,0 +1,122 @@
+{
+  "companyName": "Stunner Entertainment",
+  "companyAddress": "Masvingo, Zimbabwe",
+  "companyTaxId": "ZIMRA-4889495-SE",
+  "generatedDate": "2025-09-30",
+  "currency": "USD",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Harare Group Ltd",
+      "customerEmail": "admin@harare.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-17",
+          "reference": "INV-Z-2025-015",
+          "description": "Royalty payment - streaming Q3 2025",
+          "debit": 31500,
+          "credit": 0.0,
+          "balance": 31500
+        },
+        {
+          "date": "2025-08-04",
+          "reference": "PMT-Z-2025-016",
+          "description": "Payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 31500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Mutare Enterprises (Pvt) Ltd",
+      "customerEmail": "billing@mutare.co.zw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-11",
+          "reference": "INV-Z-2025-027",
+          "description": "Royalty payment - streaming Q2 2025",
+          "debit": 26500,
+          "credit": 0.0,
+          "balance": 26500
+        },
+        {
+          "date": "2025-04-07",
+          "reference": "PMT-Z-2025-029",
+          "description": "Partial settlement payment received",
+          "debit": 0.0,
+          "credit": 15500,
+          "balance": 11000
+        }
+      ],
+      "closingBalance": 11000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Matobo Trading (Pvt) Ltd",
+      "customerEmail": "info@matobo.co.zw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-11",
+          "reference": "INV-Z-2025-038",
+          "description": "Merchandise partnership revenue",
+          "debit": 22500,
+          "credit": 0.0,
+          "balance": 22500
+        }
+      ],
+      "closingBalance": 22500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Harare Trading (Pvt) Ltd",
+      "customerEmail": "admin@harare.co.zw",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-22",
+          "reference": "INV-Z-2025-041",
+          "description": "Headline performance - VIP Launch Event",
+          "debit": 43500,
+          "credit": 0.0,
+          "balance": 43500
+        },
+        {
+          "date": "2025-03-02",
+          "reference": "PMT-Z-2025-046",
+          "description": "Payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 43500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 124000,
+    "totalReceived": 90500,
+    "totalOutstanding": 33500,
+    "totalOverdue": 33500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 22500.0,
+      "days61to90": 0.0,
+      "over90days": 11000.0
+    }
+  }
+}

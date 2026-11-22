@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "transactionNumber": "JE-2024-001",
+    "transactionDate": "today-45",
+    "description": "Initial Share Capital Investment - Mopani Copper Mines PLC",
+    "type": "JournalEntry",
+    "status": "Posted",
+    "totalAmount": 5000000.00,
+    "createdBy": "Finance Manager",
+    "lines": [
+      {
+        "id": 1,
+        "accountId": 1,
+        "accountName": "Cash - Zambia National Commercial Bank",
+        "debitAmount": 5000000.00,
+        "creditAmount": 0.00,
+        "memo": "Capital injection"
+      },
+      {
+        "id": 2,
+        "accountId": 13,
+        "accountName": "Share Capital",
+        "debitAmount": 0.00,
+        "creditAmount": 5000000.00,
+        "memo": "Share capital issued"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "transactionNumber": "INV-2024-001",
+    "transactionDate": "today-30",
+    "description": "Copper Sales to Konkola Copper Mines",
+    "type": "Invoice",
+    "status": "Posted",
+    "totalAmount": 1250000.00,
+    "createdBy": "Sales Department",
+    "lines": [
+      {
+        "id": 3,
+        "accountId": 3,
+        "accountName": "Accounts Receivable - Trade",
+        "debitAmount": 1250000.00,
+        "creditAmount": 0.00,
+        "memo": "Invoice for 50 tons of processed copper"
+      },
+      {
+        "id": 4,
+        "accountId": 15,
+        "accountName": "Sales Revenue - Copper Products",
+        "debitAmount": 0.00,
+        "creditAmount": 1250000.00,
+        "memo": "Copper sales revenue"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "transactionNumber": "INV-2024-002",
+    "transactionDate": "today-28",
+    "description": "Maize Sales to National Milling Corporation",
+    "type": "Invoice",
+    "status": "Posted",
+    "totalAmount": 850000.00,
+    "createdBy": "Sales Department",
+    "lines": [
+      {
+        "id": 5,
+        "accountId": 3,
+        "accountName": "Accounts Receivable - Trade",
+        "debitAmount": 850000.00,
+        "creditAmount": 0.00,
+        "memo": "Invoice for 200 tons of maize"
+      },
+      {
+        "id": 6,
+        "accountId": 16,
+        "accountName": "Sales Revenue - Agricultural Products",
+        "debitAmount": 0.00,
+        "creditAmount": 850000.00,
+        "memo": "Maize sales to NMC"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "transactionNumber": "BILL-2024-001",
+    "transactionDate": "today-25",
+    "description": "ZESCO Electricity Bill - Kitwe Mining Operations",
+    "type": "Bill",
+    "status": "Posted",
+    "totalAmount": 185000.00,
+    "createdBy": "Accounts Payable",
+    "lines": [
+      {
+        "id": 7,
+        "accountId": 22,
+        "accountName": "Electricity - ZESCO",
+        "debitAmount": 185000.00,
+        "creditAmount": 0.00,
+        "memo": "Monthly power consumption"
+      },
+      {
+        "id": 8,
+        "accountId": 8,
+        "accountName": "Accounts Payable - Trade",
+        "debitAmount": 0.00,
+        "creditAmount": 185000.00,
+        "memo": "ZESCO invoice payment due"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "transactionNumber": "PAY-2024-001",
+    "transactionDate": "today-20",
+    "description": "Monthly Salary Payment - December 2024",
+    "type": "Payment",
+    "status": "Posted",
+    "totalAmount": 425000.00,
+    "createdBy": "HR Department",
+    "lines": [
+      {
+        "id": 9,
+        "accountId": 21,
+        "accountName": "Salaries and Wages",
+        "debitAmount": 425000.00,
+        "creditAmount": 0.00,
+        "memo": "December salary payment"
+      },
+      {
+        "id": 10,
+        "accountId": 1,
+        "accountName": "Cash - Zambia National Commercial Bank",
+        "debitAmount": 0.00,
+        "creditAmount": 425000.00,
+        "memo": "Bank transfer to employees"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "transactionNumber": "JE-2024-002",
+    "transactionDate": "today-15",
+    "description": "Mining Equipment Purchase from Barloworld Equipment",
+    "type": "JournalEntry",
+    "status": "Posted",
+    "totalAmount": 2800000.00,
+    "createdBy": "Fixed Assets Manager",
+    "lines": [
+      {
+        "id": 11,
+        "accountId": 6,
+        "accountName": "Property, Plant & Equipment",
+        "debitAmount": 2800000.00,
+        "creditAmount": 0.00,
+        "memo": "New excavator and haul trucks"
+      },
+      {
+        "id": 12,
+        "accountId": 12,
+        "accountName": "Bank Loan - Zambia National Commercial Bank",
+        "debitAmount": 0.00,
+        "creditAmount": 2800000.00,
+        "memo": "Equipment loan financing"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "transactionNumber": "RCP-2024-001",
+    "transactionDate": "today-10",
+    "description": "Payment Received from Konkola Copper Mines",
+    "type": "Receipt",
+    "status": "Posted",
+    "totalAmount": 1250000.00,
+    "createdBy": "Accounts Receivable",
+    "lines": [
+      {
+        "id": 13,
+        "accountId": 1,
+        "accountName": "Cash - Zambia National Commercial Bank",
+        "debitAmount": 1250000.00,
+        "creditAmount": 0.00,
+        "memo": "Payment for INV-2024-001"
+      },
+      {
+        "id": 14,
+        "accountId": 3,
+        "accountName": "Accounts Receivable - Trade",
+        "debitAmount": 0.00,
+        "creditAmount": 1250000.00,
+        "memo": "Receipt cleared invoice"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "transactionNumber": "JE-2024-003",
+    "transactionDate": "today-8",
+    "description": "ZRA VAT Payment - November 2024",
+    "type": "Payment",
+    "status": "Posted",
+    "totalAmount": 450000.00,
+    "createdBy": "Tax Department",
+    "lines": [
+      {
+        "id": 15,
+        "accountId": 9,
+        "accountName": "VAT Payable",
+        "debitAmount": 450000.00,
+        "creditAmount": 0.00,
+        "memo": "November VAT payment to ZRA"
+      },
+      {
+        "id": 16,
+        "accountId": 2,
+        "accountName": "Cash - First National Bank",
+        "debitAmount": 0.00,
+        "creditAmount": 450000.00,
+        "memo": "Bank transfer to ZRA"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "transactionNumber": "INV-2024-003",
+    "transactionDate": "today-5",
+    "description": "Consulting Services - Copperbelt Mining Project",
+    "type": "Invoice",
+    "status": "Posted",
+    "totalAmount": 380000.00,
+    "createdBy": "Consulting Division",
+    "lines": [
+      {
+        "id": 17,
+        "accountId": 3,
+        "accountName": "Accounts Receivable - Trade",
+        "debitAmount": 380000.00,
+        "creditAmount": 0.00,
+        "memo": "Technical consulting invoice"
+      },
+      {
+        "id": 18,
+        "accountId": 17,
+        "accountName": "Service Revenue - Consulting",
+        "debitAmount": 0.00,
+        "creditAmount": 380000.00,
+        "memo": "Mining consulting services"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "transactionNumber": "JE-2024-004",
+    "transactionDate": "today-3",
+    "description": "NAPSA Monthly Contribution - December 2024",
+    "type": "Payment",
+    "status": "Posted",
+    "totalAmount": 42500.00,
+    "createdBy": "HR Department",
+    "lines": [
+      {
+        "id": 19,
+        "accountId": 11,
+        "accountName": "NAPSA Contributions Payable",
+        "debitAmount": 42500.00,
+        "creditAmount": 0.00,
+        "memo": "December NAPSA payment"
+      },
+      {
+        "id": 20,
+        "accountId": 1,
+        "accountName": "Cash - Zambia National Commercial Bank",
+        "debitAmount": 0.00,
+        "creditAmount": 42500.00,
+        "memo": "Payment to NAPSA"
+      }
+    ]
+  }
+]

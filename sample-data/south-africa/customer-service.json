@@ -1,0 +1,152 @@
+[
+  {
+    "id": "za-cust-001",
+    "customerName": "SABC Broadcasting Corporation",
+    "email": "bookings@sabc.co.za",
+    "phone": "+27-11-714-5000",
+    "address": "Auckland Park, Johannesburg",
+    "taxId": "TAX-ZA-2001",
+    "creditLimit": 500000.00,
+    "outstandingBalance": 125000.00
+  },
+  {
+    "id": "za-cust-002",
+    "customerName": "Mnet Entertainment",
+    "email": "production@mnet.co.za",
+    "phone": "+27-11-289-3000",
+    "address": "Randburg, Johannesburg",
+    "taxId": "TAX-ZA-2002",
+    "creditLimit": 750000.00,
+    "outstandingBalance": 200000.00
+  },
+  {
+    "id": "za-cust-003",
+    "customerName": "Castle Lite Marketing",
+    "email": "events@castlelite.co.za",
+    "phone": "+27-11-407-1700",
+    "address": "Sandton, Johannesburg",
+    "taxId": "TAX-ZA-2003",
+    "creditLimit": 1000000.00,
+    "outstandingBalance": 0.00
+  },
+  {
+    "id": "za-cust-004",
+    "customerName": "Vodacom Sponsorships",
+    "email": "sponsorships@vodacom.co.za",
+    "phone": "+27-82-135-0000",
+    "address": "Midrand, Gauteng",
+    "taxId": "TAX-ZA-2004",
+    "creditLimit": 2000000.00,
+    "outstandingBalance": 450000.00
+  },
+  {
+    "id": "za-cust-005",
+    "customerName": "MTN South Africa",
+    "email": "brand@mtn.co.za",
+    "phone": "+27-83-123-0000",
+    "address": "Fairland, Johannesburg",
+    "taxId": "TAX-ZA-2005",
+    "creditLimit": 1800000.00,
+    "outstandingBalance": 380000.00
+  },
+  {
+    "id": "za-cust-006",
+    "customerName": "Metro FM Events",
+    "email": "events@metrofm.co.za",
+    "phone": "+27-11-714-4444",
+    "address": "Auckland Park, Johannesburg",
+    "taxId": "TAX-ZA-2006",
+    "creditLimit": 600000.00,
+    "outstandingBalance": 155000.00
+  },
+  {
+    "id": "za-cust-007",
+    "customerName": "Channel O Productions",
+    "email": "bookings@channelo.co.za",
+    "phone": "+27-11-289-4000",
+    "address": "Randburg, Johannesburg",
+    "taxId": "TAX-ZA-2007",
+    "creditLimit": 450000.00,
+    "outstandingBalance": 95000.00
+  },
+  {
+    "id": "za-cust-008",
+    "customerName": "Durban July Committee",
+    "email": "entertainment@durbanjuly.co.za",
+    "phone": "+27-31-314-1500",
+    "address": "Durban, KwaZulu-Natal",
+    "taxId": "TAX-ZA-2008",
+    "creditLimit": 850000.00,
+    "outstandingBalance": 220000.00
+  },
+  {
+    "id": "za-cust-009",
+    "customerName": "Woolworths Marketing",
+    "email": "partnerships@woolworths.co.za",
+    "phone": "+27-21-407-9111",
+    "address": "Cape Town, Western Cape",
+    "taxId": "TAX-ZA-2009",
+    "creditLimit": 700000.00,
+    "outstandingBalance": 175000.00
+  },
+  {
+    "id": "za-cust-010",
+    "customerName": "Edgars Retail Group",
+    "email": "marketing@edgars.co.za",
+    "phone": "+27-11-495-9000",
+    "address": "Johannesburg, Gauteng",
+    "taxId": "TAX-ZA-2010",
+    "creditLimit": 550000.00,
+    "outstandingBalance": 135000.00
+  },
+  {
+    "id": "za-cust-011",
+    "customerName": "Spotify Africa",
+    "email": "artists@spotify.africa",
+    "phone": "+27-11-568-7000",
+    "address": "Rosebank, Johannesburg",
+    "taxId": "TAX-ZA-2011",
+    "creditLimit": 1200000.00,
+    "outstandingBalance": 325000.00
+  },
+  {
+    "id": "za-cust-012",
+    "customerName": "Apple Music Africa",
+    "email": "partnerships@applemusic.co.za",
+    "phone": "+27-11-245-7000",
+    "address": "Sandton, Johannesburg",
+    "taxId": "TAX-ZA-2012",
+    "creditLimit": 1500000.00,
+    "outstandingBalance": 410000.00
+  },
+  {
+    "id": "za-cust-013",
+    "customerName": "Makro Events & Promotions",
+    "email": "events@makro.co.za",
+    "phone": "+27-11-929-4000",
+    "address": "Strubens Valley, Gauteng",
+    "taxId": "TAX-ZA-2013",
+    "creditLimit": 400000.00,
+    "outstandingBalance": 88000.00
+  },
+  {
+    "id": "za-cust-014",
+    "customerName": "Nike South Africa",
+    "email": "sponsorships@nike.co.za",
+    "phone": "+27-11-305-8000",
+    "address": "Sunninghill, Johannesburg",
+    "taxId": "TAX-ZA-2014",
+    "creditLimit": 1100000.00,
+    "outstandingBalance": 290000.00
+  },
+  {
+    "id": "za-cust-015",
+    "customerName": "Adidas ZA Marketing",
+    "email": "partnerships@adidas.co.za",
+    "phone": "+27-11-254-8000",
+    "address": "Woodmead, Johannesburg",
+    "taxId": "TAX-ZA-2015",
+    "creditLimit": 950000.00,
+    "outstandingBalance": 245000.00
+  }
+]

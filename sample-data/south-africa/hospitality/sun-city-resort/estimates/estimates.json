@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "clientName": "Standard Bank South Africa Ltd",
+    "customerId": 2,
+    "description": "Annual Banking Sector Conference Package — Sun City Palace Hotel",
+    "status": "Accepted",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 180,
+    "estimateDateDaysAgo": 180,
+    "sentDateDaysAgo": 175,
+    "acceptedDateDaysAgo": 160,
+    "expirationDateDaysFromNow": -150,
+    "currency": "ZAR",
+    "subTotal": 750000.00,
+    "taxRate": 15.0,
+    "taxAmount": 112500.00,
+    "total": 862500.00,
+    "notes": "Accepted via email. Conference scheduled for February 2025. 50-delegate package including Palace Hotel accommodation.",
+    "lineItems": [
+      {
+        "description": "Conference Venue Hire — Palace Hotel Grand Ballroom (3 Days)",
+        "quantity": 3,
+        "unitPrice": 50000.00,
+        "amount": 150000.00
+      },
+      {
+        "description": "Accommodation — 50 Superior Rooms x 3 Nights",
+        "quantity": 150,
+        "unitPrice": 1800.00,
+        "amount": 270000.00
+      },
+      {
+        "description": "Full Board Catering — 50 Delegates x 3 Days",
+        "quantity": 150,
+        "unitPrice": 1200.00,
+        "amount": 180000.00
+      },
+      {
+        "description": "Professional AV & Production Equipment Package",
+        "quantity": 1,
+        "unitPrice": 75000.00,
+        "amount": 75000.00
+      },
+      {
+        "description": "Welcome Cocktail Function & Closing Gala Dinner",
+        "quantity": 1,
+        "unitPrice": 75000.00,
+        "amount": 75000.00
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "clientName": "Anglo American Mining SA",
+    "customerId": 7,
+    "description": "Anglo American Executive Corporate Golf Day — Gary Player Country Club",
+    "status": "Open",
+    "createdBy": "Events Coordinator",
+    "createdDateDaysAgo": 30,
+    "estimateDateDaysAgo": 30,
+    "sentDateDaysAgo": 25,
+    "acceptedDateDaysAgo": null,
+    "expirationDateDaysFromNow": 65,
+    "currency": "ZAR",
+    "subTotal": 150000.00,
+    "taxRate": 15.0,
+    "taxAmount": 22500.00,
+    "total": 172500.00,
+    "notes": "40-player corporate golf day at the Gary Player Country Club. Prize giving dinner included.",
+    "lineItems": [
+      {
+        "description": "Gary Player Country Club — Exclusive Corporate Golf Day Hire",
+        "quantity": 1,
+        "unitPrice": 65000.00,
+        "amount": 65000.00
+      },
+      {
+        "description": "Catering — Breakfast & Buffet Lunch (40 Players)",
+        "quantity": 40,
+        "unitPrice": 800.00,
+        "amount": 32000.00
+      },
+      {
+        "description": "Golf Cart Hire — 20 Carts (Full Day)",
+        "quantity": 20,
+        "unitPrice": 900.00,
+        "amount": 18000.00
+      },
+      {
+        "description": "Prize Giving 3-Course Dinner — 40 Pax",
+        "quantity": 40,
+        "unitPrice": 625.00,
+        "amount": 25000.00
+      },
+      {
+        "description": "Professional Caddie Service",
+        "quantity": 40,
+        "unitPrice": 250.00,
+        "amount": 10000.00
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "clientName": "RCL Foods Ltd",
+    "customerId": 9,
+    "description": "RCL Foods Year-End Gala Function & Awards Evening — Grand Ballroom",
+    "status": "Draft",
+    "createdBy": "General Manager",
+    "createdDateDaysAgo": 5,
+    "estimateDateDaysAgo": 5,
+    "sentDateDaysAgo": null,
+    "acceptedDateDaysAgo": null,
+    "expirationDateDaysFromNow": 85,
+    "currency": "ZAR",
+    "subTotal": 450000.00,
+    "taxRate": 15.0,
+    "taxAmount": 67500.00,
+    "total": 517500.00,
+    "notes": "Draft estimate for RCL Foods annual year-end gala and staff awards evening. 150-pax event.",
+    "lineItems": [
+      {
+        "description": "Grand Ballroom Venue Hire — Full Day & Evening Setup",
+        "quantity": 1,
+        "unitPrice": 120000.00,
+        "amount": 120000.00
+      },
+      {
+        "description": "3-Course Gala Dinner — 150 Delegates",
+        "quantity": 150,
+        "unitPrice": 900.00,
+        "amount": 135000.00
+      },
+      {
+        "description": "Accommodation — 25 Deluxe Rooms x 2 Nights",
+        "quantity": 50,
+        "unitPrice": 1800.00,
+        "amount": 90000.00
+      },
+      {
+        "description": "Premium Floral Arrangements & Event Decor",
+        "quantity": 1,
+        "unitPrice": 60000.00,
+        "amount": 60000.00
+      },
+      {
+        "description": "Live Entertainment & Professional DJ Package",
+        "quantity": 1,
+        "unitPrice": 45000.00,
+        "amount": 45000.00
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "clientName": "Old Mutual Ltd",
+    "customerId": 10,
+    "description": "Old Mutual Annual Awards Gala & Leadership Conference — Sun City Palace",
+    "status": "Sent",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 15,
+    "estimateDateDaysAgo": 15,
+    "sentDateDaysAgo": 12,
+    "acceptedDateDaysAgo": null,
+    "expirationDateDaysFromNow": 15,
+    "currency": "ZAR",
+    "subTotal": 1800000.00,
+    "taxRate": 15.0,
+    "taxAmount": 270000.00,
+    "total": 2070000.00,
+    "notes": "Premium 200-delegate conference and awards gala for Old Mutual leadership. Two-night residential package at Palace Hotel.",
+    "lineItems": [
+      {
+        "description": "Palace Hotel Conference Centre — Exclusive 2-Day Hire",
+        "quantity": 2,
+        "unitPrice": 150000.00,
+        "amount": 300000.00
+      },
+      {
+        "description": "Accommodation — 200 Palace Hotel Rooms x 2 Nights",
+        "quantity": 400,
+        "unitPrice": 2000.00,
+        "amount": 800000.00
+      },
+      {
+        "description": "Full Board Catering — 200 Delegates x 2 Days",
+        "quantity": 400,
+        "unitPrice": 1000.00,
+        "amount": 400000.00
+      },
+      {
+        "description": "Premium AV, LED Staging & Production Equipment (2 Days)",
+        "quantity": 2,
+        "unitPrice": 90000.00,
+        "amount": 180000.00
+      },
+      {
+        "description": "Celebrity Entertainment & Evening Gala Show",
+        "quantity": 1,
+        "unitPrice": 120000.00,
+        "amount": 120000.00
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "clientName": "Discovery Health Pty Ltd",
+    "customerId": 3,
+    "description": "Discovery Health Team Building & Wellness Conference — Sun City",
+    "status": "Expired",
+    "createdBy": "Events Coordinator",
+    "createdDateDaysAgo": 200,
+    "estimateDateDaysAgo": 200,
+    "sentDateDaysAgo": 195,
+    "acceptedDateDaysAgo": null,
+    "expirationDateDaysFromNow": -50,
+    "currency": "ZAR",
+    "subTotal": 320000.00,
+    "taxRate": 15.0,
+    "taxAmount": 48000.00,
+    "total": 368000.00,
+    "notes": "Estimate expired without response. Client rescheduled — new estimate to be issued for Q4 2025.",
+    "lineItems": [
+      {
+        "description": "Team Building Venue & Breakaway Rooms (Full Day)",
+        "quantity": 1,
+        "unitPrice": 80000.00,
+        "amount": 80000.00
+      },
+      {
+        "description": "Full Day Delegate Catering — 100 Pax",
+        "quantity": 100,
+        "unitPrice": 750.00,
+        "amount": 75000.00
+      },
+      {
+        "description": "Accommodation — 50 Superior Rooms x 2 Nights",
+        "quantity": 100,
+        "unitPrice": 950.00,
+        "amount": 95000.00
+      },
+      {
+        "description": "Activities Package — Valley of Waves, Golf & Spa Vouchers",
+        "quantity": 100,
+        "unitPrice": 500.00,
+        "amount": 50000.00
+      },
+      {
+        "description": "Return Airport Shuttle Transfer Service",
+        "quantity": 100,
+        "unitPrice": 200.00,
+        "amount": 20000.00
+      }
+    ]
+  }
+]

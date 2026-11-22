@@ -1,0 +1,130 @@
+{
+  "journals": [
+    {
+      "journalNumber": "GJ-8001",
+      "entityName": "Holding Company",
+      "entryType": "Elimination",
+      "description": "Eliminate intercompany receivable and payable",
+      "amount": 840000,
+      "currency": "ZMW",
+      "status": "Posted",
+      "intercompany": true,
+      "postedDate": "today-1"
+    },
+    {
+      "journalNumber": "GJ-8002",
+      "entityName": "Retail Subsidiary",
+      "entryType": "Reclassification",
+      "description": "Reclassify management fees to overhead",
+      "amount": 250000,
+      "currency": "ZMW",
+      "status": "Draft",
+      "intercompany": false,
+      "postedDate": null
+    },
+    {
+      "journalNumber": "GJ-8003",
+      "entityName": "Transport Subsidiary",
+      "entryType": "Elimination",
+      "description": "Remove intercompany freight charges",
+      "amount": 180000,
+      "currency": "ZMW",
+      "status": "Pending",
+      "intercompany": true,
+      "postedDate": null
+    }
+  ],
+  "cashFlows": [
+    {
+      "period": "2026-05",
+      "openingBalance": 12500000,
+      "inflows": 4200000,
+      "outflows": 3850000,
+      "netChange": 350000,
+      "closingBalance": 12850000
+    },
+    {
+      "period": "2026-06",
+      "openingBalance": 12850000,
+      "inflows": 4800000,
+      "outflows": 4620000,
+      "netChange": 180000,
+      "closingBalance": 13030000
+    },
+    {
+      "period": "2026-07",
+      "openingBalance": 13030000,
+      "inflows": 5100000,
+      "outflows": 4780000,
+      "netChange": 320000,
+      "closingBalance": 13350000
+    }
+  ],
+  "packs": [
+    {
+      "packCode": "GP-BRD",
+      "packName": "Group Board Pack",
+      "audience": "Board",
+      "sectionCount": 14,
+      "owner": "Group Finance",
+      "status": "Active",
+      "lastAssembledAt": "today-2",
+      "includesConsolidatedCashFlow": true,
+      "includesConsolidationJournals": true
+    },
+    {
+      "packCode": "GP-EXE",
+      "packName": "Executive Group Pack",
+      "audience": "Executive",
+      "sectionCount": 10,
+      "owner": "Group Controller",
+      "status": "Scheduled",
+      "lastAssembledAt": "today-4",
+      "includesConsolidatedCashFlow": true,
+      "includesConsolidationJournals": false
+    },
+    {
+      "packCode": "GP-MON",
+      "packName": "Monthly Finance Pack",
+      "audience": "Finance",
+      "sectionCount": 8,
+      "owner": "Reporting Analyst",
+      "status": "Draft",
+      "lastAssembledAt": "today-6",
+      "includesConsolidatedCashFlow": false,
+      "includesConsolidationJournals": true
+    }
+  ],
+  "chartMappings": [
+    {
+      "sourceEntity": "Retail Subsidiary",
+      "sourceAccount": "4100",
+      "groupAccount": "4100 - Intercompany Revenue",
+      "mappingType": "Revenue",
+      "status": "Mapped",
+      "owner": "Group Accountant"
+    },
+    {
+      "sourceEntity": "Transport Subsidiary",
+      "sourceAccount": "5200",
+      "groupAccount": "5200 - Freight Cost",
+      "mappingType": "Expense",
+      "status": "Review",
+      "owner": "Consolidation Lead"
+    },
+    {
+      "sourceEntity": "Holding Company",
+      "sourceAccount": "1300",
+      "groupAccount": "1300 - Intercompany Receivable",
+      "mappingType": "Balance Sheet",
+      "status": "Mapped",
+      "owner": "Group Controller"
+    }
+  ],
+  "workflowSteps": [
+    { "code": "lda", "title": "Load entity balances", "status": "Completed", "ownerRole": "Group Accountant", "details": "Bring all entity balances into the group view." },
+    { "code": "eli", "title": "Post elimination journals", "status": "InProgress", "ownerRole": "Consolidation Lead", "details": "Post intercompany eliminations and reclasses." },
+    { "code": "cf", "title": "Refresh group cash flow", "status": "InProgress", "ownerRole": "Treasury", "details": "Roll forward group cash flow forecast." },
+    { "code": "asm", "title": "Assemble management pack", "status": "Pending", "ownerRole": "Reporting Team", "details": "Combine journals, cash flow, and KPI sections into one pack." }
+  ]
+}

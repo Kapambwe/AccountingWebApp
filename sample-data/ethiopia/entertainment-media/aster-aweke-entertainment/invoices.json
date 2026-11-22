@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Alemu Entertainment Enterprises",
+    "description": "Concert Headlining Fee",
+    "invoiceDate": "2024-10-21T00:00:00",
+    "dueDate": "2024-11-05T00:00:00",
+    "amount": 1126692.38,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 1
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Desta Entertainment Solutions",
+    "description": "Merchandise Revenue",
+    "invoiceDate": "2024-09-22T00:00:00",
+    "dueDate": "2024-11-06T00:00:00",
+    "amount": 1990413.73,
+    "receivedAmount": 1990413.73,
+    "status": "Paid",
+    "customerId": 7
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Tadesse Productions Solutions",
+    "description": "Merchandise Revenue",
+    "invoiceDate": "2025-02-24T00:00:00",
+    "dueDate": "2025-03-11T00:00:00",
+    "amount": 1434134.97,
+    "receivedAmount": 769797.36,
+    "status": "PartiallyPaid",
+    "customerId": 9
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Desta Entertainment Solutions",
+    "description": "Endorsement Deal",
+    "invoiceDate": "2024-11-05T00:00:00",
+    "dueDate": "2025-01-04T00:00:00",
+    "amount": 1768587.74,
+    "receivedAmount": 1768587.74,
+    "status": "Paid",
+    "customerId": 7
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Desta Entertainment Solutions",
+    "description": "Collaboration Fee",
+    "invoiceDate": "2024-10-27T00:00:00",
+    "dueDate": "2024-11-11T00:00:00",
+    "amount": 1790764.01,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 7
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Tadesse Productions Solutions",
+    "description": "Performance Fee",
+    "invoiceDate": "2024-09-17T00:00:00",
+    "dueDate": "2024-11-16T00:00:00",
+    "amount": 1185971.51,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 9
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Girma Music Group Solutions",
+    "description": "Music Licensing",
+    "invoiceDate": "2024-09-23T00:00:00",
+    "dueDate": "2024-11-22T00:00:00",
+    "amount": 1713883.35,
+    "receivedAmount": 0.0,
+    "status": "Overdue",
+    "customerId": 8
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Tadesse Productions Solutions",
+    "description": "Brand Deal",
+    "invoiceDate": "2025-02-27T00:00:00",
+    "dueDate": "2025-04-13T00:00:00",
+    "amount": 639316.93,
+    "receivedAmount": 412318.3,
+    "status": "PartiallyPaid",
+    "customerId": 9
+  },
+  {
+    "id": 9,
+    "invoiceNumber": "INV-2025-009",
+    "clientName": "Selassie Media Co.",
+    "description": "Streaming Royalty",
+    "invoiceDate": "2025-01-23T00:00:00",
+    "dueDate": "2025-02-07T00:00:00",
+    "amount": 48520.55,
+    "receivedAmount": 48520.55,
+    "status": "Paid",
+    "customerId": 3
+  },
+  {
+    "id": 10,
+    "invoiceNumber": "INV-2025-010",
+    "clientName": "Fikre Music Group Solutions",
+    "description": "Collaboration Fee",
+    "invoiceDate": "2024-10-23T00:00:00",
+    "dueDate": "2024-11-07T00:00:00",
+    "amount": 306012.39,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 6
+  }
+]

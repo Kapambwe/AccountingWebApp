@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 13,
+    "customerName": "Nwosu Media Limited",
+    "estimateDateDaysAgo": 38,
+    "expirationDateDaysFromNow": 41,
+    "status": "Expired",
+    "subTotal": 6699426.55,
+    "taxRate": 15,
+    "taxAmount": 1004913.98,
+    "total": 7704340.53,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 38,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 1,
+        "unitPrice": 6699426.55,
+        "amount": 6699426.55,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 37
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 11,
+    "customerName": "Adeyemi Productions Enterprises",
+    "estimateDateDaysAgo": 30,
+    "expirationDateDaysFromNow": 24,
+    "status": "Declined",
+    "subTotal": 2220455.51,
+    "taxRate": 16,
+    "taxAmount": 355272.88,
+    "total": 2575728.39,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 30,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 2,
+        "unitPrice": 1110227.75,
+        "amount": 2220455.51,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 29
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 5,
+    "customerName": "Nwachukwu Music Group Holdings",
+    "estimateDateDaysAgo": 39,
+    "expirationDateDaysFromNow": 21,
+    "status": "Declined",
+    "subTotal": 5211608.58,
+    "taxRate": 15,
+    "taxAmount": 781741.29,
+    "total": 5993349.87,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 39,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 1,
+        "unitPrice": 5211608.58,
+        "amount": 5211608.58,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 38
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 11,
+    "customerName": "Adeyemi Productions Enterprises",
+    "estimateDateDaysAgo": 31,
+    "expirationDateDaysFromNow": 36,
+    "status": "Accepted",
+    "subTotal": 14592549.7,
+    "taxRate": 15,
+    "taxAmount": 2188882.46,
+    "total": 16781432.16,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 31,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 2,
+        "unitPrice": 7296274.85,
+        "amount": 14592549.7,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 30
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 8,
+    "customerName": "Anyanwu Productions Limited",
+    "estimateDateDaysAgo": 46,
+    "expirationDateDaysFromNow": 43,
+    "status": "Accepted",
+    "subTotal": 8939089.37,
+    "taxRate": 16,
+    "taxAmount": 1430254.3,
+    "total": 10369343.67,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 46,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 4,
+        "unitPrice": 2234772.34,
+        "amount": 8939089.37,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 45
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 2,
+    "customerName": "Adesanya Entertainment Limited",
+    "estimateDateDaysAgo": 23,
+    "expirationDateDaysFromNow": 44,
+    "status": "Expired",
+    "subTotal": 13164409.8,
+    "taxRate": 15,
+    "taxAmount": 1974661.47,
+    "total": 15139071.27,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 23,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 4,
+        "unitPrice": 3291102.45,
+        "amount": 13164409.8,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 22
+  }
+]

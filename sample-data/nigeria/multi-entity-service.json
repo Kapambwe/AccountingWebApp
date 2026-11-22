@@ -1,0 +1,106 @@
+[
+  {
+    "id": "ng-001",
+    "entityName": "Davido Music Worldwide",
+    "entityType": "Parent",
+    "taxId": "TPIN-NG-1001",
+    "baseCurrency": "NGN",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "ng-002",
+    "entityName": "DMW Records",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-NG-1002",
+    "baseCurrency": "NGN",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "ng-003",
+    "entityName": "Davido Properties & Investments",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-NG-1003",
+    "baseCurrency": "NGN",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "ng-004",
+    "entityName": "Wizkid Entertainment",
+    "entityType": "Parent",
+    "taxId": "TPIN-NG-1004",
+    "baseCurrency": "NGN",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "ng-005",
+    "entityName": "Starboy Entertainment",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-NG-1005",
+    "baseCurrency": "NGN",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "ng-006",
+    "entityName": "Burna Boy Holdings",
+    "entityType": "Parent",
+    "taxId": "TPIN-NG-1006",
+    "baseCurrency": "NGN",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "ng-007",
+    "entityName": "Spaceship Collective",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-NG-1007",
+    "baseCurrency": "NGN",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "ng-008",
+    "entityName": "Tiwa Savage Group",
+    "entityType": "Parent",
+    "taxId": "TPIN-NG-1008",
+    "baseCurrency": "NGN",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "ng-009",
+    "entityName": "323 Entertainment",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-NG-1009",
+    "baseCurrency": "NGN",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "ng-010",
+    "entityName": "Don Jazzy Enterprises",
+    "entityType": "Parent",
+    "taxId": "TPIN-NG-1010",
+    "baseCurrency": "NGN",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "ng-011",
+    "entityName": "Mavin Records",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-NG-1011",
+    "baseCurrency": "NGN",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "ng-012",
+    "entityName": "Yemi Alade Music Ltd",
+    "entityType": "Parent",
+    "taxId": "TPIN-NG-1012",
+    "baseCurrency": "NGN",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "ng-013",
+    "entityName": "Effyzzie Music Group",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-NG-1013",
+    "baseCurrency": "NGN",
+    "fiscalYearEnd": "12-31"
+  }
+]

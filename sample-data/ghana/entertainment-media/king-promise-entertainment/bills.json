@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Asiedu Creative Agency Holdings",
+    "description": "Studio Recording Session",
+    "billDate": "2024-09-26T00:00:00",
+    "dueDate": "2024-10-26T00:00:00",
+    "amount": 297433.41,
+    "paidAmount": 230918.31,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Asiedu Creative Agency Holdings",
+    "description": "Studio Recording Session",
+    "billDate": "2025-02-03T00:00:00",
+    "dueDate": "2025-03-20T00:00:00",
+    "amount": 263678.28,
+    "paidAmount": 263678.28,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Nkrumah Music Group Solutions",
+    "description": "Social Media Management",
+    "billDate": "2025-02-06T00:00:00",
+    "dueDate": "2025-02-21T00:00:00",
+    "amount": 196317.47,
+    "paidAmount": 196317.47,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Mensah Media Holdings",
+    "description": "Management Fee",
+    "billDate": "2024-10-17T00:00:00",
+    "dueDate": "2024-12-01T00:00:00",
+    "amount": 41731.8,
+    "paidAmount": 41731.8,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Mensah Media Enterprises",
+    "description": "Tour Logistics",
+    "billDate": "2025-03-12T00:00:00",
+    "dueDate": "2025-04-11T00:00:00",
+    "amount": 345732.01,
+    "paidAmount": 345732.01,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Ofori Creative Agency Enterprises",
+    "description": "Management Fee",
+    "billDate": "2025-03-02T00:00:00",
+    "dueDate": "2025-04-01T00:00:00",
+    "amount": 86327.12,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Asiedu Creative Agency Holdings",
+    "description": "Studio Recording Session",
+    "billDate": "2025-02-02T00:00:00",
+    "dueDate": "2025-03-19T00:00:00",
+    "amount": 61925.37,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mensah Media Enterprises",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-10-16T00:00:00",
+    "dueDate": "2024-10-31T00:00:00",
+    "amount": 309184.48,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Ofori Creative Agency Enterprises",
+    "description": "Music Video Production",
+    "billDate": "2025-02-28T00:00:00",
+    "dueDate": "2025-03-30T00:00:00",
+    "amount": 193833.48,
+    "paidAmount": 153302.52,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Asiedu Creative Agency Holdings",
+    "description": "Tour Logistics",
+    "billDate": "2025-02-12T00:00:00",
+    "dueDate": "2025-02-27T00:00:00",
+    "amount": 218631.67,
+    "paidAmount": 218631.67,
+    "status": "Paid"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Akufo-Addo Media Limited",
+    "description": "Travel & Accommodation",
+    "billDate": "2024-11-22T00:00:00",
+    "dueDate": "2025-01-06T00:00:00",
+    "amount": 42770.9,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Akufo-Addo Media Limited",
+    "description": "Music Video Production",
+    "billDate": "2024-11-01T00:00:00",
+    "dueDate": "2024-12-01T00:00:00",
+    "amount": 279000.12,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Ofori Creative Agency Enterprises",
+    "description": "Management Fee",
+    "billDate": "2024-09-30T00:00:00",
+    "dueDate": "2024-10-30T00:00:00",
+    "amount": 288412.43,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  }
+]

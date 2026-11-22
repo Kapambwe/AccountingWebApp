@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Mengistu Productions Limited",
+    "description": "Streaming Royalty",
+    "invoiceDate": "2024-09-20T00:00:00",
+    "dueDate": "2024-11-04T00:00:00",
+    "amount": 678137.56,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 6
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Mengistu Productions Limited",
+    "description": "Music Licensing",
+    "invoiceDate": "2024-09-18T00:00:00",
+    "dueDate": "2024-11-17T00:00:00",
+    "amount": 1105462.5,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 6
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Bekele Productions Enterprises",
+    "description": "Performance Fee",
+    "invoiceDate": "2024-12-10T00:00:00",
+    "dueDate": "2024-12-25T00:00:00",
+    "amount": 183321.49,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 3
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Mengistu Productions Limited",
+    "description": "Streaming Royalty",
+    "invoiceDate": "2024-11-05T00:00:00",
+    "dueDate": "2024-12-20T00:00:00",
+    "amount": 1862476.43,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 6
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Bekele Productions Enterprises",
+    "description": "Performance Fee",
+    "invoiceDate": "2024-12-11T00:00:00",
+    "dueDate": "2025-02-09T00:00:00",
+    "amount": 872584.27,
+    "receivedAmount": 872584.27,
+    "status": "Paid",
+    "customerId": 3
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Mekonen Media Limited",
+    "description": "Concert Headlining Fee",
+    "invoiceDate": "2024-11-11T00:00:00",
+    "dueDate": "2024-12-26T00:00:00",
+    "amount": 1014271.08,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 8
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Mengistu Productions Limited",
+    "description": "Endorsement Deal",
+    "invoiceDate": "2024-11-11T00:00:00",
+    "dueDate": "2024-12-11T00:00:00",
+    "amount": 1432316.42,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 6
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Bekele Entertainment Ltd",
+    "description": "Concert Headlining Fee",
+    "invoiceDate": "2025-01-27T00:00:00",
+    "dueDate": "2025-02-26T00:00:00",
+    "amount": 1143308.33,
+    "receivedAmount": 480156.46,
+    "status": "PartiallyPaid",
+    "customerId": 5
+  },
+  {
+    "id": 9,
+    "invoiceNumber": "INV-2025-009",
+    "clientName": "Desta Creative Agency Solutions",
+    "description": "Streaming Royalty",
+    "invoiceDate": "2025-03-01T00:00:00",
+    "dueDate": "2025-03-16T00:00:00",
+    "amount": 1419041.57,
+    "receivedAmount": 1419041.57,
+    "status": "Paid",
+    "customerId": 4
+  },
+  {
+    "id": 10,
+    "invoiceNumber": "INV-2025-010",
+    "clientName": "Mekonen Creative Agency Enterprises",
+    "description": "Endorsement Deal",
+    "invoiceDate": "2024-11-28T00:00:00",
+    "dueDate": "2025-01-27T00:00:00",
+    "amount": 96806.7,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 7
+  }
+]
